@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lecture Notes – ANTH418: Anthropological Statistics</title>
+<title>Lecture Notes – ARCL305: Archaeological Interpretation</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -45,7 +45,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-7ff37d7dbb752a0b62676bb39137b3a2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-7483f8627d4f1600aaea63c08191c6f4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -87,7 +87,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">ANTH418: Anthropological Statistics</span>
+    <span class="navbar-title">ARCL305: Archaeological Interpretation</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -114,24 +114,56 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-study-guides">    
         <li>
+    <a class="dropdown-item" href="../weeks/week01.html">
+ <span class="dropdown-text">Week 1 — Introduction and the Discipline of Archaeology</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../weeks/week02.html">
- <span class="dropdown-text">Week 2 — R, RStudio &amp; Quarto</span></a>
+ <span class="dropdown-text">Week 2 — Archaeological Evidence</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../weeks/week03.html">
- <span class="dropdown-text">Week 3 — Measurement &amp; Research Design</span></a>
+ <span class="dropdown-text">Week 3 — What Is Theory in Archaeology?</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../weeks/week04.html">
- <span class="dropdown-text">Week 4 — Central Tendency &amp; Dispersion</span></a>
+ <span class="dropdown-text">Week 4 — Culture History</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../weeks/week05.html">
- <span class="dropdown-text">Week 5 — EDA &amp; Visualization</span></a>
+ <span class="dropdown-text">Week 5 — Theoretical Pluralism</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../weeks/week06.html">
- <span class="dropdown-text">Week 6 — Transformation &amp; Missing Data</span></a>
+ <span class="dropdown-text">Week 6 — Explanation and Making Arguments</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../weeks/week07.html">
+ <span class="dropdown-text">Week 7 — Material Culture and Materiality</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../weeks/week08.html">
+ <span class="dropdown-text">Week 8 — Technology, Skill, and Practice</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../weeks/week09.html">
+ <span class="dropdown-text">Week 9 — Mobility, Migration, and Networks</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../weeks/week11.html">
+ <span class="dropdown-text">Week 11 — Food, Cuisine, and Feasting</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../weeks/week12.html">
+ <span class="dropdown-text">Week 12 — Urbanism and Urban Diversity</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../weeks/week13.html">
+ <span class="dropdown-text">Week 13 — Collaborative and Indigenous Archaeologies</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../weeks/week14.html">
+ <span class="dropdown-text">Week 14 — Cognition, Mind, and Material Engagement</span></a>
   </li>  
     </ul>
   </li>
@@ -163,20 +195,20 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#week-1-introduction" id="toc-week-1-introduction" class="nav-link active" data-scroll-target="#week-1-introduction">Week 1 — Introduction</a></li>
-  <li><a href="#week-2-using-r-rstudio-and-quarto" id="toc-week-2-using-r-rstudio-and-quarto" class="nav-link" data-scroll-target="#week-2-using-r-rstudio-and-quarto">Week 2 — Using R, RStudio, and Quarto</a></li>
-  <li><a href="#week-3-variables-measurement-and-research-design" id="toc-week-3-variables-measurement-and-research-design" class="nav-link" data-scroll-target="#week-3-variables-measurement-and-research-design">Week 3 — Variables, Measurement, and Research Design</a></li>
-  <li><a href="#week-4" id="toc-week-4" class="nav-link" data-scroll-target="#week-4">Week 4</a></li>
-  <li><a href="#week-5" id="toc-week-5" class="nav-link" data-scroll-target="#week-5">Week 5</a></li>
-  <li><a href="#week-6" id="toc-week-6" class="nav-link" data-scroll-target="#week-6">Week 6</a></li>
-  <li><a href="#week-7" id="toc-week-7" class="nav-link" data-scroll-target="#week-7">Week 7</a></li>
-  <li><a href="#week-8" id="toc-week-8" class="nav-link" data-scroll-target="#week-8">Week 8</a></li>
-  <li><a href="#week-9" id="toc-week-9" class="nav-link" data-scroll-target="#week-9">Week 9</a></li>
-  <li><a href="#week-10" id="toc-week-10" class="nav-link" data-scroll-target="#week-10">Week 10</a></li>
-  <li><a href="#week-11" id="toc-week-11" class="nav-link" data-scroll-target="#week-11">Week 11</a></li>
-  <li><a href="#week-12" id="toc-week-12" class="nav-link" data-scroll-target="#week-12">Week 12</a></li>
-  <li><a href="#week-13" id="toc-week-13" class="nav-link" data-scroll-target="#week-13">Week 13</a></li>
-  <li><a href="#week-14" id="toc-week-14" class="nav-link" data-scroll-target="#week-14">Week 14</a></li>
+  <li><a href="#week-1-introduction-and-the-discipline-of-archaeology" id="toc-week-1-introduction-and-the-discipline-of-archaeology" class="nav-link active" data-scroll-target="#week-1-introduction-and-the-discipline-of-archaeology">Week 1 — Introduction and the Discipline of Archaeology</a></li>
+  <li><a href="#week-2-archaeological-evidence" id="toc-week-2-archaeological-evidence" class="nav-link" data-scroll-target="#week-2-archaeological-evidence">Week 2 — Archaeological Evidence</a></li>
+  <li><a href="#week-3-what-is-theory-in-archaeology" id="toc-week-3-what-is-theory-in-archaeology" class="nav-link" data-scroll-target="#week-3-what-is-theory-in-archaeology">Week 3 — What Is Theory in Archaeology?</a></li>
+  <li><a href="#week-4-culture-history" id="toc-week-4-culture-history" class="nav-link" data-scroll-target="#week-4-culture-history">Week 4 — Culture History</a></li>
+  <li><a href="#week-5-theoretical-pluralism" id="toc-week-5-theoretical-pluralism" class="nav-link" data-scroll-target="#week-5-theoretical-pluralism">Week 5 — Theoretical Pluralism</a></li>
+  <li><a href="#week-6-explanation-and-making-arguments" id="toc-week-6-explanation-and-making-arguments" class="nav-link" data-scroll-target="#week-6-explanation-and-making-arguments">Week 6 — Explanation and Making Arguments</a></li>
+  <li><a href="#week-7-material-culture-and-materiality" id="toc-week-7-material-culture-and-materiality" class="nav-link" data-scroll-target="#week-7-material-culture-and-materiality">Week 7 — Material Culture and Materiality</a></li>
+  <li><a href="#week-8-technology-skill-and-practice" id="toc-week-8-technology-skill-and-practice" class="nav-link" data-scroll-target="#week-8-technology-skill-and-practice">Week 8 — Technology, Skill, and Practice</a></li>
+  <li><a href="#week-9-mobility-migration-and-networks" id="toc-week-9-mobility-migration-and-networks" class="nav-link" data-scroll-target="#week-9-mobility-migration-and-networks">Week 9 — Mobility, Migration, and Networks</a></li>
+  <li><a href="#week-10-midterm-break" id="toc-week-10-midterm-break" class="nav-link" data-scroll-target="#week-10-midterm-break">Week 10 — Midterm Break</a></li>
+  <li><a href="#week-11-food-cuisine-and-feasting" id="toc-week-11-food-cuisine-and-feasting" class="nav-link" data-scroll-target="#week-11-food-cuisine-and-feasting">Week 11 — Food, Cuisine, and Feasting</a></li>
+  <li><a href="#week-12-urbanism-and-urban-diversity" id="toc-week-12-urbanism-and-urban-diversity" class="nav-link" data-scroll-target="#week-12-urbanism-and-urban-diversity">Week 12 — Urbanism and Urban Diversity</a></li>
+  <li><a href="#week-13-collaborative-and-indigenous-archaeologies" id="toc-week-13-collaborative-and-indigenous-archaeologies" class="nav-link" data-scroll-target="#week-13-collaborative-and-indigenous-archaeologies">Week 13 — Collaborative and Indigenous Archaeologies</a></li>
+  <li><a href="#week-14-cognition-mind-and-material-engagement" id="toc-week-14-cognition-mind-and-material-engagement" class="nav-link" data-scroll-target="#week-14-cognition-mind-and-material-engagement">Week 14 — Cognition, Mind, and Material Engagement</a></li>
   </ul>
 </nav>
     </div>
@@ -186,7 +218,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Lecture Notes</h1>
-<p class="subtitle lead">Weekly Monday lectures</p>
+<p class="subtitle lead">ARCL305: Archaeological Interpretation</p>
 </div>
 
 
@@ -203,83 +235,63 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Each Monday lecture introduces the main statistical concepts and methods for the week.</p>
-<p>The lecture notes are distributed through <strong>Canvas</strong>. The links below take you directly to the corresponding lecture materials.</p>
-<p>The Wednesday Study Guides and practice materials are available separately under <a href="../weeks/week02.html">Study Guides</a>.</p>
-<section id="week-1-introduction" class="level2">
-<h2 class="anchored" data-anchor-id="week-1-introduction">Week 1 — Introduction</h2>
-<p><strong>Monday lecture:</strong> Introduction to Anthropological Statistics</p>
-<p><a href="https://canvas.ubc.ca/courses/190813/files/48077965?module_item_id=9753622">Open Week 1 Introduction</a></p>
-<hr>
+<p>This section provides lecture presentations and supporting lecture materials for <strong>ARCL305: Archaeological Interpretation</strong>.</p>
+<p>Materials will be added as the course progresses.</p>
+<section id="week-1-introduction-and-the-discipline-of-archaeology" class="level2">
+<h2 class="anchored" data-anchor-id="week-1-introduction-and-the-discipline-of-archaeology">Week 1 — Introduction and the Discipline of Archaeology</h2>
+<p>Lecture materials forthcoming.</p>
 </section>
-<section id="week-2-using-r-rstudio-and-quarto" class="level2">
-<h2 class="anchored" data-anchor-id="week-2-using-r-rstudio-and-quarto">Week 2 — Using R, RStudio, and Quarto</h2>
-<p><strong>Monday lecture:</strong> Using R, RStudio, and Quarto</p>
-<p><a href="https://canvas.ubc.ca/courses/190813/files/48093707?module_item_id=9755286">Open Week 2 Using R, RStudio, and Quarto</a></p>
-<p><a href="../weeks/week02.html">Open Week 2 Study Guide</a></p>
-<hr>
+<section id="week-2-archaeological-evidence" class="level2">
+<h2 class="anchored" data-anchor-id="week-2-archaeological-evidence">Week 2 — Archaeological Evidence</h2>
+<p>Lecture materials forthcoming.</p>
 </section>
-<section id="week-3-variables-measurement-and-research-design" class="level2">
-<h2 class="anchored" data-anchor-id="week-3-variables-measurement-and-research-design">Week 3 — Variables, Measurement, and Research Design</h2>
-<p><strong>Monday lecture:</strong> Variables, Measurement, and Research Design</p>
-<p><a href="https://canvas.ubc.ca/courses/190813/files/48283716?module_item_id=9777077">Open Week 3 Measurement and Research Design</a></p>
-<p><a href="../weeks/week03.html">Open Week 3 Study Guide</a></p>
-<hr>
+<section id="week-3-what-is-theory-in-archaeology" class="level2">
+<h2 class="anchored" data-anchor-id="week-3-what-is-theory-in-archaeology">Week 3 — What Is Theory in Archaeology?</h2>
+<p>Lecture materials forthcoming.</p>
 </section>
-<section id="week-4" class="level2">
-<h2 class="anchored" data-anchor-id="week-4">Week 4</h2>
-<p><strong>Monday lecture:</strong> To be added</p>
-<p>Lecture notes will be posted on Canvas.</p>
-<hr>
+<section id="week-4-culture-history" class="level2">
+<h2 class="anchored" data-anchor-id="week-4-culture-history">Week 4 — Culture History</h2>
+<p>Lecture materials forthcoming.</p>
 </section>
-<section id="week-5" class="level2">
-<h2 class="anchored" data-anchor-id="week-5">Week 5</h2>
-<p>Lecture notes will be posted on Canvas.</p>
-<hr>
+<section id="week-5-theoretical-pluralism" class="level2">
+<h2 class="anchored" data-anchor-id="week-5-theoretical-pluralism">Week 5 — Theoretical Pluralism</h2>
+<p>Lecture materials forthcoming.</p>
 </section>
-<section id="week-6" class="level2">
-<h2 class="anchored" data-anchor-id="week-6">Week 6</h2>
-<p>Lecture notes will be posted on Canvas.</p>
-<hr>
+<section id="week-6-explanation-and-making-arguments" class="level2">
+<h2 class="anchored" data-anchor-id="week-6-explanation-and-making-arguments">Week 6 — Explanation and Making Arguments</h2>
+<p>Lecture materials forthcoming.</p>
 </section>
-<section id="week-7" class="level2">
-<h2 class="anchored" data-anchor-id="week-7">Week 7</h2>
-<p>Lecture notes will be posted on Canvas.</p>
-<hr>
+<section id="week-7-material-culture-and-materiality" class="level2">
+<h2 class="anchored" data-anchor-id="week-7-material-culture-and-materiality">Week 7 — Material Culture and Materiality</h2>
+<p>Lecture materials forthcoming.</p>
 </section>
-<section id="week-8" class="level2">
-<h2 class="anchored" data-anchor-id="week-8">Week 8</h2>
-<p>Lecture notes will be posted on Canvas.</p>
-<hr>
+<section id="week-8-technology-skill-and-practice" class="level2">
+<h2 class="anchored" data-anchor-id="week-8-technology-skill-and-practice">Week 8 — Technology, Skill, and Practice</h2>
+<p>Lecture materials forthcoming.</p>
 </section>
-<section id="week-9" class="level2">
-<h2 class="anchored" data-anchor-id="week-9">Week 9</h2>
-<p>Lecture notes will be posted on Canvas.</p>
-<hr>
+<section id="week-9-mobility-migration-and-networks" class="level2">
+<h2 class="anchored" data-anchor-id="week-9-mobility-migration-and-networks">Week 9 — Mobility, Migration, and Networks</h2>
+<p>Lecture materials forthcoming.</p>
 </section>
-<section id="week-10" class="level2">
-<h2 class="anchored" data-anchor-id="week-10">Week 10</h2>
-<p>Lecture notes will be posted on Canvas.</p>
-<hr>
+<section id="week-10-midterm-break" class="level2">
+<h2 class="anchored" data-anchor-id="week-10-midterm-break">Week 10 — Midterm Break</h2>
+<p>No regular instructional materials.</p>
 </section>
-<section id="week-11" class="level2">
-<h2 class="anchored" data-anchor-id="week-11">Week 11</h2>
-<p>Lecture notes will be posted on Canvas.</p>
-<hr>
+<section id="week-11-food-cuisine-and-feasting" class="level2">
+<h2 class="anchored" data-anchor-id="week-11-food-cuisine-and-feasting">Week 11 — Food, Cuisine, and Feasting</h2>
+<p>Lecture materials forthcoming.</p>
 </section>
-<section id="week-12" class="level2">
-<h2 class="anchored" data-anchor-id="week-12">Week 12</h2>
-<p>Lecture notes will be posted on Canvas.</p>
-<hr>
+<section id="week-12-urbanism-and-urban-diversity" class="level2">
+<h2 class="anchored" data-anchor-id="week-12-urbanism-and-urban-diversity">Week 12 — Urbanism and Urban Diversity</h2>
+<p>Lecture materials forthcoming.</p>
 </section>
-<section id="week-13" class="level2">
-<h2 class="anchored" data-anchor-id="week-13">Week 13</h2>
-<p>Lecture notes will be posted on Canvas.</p>
-<hr>
+<section id="week-13-collaborative-and-indigenous-archaeologies" class="level2">
+<h2 class="anchored" data-anchor-id="week-13-collaborative-and-indigenous-archaeologies">Week 13 — Collaborative and Indigenous Archaeologies</h2>
+<p>Lecture materials forthcoming.</p>
 </section>
-<section id="week-14" class="level2">
-<h2 class="anchored" data-anchor-id="week-14">Week 14</h2>
-<p>Lecture notes will be posted on Canvas.</p>
+<section id="week-14-cognition-mind-and-material-engagement" class="level2">
+<h2 class="anchored" data-anchor-id="week-14-cognition-mind-and-material-engagement">Week 14 — Cognition, Mind, and Material Engagement</h2>
+<p>Lecture materials forthcoming.</p>
 
 
 </section>

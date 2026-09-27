@@ -1,105 +1,65 @@
 ---
 title: "Lecture Notes"
-subtitle: "Weekly Monday lectures"
+subtitle: "ARCL305: Archaeological Interpretation"
 toc: true
 ---
 
-Each Monday lecture introduces the main statistical concepts and methods for the week.
+This section provides lecture presentations and supporting lecture materials for **ARCL305: Archaeological Interpretation**.
 
-The lecture notes are distributed through **Canvas**. The links below take you directly to the corresponding lecture materials.
+Materials will be added as the course progresses.
 
-The Wednesday Study Guides and practice materials are available separately under [Study Guides](../weeks/week02.qmd).
+## Week 1 — Introduction and the Discipline of Archaeology
 
-## Week 1 — Introduction
+Lecture materials forthcoming.
 
-**Monday lecture:** Introduction to Anthropological Statistics
+## Week 2 — Archaeological Evidence
 
-[Open Week 1 Introduction](https://canvas.ubc.ca/courses/190813/files/48077965?module_item_id=9753622)
+Lecture materials forthcoming.
 
-------------------------------------------------------------------------
+## Week 3 — What Is Theory in Archaeology?
 
-## Week 2 — Using R, RStudio, and Quarto
+Lecture materials forthcoming.
 
-**Monday lecture:** Using R, RStudio, and Quarto
+## Week 4 — Culture History
 
-[Open Week 2 Using R, RStudio, and Quarto](https://canvas.ubc.ca/courses/190813/files/48093707?module_item_id=9755286)
+Lecture materials forthcoming.
 
-[Open Week 2 Study Guide](../weeks/week02.qmd)
+## Week 5 — Theoretical Pluralism
 
-------------------------------------------------------------------------
+Lecture materials forthcoming.
 
-## Week 3 — Variables, Measurement, and Research Design
+## Week 6 — Explanation and Making Arguments
 
-**Monday lecture:** Variables, Measurement, and Research Design
+Lecture materials forthcoming.
 
-[Open Week 3 Measurement and Research Design](https://canvas.ubc.ca/courses/190813/files/48283716?module_item_id=9777077)
+## Week 7 — Material Culture and Materiality
 
-[Open Week 3 Study Guide](../weeks/week03.qmd)
+Lecture materials forthcoming.
 
-------------------------------------------------------------------------
+## Week 8 — Technology, Skill, and Practice
 
-## Week 4
+Lecture materials forthcoming.
 
-**Monday lecture:** To be added
+## Week 9 — Mobility, Migration, and Networks
 
-Lecture notes will be posted on Canvas.
+Lecture materials forthcoming.
 
-------------------------------------------------------------------------
+## Week 10 — Midterm Break
 
-## Week 5
+No regular instructional materials.
 
-Lecture notes will be posted on Canvas.
+## Week 11 — Food, Cuisine, and Feasting
 
-------------------------------------------------------------------------
+Lecture materials forthcoming.
 
-## Week 6
+## Week 12 — Urbanism and Urban Diversity
 
-Lecture notes will be posted on Canvas.
+Lecture materials forthcoming.
 
-------------------------------------------------------------------------
+## Week 13 — Collaborative and Indigenous Archaeologies
 
-## Week 7
+Lecture materials forthcoming.
 
-Lecture notes will be posted on Canvas.
+## Week 14 — Cognition, Mind, and Material Engagement
 
-------------------------------------------------------------------------
-
-## Week 8
-
-Lecture notes will be posted on Canvas.
-
-------------------------------------------------------------------------
-
-## Week 9
-
-Lecture notes will be posted on Canvas.
-
-------------------------------------------------------------------------
-
-## Week 10
-
-Lecture notes will be posted on Canvas.
-
-------------------------------------------------------------------------
-
-## Week 11
-
-Lecture notes will be posted on Canvas.
-
-------------------------------------------------------------------------
-
-## Week 12
-
-Lecture notes will be posted on Canvas.
-
-------------------------------------------------------------------------
-
-## Week 13
-
-Lecture notes will be posted on Canvas.
-
-------------------------------------------------------------------------
-
-## Week 14
-
-Lecture notes will be posted on Canvas.
+Lecture materials forthcoming.

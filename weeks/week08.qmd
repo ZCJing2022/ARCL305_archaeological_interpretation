@@ -1,5 +1,5 @@
 ---
-title: "Week 3 — What Is Theory in Archaeology?"
+title: "Week 8 — Technology, Skill, and Practice"
 toc: true
 ---
 

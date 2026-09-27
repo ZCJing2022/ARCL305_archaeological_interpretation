@@ -1,21 +1,28 @@
-website: title: "ANTH418: Anthropological Statistics"
+---
+title: "Readings"
+subtitle: "ARCL305: Archaeological Interpretation"
+toc: true
+---
 
-navbar: background: light left: - href: index.qmd text: Home
+Required and optional readings are organized by week in the [course syllabus](../syllabus.qmd).
 
-```
-  - href: syllabus.qmd
-    text: Syllabus
+Two readings are normally required for each instructional week. Additional readings are provided for students who wish to explore a topic further, prepare for discussion, or develop a research essay.
 
-  - text: Study Guides
-    menu:
-      - href: weeks/week02.qmd
-        text: "Week 2 — R, RStudio & Quarto"
+## Access to readings
 
-  - href: assignments/index.qmd
-    text: Assignments
+Required reading files are provided through **Canvas**.
 
-  - href: resources/index.qmd
-    text: Resources
-```
+This public course website does not reproduce copyrighted books, chapters, or journal articles unless distribution is otherwise permitted.
 
-search: true page-navigation: true back-to-top-navigation: true
+## Using the readings
+
+Students should complete the required readings before discussion sessions.
+
+Across the course, reading and discussion repeatedly return to four questions:
+
+1. What is the author's main claim?
+2. What evidence supports it?
+3. What theoretical assumptions connect the evidence to the interpretation?
+4. What alternative interpretation might also account for the evidence?
+
+The weekly [Study Guides](../weeks/week01.qmd) provide additional guidance for working with the readings.

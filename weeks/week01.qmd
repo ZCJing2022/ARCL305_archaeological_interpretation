@@ -1,5 +1,5 @@
 ---
-title: "Week 3 — What Is Theory in Archaeology?"
+title: "Week 1 — Introduction and the Discipline of Archaeology"
 toc: true
 ---
 

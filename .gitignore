@@ -1,7 +1,7 @@
 # macOS
 .DS_Store
 
-# R / RStudio
+# Local R project files
 .Rhistory
 .RData
 .Ruserdata

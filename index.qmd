@@ -1,32 +1,41 @@
 ---
-title: "ANTH418: Anthropological Statistics"
+title: "ARCL305: Archaeological Interpretation"
 subtitle: "University of British Columbia · 2026–2027 Term 1"
 toc: false
 ---
 
-Welcome to **ANTH418: Anthropological Statistics**.
+Welcome to **ARCL305: Archaeological Interpretation**.
 
-This course develops practical statistical thinking for archaeology and anthropology through real research datasets, R, RStudio, and Quarto.
+This course examines how archaeologists construct, evaluate, and revise interpretations of the human past. Throughout the course, we focus on the relationship between archaeological evidence, theory, reasoning, and explanation.
 
-::: {.callout-note title="Course workflow"}
-**inspect and prepare → describe → visualize → analyze → visualize the result → interpret**
+::: {.callout-note title="A recurring question"}
+**What is the claim → what evidence supports it → what assumptions connect evidence to interpretation → what alternative interpretation might also account for the evidence?**
 :::
 
 ## Start here
 
 - [Course Syllabus](syllabus.qmd)
+- [Lecture Notes](lecture-notes/index.qmd)
 - **Study Guides**
-  - [Week 2 — Using R, RStudio, and Quarto](weeks/week02.qmd)
-  - [Week 3 — Measurement and Research Design](weeks/week03.qmd)
-  - [Week 4 — Measures of Central Tendency and Dispersion](weeks/week04.qmd)
-  - [Week 5 — Exploratory Data Analysis and Visualization](weeks/week05.qmd)
-  - [Week 6 — Data Transformation and Missing Values](weeks/week06.qmd)
-
+  - [Week 1 — Introduction and the Discipline of Archaeology](weeks/week01.qmd)
+  - [Week 2 — Archaeological Evidence](weeks/week02.qmd)
+  - [Week 3 — What Is Theory in Archaeology?](weeks/week03.qmd)
+  - [Week 4 — Culture History](weeks/week04.qmd)
+  - [Week 5 — Theoretical Pluralism](weeks/week05.qmd)
+  - [Week 6 — Explanation and Making Arguments](weeks/week06.qmd)
+  - [Week 7 — Material Culture and Materiality](weeks/week07.qmd)
+  - [Week 8 — Technology, Skill, and Practice](weeks/week08.qmd)
+  - [Week 9 — Mobility, Migration, and Networks](weeks/week09.qmd)
+  - [Week 11 — Food, Cuisine, and Feasting](weeks/week11.qmd)
+  - [Week 12 — Urbanism and Urban Diversity](weeks/week12.qmd)
+  - [Week 13 — Collaborative and Indigenous Archaeologies](weeks/week13.qmd)
+  - [Week 14 — Cognition, Mind, and Material Engagement](weeks/week14.qmd)
 - [Assignments](assignments/index.qmd)
-- [R, RStudio & Quarto Resources](resources/index.qmd)
+- [Readings](readings/index.qmd)
+- [Resources](resources/index.qmd)
 
-## Course platforms
+## Course materials
 
-**This website** contains study guides, readings, assignment materials, datasets, and reproducible computational resources.
+**This website** contains the syllabus, lecture materials, weekly study guides, assignment materials, readings information, and course resources.
 
-**Canvas** remains the official location for announcements, deadlines, assignment submissions, grades, and individual course communications.
+**Canvas** remains the official location for announcements, deadlines, assignment submissions, grades, required reading files, and individual course communications.

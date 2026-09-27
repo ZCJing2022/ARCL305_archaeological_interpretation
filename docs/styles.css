@@ -1,27 +1,27 @@
-/* ANTH418: intentionally restrained so the site remains close to the
+/* ARCL305: intentionally restrained so the site remains close to the
    default Quarto appearance used by the syllabus. */
 
 :root {
-  --anth418-ink: #1a1a1a;
-  --anth418-muted: #5f6670;
-  --anth418-line: #e6e8eb;
-  --anth418-accent: #0b7285;
-  --anth418-soft: #f7f9fa;
+  --arcl305-ink: #1a1a1a;
+  --arcl305-muted: #5f6670;
+  --arcl305-line: #e6e8eb;
+  --arcl305-accent: #0b7285;
+  --arcl305-soft: #f7f9fa;
 }
 
 body {
-  color: var(--anth418-ink);
+  color: var(--arcl305-ink);
 }
 
 .quarto-title .subtitle {
-  color: var(--anth418-muted);
+  color: var(--arcl305-muted);
 }
 
 .week-meta {
   padding: 0.8rem 1rem;
   margin: 1rem 0 1.5rem 0;
-  border-left: 4px solid var(--anth418-accent);
-  background: var(--anth418-soft);
+  border-left: 4px solid var(--arcl305-accent);
+  background: var(--arcl305-soft);
 }
 
 .workflow {
@@ -29,8 +29,8 @@ body {
   text-align: center;
   padding: 0.8rem 1rem;
   margin: 1.2rem 0;
-  border-top: 1px solid var(--anth418-line);
-  border-bottom: 1px solid var(--anth418-line);
+  border-top: 1px solid var(--arcl305-line);
+  border-bottom: 1px solid var(--arcl305-line);
 }
 
 .key-idea {
@@ -38,7 +38,7 @@ body {
 }
 
 .exercise {
-  border-left: 3px solid var(--anth418-line);
+  border-left: 3px solid var(--arcl305-line);
   padding-left: 1rem;
   margin: 1rem 0;
 }

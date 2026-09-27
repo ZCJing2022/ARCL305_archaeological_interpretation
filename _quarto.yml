@@ -7,24 +7,28 @@ project:
     - index.qmd
     - syllabus.qmd
     - lecture-notes/index.qmd
+    - weeks/week01.qmd
     - weeks/week02.qmd
     - weeks/week03.qmd
     - weeks/week04.qmd
     - weeks/week05.qmd
     - weeks/week06.qmd
+    - weeks/week07.qmd
+    - weeks/week08.qmd
+    - weeks/week09.qmd
+    - weeks/week11.qmd
+    - weeks/week12.qmd
+    - weeks/week13.qmd
+    - weeks/week14.qmd
     - assignments/index.qmd
-    - assignments/assignment01_knipper_descriptive/assignment01_knipper_descriptive.qmd
-    - assignments/assignment02_kinbank_visualization/assignment02_kinbank_visualization.qmd
-    - assignments/assignment03_seshat_missing/assignment03_seshat_missing.qmd
     - readings/index.qmd
-    - resources/*.qmd
-
+    - resources/index.qmd
 
   resources:
     - .nojekyll
 
 website:
-  title: "ANTH418: Anthropological Statistics"
+  title: "ARCL305: Archaeological Interpretation"
 
   navbar:
     background: light
@@ -40,20 +44,44 @@ website:
 
       - text: Study Guides
         menu:
+          - href: weeks/week01.qmd
+            text: "Week 1 — Introduction and the Discipline of Archaeology"
+
           - href: weeks/week02.qmd
-            text: "Week 2 — R, RStudio & Quarto"
+            text: "Week 2 — Archaeological Evidence"
 
           - href: weeks/week03.qmd
-            text: "Week 3 — Measurement & Research Design"
+            text: "Week 3 — What Is Theory in Archaeology?"
 
           - href: weeks/week04.qmd
-            text: "Week 4 — Central Tendency & Dispersion"
-            
+            text: "Week 4 — Culture History"
+
           - href: weeks/week05.qmd
-            text: "Week 5 — EDA & Visualization"
+            text: "Week 5 — Theoretical Pluralism"
 
           - href: weeks/week06.qmd
-            text: "Week 6 — Transformation & Missing Data"
+            text: "Week 6 — Explanation and Making Arguments"
+
+          - href: weeks/week07.qmd
+            text: "Week 7 — Material Culture and Materiality"
+
+          - href: weeks/week08.qmd
+            text: "Week 8 — Technology, Skill, and Practice"
+
+          - href: weeks/week09.qmd
+            text: "Week 9 — Mobility, Migration, and Networks"
+
+          - href: weeks/week11.qmd
+            text: "Week 11 — Food, Cuisine, and Feasting"
+
+          - href: weeks/week12.qmd
+            text: "Week 12 — Urbanism and Urban Diversity"
+
+          - href: weeks/week13.qmd
+            text: "Week 13 — Collaborative and Indigenous Archaeologies"
+
+          - href: weeks/week14.qmd
+            text: "Week 14 — Cognition, Mind, and Material Engagement"
 
       - href: assignments/index.qmd
         text: Assignments
@@ -75,8 +103,6 @@ format:
     toc-location: right
     toc-depth: 3
     smooth-scroll: true
-    code-copy: true
-    code-overflow: wrap
     anchor-sections: true
 
 bibliography: references.bib

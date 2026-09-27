@@ -1,135 +1,39 @@
 ---
 title: "Assignments"
+subtitle: "ARCL305: Archaeological Interpretation"
+toc: true
 ---
 
-The ten ANTH418 assignments use published archaeological and anthropological datasets.
+This section provides assignment information and supporting materials for **ARCL305: Archaeological Interpretation**.
 
-Each assignment package contains:
+Official deadlines and submissions are managed through **Canvas**.
 
-- assignment `.qmd`;
-- README;
-- codebook;
-- provenance note; and
-- teaching dataset.
+## Weekly Reflections — 24%
 
-Students may browse the materials online or download the complete assignment package as a ZIP file.
+Twelve weekly reflections are assigned during the term: Weeks **2–9** and **11–14**. Each reflection is worth **2%** of the final grade.
 
-------------------------------------------------------------------------
+The reflections are designed to prepare for discussion and to develop the habit of evaluating archaeological interpretations rather than accepting them at face value.
 
-## Assignment 1 — Describing Human Isotope Variation
+Students may complete each reflection through one of two equivalent pathways:
 
-**Statistical method:** Descriptive statistics
+**Pathway A — GenAI Critical Evaluation**
 
-**Case study:** Bronze Age diet and farming at La Bastida and Gatas
+Read → Question → Consult AI → Verify → Reflect → Discuss
 
-[Open Assignment 1](assignment01_knipper_descriptive/assignment01_knipper_descriptive.qmd)
+**Pathway B — Scholarly Critical Comparison**
 
-[Download complete Assignment 1 package](../downloads/assignments/ANTH418_assignment01_knipper_descriptive.zip)
+Read → Question → Compare → Verify → Reflect → Discuss
 
-------------------------------------------------------------------------
+Weekly reflection prompts and instructions will be added here as they are released.
 
-## Assignment 2 — Visualizing Kinship Diversity with Kinbank
+## Research Essay — 28%
 
-**Statistical method:** Exploratory data analysis and visualization
+Students will complete a theory-driven research essay examining how theoretical perspectives, models, and concepts are used to interpret archaeological data, address research questions, and evaluate arguments.
 
-**Case study:** Cross-linguistic variation in kinship terminology using Kinbank
+See the [course syllabus](../syllabus.qmd) for requirements, deadlines, and the course policy on permitted use of generative AI.
 
-[Open Assignment 2](assignment02_kinbank_visualization/assignment02_kinbank_visualization.qmd)
+## Final Examination — 24%
 
-[Download complete Assignment 2 package](../downloads/assignments/ANTH418_assignment02_kinbank_visualization.zip)
+The course concludes with a take-home final examination.
 
-------------------------------------------------------------------------
-
-## Assignment 3 — Missing Data in the Seshat Moralizing Gods Debate
-
-**Statistical method:** Missing-data analysis and sensitivity analysis
-
-**Case study:** Treatment of missing observations in the Seshat moralizing-gods debate
-
-[Open Assignment 3](assignment03_seshat_missing/assignment03_seshat_missing.qmd)
-
-[Download complete Assignment 3 package](../downloads/assignments/ANTH418_assignment03_seshat_missing.zip)
-
-------------------------------------------------------------------------
-
-## Assignment 4 — Sampling Archaeological Radiocarbon Data
-
-**Statistical method:** Sampling distributions, precision, and sampling bias
-
-**Case study:** Southern California archaeological radiocarbon determinations from p3k14c
-
-[View Assignment 4 materials](assignment04_p3k14c_sampling/)
-
-[Download complete Assignment 4 package](../downloads/assignments/ANTH418_assignment04_p3k14c_sampling.zip)
-
-------------------------------------------------------------------------
-
-## Assignment 5 — Statistical Inference at Teotihuacan
-
-**Statistical method:** Bootstrap confidence intervals and permutation tests
-
-**Case study:** Leporid stable-isotope variation at Teotihuacan
-
-[View Assignment 5 materials](assignment05_teotihuacan_inference/)
-
-[Download complete Assignment 5 package](../downloads/assignments/ANTH418_assignment05_teotihuacan_inference.zip)
-
-------------------------------------------------------------------------
-
-## Assignment 6 — Comparing Groups at Tell Tweini
-
-**Statistical method:** Independent-samples t-test and effect size
-
-**Case study:** Middle Bronze Age and Late Bronze Age plant-isotope comparison at Tell Tweini
-
-[View Assignment 6 materials](assignment06_tell_tweini_ttest/)
-
-[Download complete Assignment 6 package](../downloads/assignments/ANTH418_assignment06_tell_tweini_ttest.zip)
-
-------------------------------------------------------------------------
-
-## Assignment 7 — Raw-Material Variation in Highland Lesotho
-
-**Statistical method:** Chi-square test of independence
-
-**Case study:** Lithic raw-material composition across archaeological layers in Highland Lesotho
-
-[View Assignment 7 materials](assignment07_lesotho_chisquare/)
-
-[Download complete Assignment 7 package](../downloads/assignments/ANTH418_assignment07_lesotho_chisquare.zip)
-
-------------------------------------------------------------------------
-
-## Assignment 8 — Comparing Iron Geochemistry with ANOVA
-
-**Statistical method:** One-way ANOVA, post-hoc comparison, and robustness checks
-
-**Case study:** Roman-period iron-smelting geochemistry
-
-[View Assignment 8 materials](assignment08_iron_anova/)
-
-[Download complete Assignment 8 package](../downloads/assignments/ANTH418_assignment08_iron_anova.zip)
-
-------------------------------------------------------------------------
-
-## Assignment 9 — Hawaiian Kukui Isotopes
-
-**Statistical method:** Correlation and measures of association
-
-**Case study:** Kukui δ13C variation along elevation and rainfall gradients in Hawaiʻi
-
-[View Assignment 9 materials](assignment09_kukui_correlation/)
-
-[Download complete Assignment 9 package](../downloads/assignments/ANTH418_assignment09_kukui_correlation.zip)
-
-------------------------------------------------------------------------
-
-## Assignment 10 — Predicting Flake Mass
-
-**Statistical method:** Simple linear regression
-
-**Case study:** Predicting experimental flake mass from mean flake thickness
-
-[View Assignment 10 materials](assignment10_flake_regression/)
-
-[Download complete Assignment 10 package](../downloads/assignments/ANTH418_assignment10_flake_regression.zip)
+See the [course syllabus](../syllabus.qmd) for examination dates, requirements, and the applicable generative-AI policy.

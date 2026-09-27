@@ -1,266 +1,114 @@
-# ANTH418: Anthropological Statistics
+# ARCL305: Archaeological Interpretation
 
-**University of British Columbia**<br>
+**University of British Columbia**  
 **2026–2027 · Term 1**
 
-This repository contains the student-facing course materials for **ANTH418: Anthropological Statistics** at the University of British Columbia.
+This repository contains the student-facing course materials for **ARCL305: Archaeological Interpretation** at the University of British Columbia.
 
-The course introduces statistical reasoning and reproducible data analysis for anthropology and archaeology using **R, RStudio, and Quarto**. Rather than treating statistics as a collection of isolated tests, ANTH418 emphasizes the relationship between research questions, data production, measurement, visualization, statistical analysis, uncertainty, and interpretation.
+The course examines how archaeologists construct, evaluate, and revise interpretations of the human past, with particular attention to the relationships among archaeological evidence, theory, inference, explanation, and argument.
 
 ## Course Website
 
-The rendered ANTH418 course website is available at:
+The rendered ARCL305 course website is available at:
 
-**https://pages.github.ubc.ca/ANTH-V-418-001-2026W1/ANTH418-course-materials/**
-
-Access requires an activated UBC GitHub account and CWL authentication.
+https://zcjing2022.github.io/ARCL305_archaeological_interpretation/
 
 The website provides a common entry point for:
 
 - the course syllabus;
-- weekly lecture-note links;
-- weekly Study Guides and practice materials;
-- assignments and teaching datasets;
-- readings;
-- R, RStudio, and Quarto resources; and
-- troubleshooting guidance.
+- lecture notes and presentations;
+- weekly Study Guides;
+- Weekly Reflections and other assignment materials;
+- reading information; and
+- supplementary course resources.
 
-## Weekly Course Structure
+Canvas remains the official location for announcements, deadlines, assignment submissions, grades, required reading files, and individual course communications.
 
-ANTH418 normally meets twice each week.
+## Course Organization
 
-### Monday — Lecture
+ARCL305 begins by examining archaeological evidence, theory, archaeological classification, theoretical pluralism, and the logic of explanation and argument.
 
-Monday lectures introduce the week's major statistical concepts, research-design issues, and analytical methods.
-
-Lecture notes are distributed through **Canvas**. The course website provides organized links to those materials under **Lecture Notes**.
-
-### Wednesday — Practice and Study Guide
-
-Wednesday sessions emphasize hands-on work with data, R, RStudio, and Quarto.
-
-The weekly **Study Guides** are written as reproducible Quarto documents and typically combine:
-
-- conceptual explanations;
-- R examples;
-- archaeological or anthropological datasets;
-- tables and figures;
-- guided exercises;
-- reproducibility checks;
-- reading guidance; and
-- weekly learning objectives and checklists.
-
-The Study Guides are designed to connect statistical concepts directly to analytical practice.
-
-## Analytical Workflow
-
-Across the course, students repeatedly work through a common analytical sequence:
-
-> **inspect and prepare → describe → visualize → analyze → visualize the result → interpret**
-
-The specific statistical method changes from week to week, but the underlying workflow remains consistent.
-
-Students are expected to understand not only **how** to run an analysis, but also:
-
-- what one observation represents;
-- how variables were constructed or measured;
-- whether the data are appropriate for the question;
-- what assumptions an analysis makes;
-- how uncertainty should be expressed; and
-- what the statistical result does—and does not—support anthropologically.
-
-## Reproducible Research
-
-A central principle of ANTH418 is that analysis and documentation should remain together.
-
-Course work therefore uses **Quarto** to integrate:
-
-- explanatory prose;
-- executable R code;
-- numerical results;
-- tables;
-- figures;
-- citations; and
-- interpretation.
-
-Students are encouraged to use project-relative file paths and to test their work by rendering Quarto documents from a clean R session.
-
-> **Rendering is the reproducibility test.**
-
-A document that works only because objects remain in the RStudio Environment is not fully reproducible.
+The course then considers how interpretive approaches are applied to material culture and materiality, technology and skilled practice, mobility and migration, social networks, food and feasting, urbanism, Indigenous and collaborative archaeologies, and cognition and mind.
 
 ## Repository Structure
 
-The main student-facing materials are organized as follows:
+The principal source files and directories are:
 
-```text
-ANTH418-course-materials/
-├── index.qmd
-├── syllabus.qmd
-├── _quarto.yml
-├── styles.css
-├── references.bib
-│
-├── lecture-notes/
-│   └── index.qmd
-│
-├── weeks/
-│   ├── week02.qmd
-│   └── ...
-│
-├── assignments/
-│   ├── index.qmd
-│   └── assignment folders
-│
-├── data/
-│   └── teaching data used by Study Guides
-│
-├── downloads/
-│   └── assignments/
-│
-├── readings/
-│   └── index.qmd
-│
-├── resources/
-│   ├── index.qmd
-│   ├── getting-started.qmd
-│   ├── r-rstudio-quarto.qmd
-│   └── troubleshooting.qmd
-│
-├── R/
-│   └── setup.R
-│
-└── docs/
-    └── rendered course website
-```
+- `_quarto.yml` — Quarto website configuration
+- `index.qmd` — course home page
+- `syllabus.qmd` — course syllabus
+- `styles.css` — website styling
+- `references.bib` — bibliography used by course materials
+- `lecture-notes/` — lecture materials
+- `weeks/` — weekly Study Guides
+- `assignments/` — assignment materials
+- `readings/` — reading information
+- `resources/` — supplementary resources
+- `downloads/` — downloadable course materials
+- `docs/` — rendered GitHub Pages website
 
-### `lecture-notes/`
+## Quarto Website
 
-Provides organized links to the weekly Monday lecture materials hosted on Canvas.
+The website is built with Quarto.
 
-### `weeks/`
+To render the complete website:
 
-Contains the Quarto source files for weekly Study Guides and Wednesday practice materials.
+    quarto render
 
-### `assignments/`
+To preview the website locally:
 
-Contains student-facing assignment instructions, codebooks, provenance information, and teaching datasets as materials are released.
+    quarto preview
 
-### `downloads/assignments/`
+The rendered website is written to `docs/`.
 
-Contains downloadable assignment packages so that students can obtain a complete working folder for an assignment.
+Do not manually edit generated HTML files in `docs/`. Changes should be made in the source `.qmd` files and the website rendered again.
 
-### `readings/`
+## Weekly Study Guides
 
-Provides the weekly reading index and links to appropriate UBC Library, publisher, open-access, or Canvas resources.
+Study Guides are maintained in `weeks/`.
 
-### `resources/`
+There are instructional Study Guides for Weeks 1–9 and 11–14. Week 10 is the midterm break.
 
-Contains practical reference material for installing and using R, RStudio, and Quarto and for diagnosing common computational problems.
+The Study Guides help students work through each week's central questions, concepts, readings, lecture materials, and interpretive problems.
 
-### `data/`
+## Lecture Materials
 
-Contains teaching datasets required for reproducible Study Guide examples.
+Lecture materials are organized through `lecture-notes/`.
 
-### `docs/`
-
-Contains the website generated by Quarto and published through UBC GitHub Pages.
-
-The files in `docs/` are generated output. Course content is maintained in the Quarto source files rather than by editing the rendered HTML directly.
+Lecture presentations and supporting materials are added as the course progresses.
 
 ## Assignments
 
-ANTH418 uses a sequence of assignments based on archaeological and anthropological datasets.
+Assignment information is organized through `assignments/`.
 
-Across the term, assignments develop experience with topics including:
+The principal assessed written work includes:
 
-- descriptive statistics;
-- exploratory visualization;
-- missing data;
-- sampling and bias;
-- confidence intervals and randomization;
-- comparison of groups;
-- chi-square analysis;
-- analysis of variance;
-- correlation; and
-- regression.
+- Weekly Reflections;
+- Research Essay; and
+- Take-home Final Examination.
 
-Assignment packages may include:
+Weekly Reflections are assigned in Weeks 2–9 and 11–14.
 
-- an assignment `.qmd` file;
-- a README;
-- a codebook;
-- a provenance note; and
-- the validated teaching dataset required for the analysis.
+## Readings
 
-Students should preserve the supplied folder structure so that project-relative data paths continue to work.
+Reading information is maintained in the syllabus and the `readings/` section.
 
-## R, RStudio, and Quarto
+Required copyrighted reading files are distributed through Canvas rather than this public repository.
 
-ANTH418 distinguishes three tools:
+## Course Platforms
 
-- **R** performs the computation.
-- **RStudio** provides the working environment in which analyses are organized.
-- **Quarto** combines writing, code, results, figures, tables, and citations into reproducible documents.
+Use the ARCL305 course website for student-facing course materials and study resources.
 
-Students beginning the course should consult the **Resources** section of the course website and the **Week 2 Study Guide**.
-
-## Canvas and the Course Website
-
-The UBC GitHub Pages website and Canvas serve different purposes.
-
-### Course website
-
-Use the ANTH418 course website for:
-
-- Study Guides;
-- lecture-note links;
-- assignment materials;
-- teaching datasets;
-- reading links;
-- reproducible examples; and
-- computational resources.
-
-### Canvas
-
-Canvas remains the authoritative location for:
-
-- announcements;
-- official deadlines;
-- assignment submission;
-- grades;
-- individual feedback;
-- academic concessions; and
-- private course communication.
-
-When information about a deadline or course administration differs between locations, follow the information provided through **Canvas**.
-
-## Access
-
-This repository and the associated UBC GitHub Pages website use UBC's GitHub Service for Teaching and Learning.
-
-Students may need to activate their UBC GitHub access before using the course website. Once activated, access is through UBC/CWL authentication.
-
-## Working with Course Files
-
-When downloading assignment or practice materials:
-
-1. keep the supplied directory structure intact;
-2. work inside the appropriate RStudio Project when one is provided;
-3. use project-relative paths rather than machine-specific paths;
-4. do not move data files into unrelated directories; and
-5. render the final `.qmd` from a clean R session before considering the work complete.
-
-For common errors and setup problems, consult the **Troubleshooting** page on the course website.
+Use Canvas for announcements, required reading files, official deadlines, assignment submissions, grades, and individual course communications.
 
 ## Course Instructor
 
-**Prof. Zhichun Jing**<br>
-Department of Anthropology<br>
+**Prof. Zhichun Jing**  
+Department of Anthropology  
 University of British Columbia
 
-For course communication, office hours, and contact information, see the current **ANTH418 syllabus** and **Canvas**.
+For course communication, office hours, and contact information, see the current **ARCL305 syllabus** and **Canvas**.
 
 ---
 
-This repository supports teaching and learning in ANTH418. Course materials may be revised during the term as new weekly materials are released or corrections are made. The Git history provides a record of those changes.
+This repository supports teaching and learning in ARCL305. Course materials may be revised during the term as new weekly materials are released or corrections are made. Git history provides a record of those changes.
