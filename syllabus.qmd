@@ -181,117 +181,163 @@ Feedback and suggestions about the course are welcome throughout the term, eithe
 
 # Course Schedule, Tentative Topics & Readings
 
-*The schedule, topics, and readings may be subject to change during the term; \* required readings.*
+*The schedule, topics, and readings may be subject to change during the term; required readings are listed separately from optional readings.*
 
 ## Week 1 — Introduction and the Discipline of Archaeology
 
 **Dates:** 9 September 2026
 
-* Frieman, Catherine J. 2024 Attending to Unproof: An Archaeology of Possibilities. Antiquity 98(402):1679--1688. * Renfrew, Colin, and Paul G. Bahn.
+### Required Readings
 
-2020. Archaeology: Theories, Methods, and Practice. Eighth edition, revised &
+- Frieman, Catherine J. 2024 Attending to Unproof: An Archaeology of Possibilities. Antiquity 98(402):1679--1688.
 
-updated. Thames & Hudson, London. (Introduction: the Nature and Aims of Archaeology, pp. 12-18; Chapter 1. The Searchers: the History of Archaeology, pp. 20-47) Wylie, Alison 2002 Thinking from things: essays in the philosophy of archaeology. University of California Press, Berkeley.
+- Renfrew, Colin, and Paul G. Bahn. 2020. Archaeology: Theories, Methods, and Practice. Eighth edition, revised & updated. Thames & Hudson, London. (Introduction: the Nature and Aims of Archaeology, pp. 12-18; Chapter 1. The Searchers: the History of Archaeology, pp. 20-47)
+
+### Optional Readings
+
+- Wylie, Alison 2002 Thinking from things: essays in the philosophy of archaeology. University of California Press, Berkeley.
 
 ## Week 2 — Archaeological Evidence
 
 **Dates:** 14 & 16 September 2026
 
-* Wylie, Alison 2017 How archaeological evidence bites back: strategies for putting old data to work in new ways. Science, Technology, & Human Values 42(2):203-225. * Carver, Martin, and Madeleine Hummler.
+### Required Readings
 
-2024. Archaeological Investigation. 2nd ed. Routledge, London. (Chapter 1. The
+- Wylie, Alison 2017 How archaeological evidence bites back: strategies for putting old data to work in new ways. Science, Technology, & Human Values 42(2):203-225.
 
-Stuff, pp. 3-27). Lucas, Gavin 2012 Understanding the archaeological record. Cambridge University Press, Cambridge. Renfrew, Colin, and Paul G. Bahn.
+- Carver, Martin, and Madeleine Hummler. 2024. Archaeological Investigation. 2nd ed. Routledge, London. (Chapter 1. The Stuff, pp. 3-27).
 
-2020. Archaeology: Theories, Methods, and Practice. Eighth edition revised &
+### Optional Readings
 
-updated. Thames & Hudson, London. (Chapter 2. What is left: The Variety of the Evidence, pp. 48-73) Taylor, James Stuart, and Keith May 2024 Resurrecting, Reinterpreting and Reusing Stratigraphy: An Afterlife for Archaeological Data. Antiquity 98(399):805--820.
+- Lucas, Gavin 2012 Understanding the archaeological record. Cambridge University Press, Cambridge.
+
+- Renfrew, Colin, and Paul G. Bahn. 2020. Archaeology: Theories, Methods, and Practice. Eighth edition revised & updated. Thames & Hudson, London. (Chapter 2. What is left: The Variety of the Evidence, pp. 48-73)
+
+- Taylor, James Stuart, and Keith May 2024 Resurrecting, Reinterpreting and Reusing Stratigraphy: An Afterlife for Archaeological Data. Antiquity 98(399):805--820.
 
 ## Week 3 — What Is Theory in Archaeology?
 
 **Dates:** 21 & 23 September 2026
 
-* Urban, Patricia and Edward Schortman 2019 Archaeological theory in practice. Routledge, Abingdon (Chapter 1. Explanation, theory, and the social sciences, pp. 1-24). * Smith, Michael E. 2017 Social Science and Archaeological Enquiry. Antiquity 91(356):520–528. Banning, Edward B. 2026 Archaeological Reasoning: A Guide to Understanding the Past. Bloomsbury Academic, New York. Chapter 1, “Introduction: How Archaeologists Figure Things Out” pp. 1–19. Orser, Charles E. 2015 Archaeological thinking: how to make sense of the past. Rowman & Littlefield, Lanham (Chapter 1. What’s this all about, anyway? Thinking in archaeology, pp. 1-25; Chapter 4. If p … then what? Archaeological thinking in logic, pp. 69-88). Trigger, Bruce G. 2006 A history of archaeological thought. 2nd ed. Cambridge University Press, New York (Archaeological interpretation, pp.26-38)
+### Required Readings
+
+- Urban, Patricia and Edward Schortman 2019 Archaeological theory in practice. Routledge, Abingdon (Chapter 1. Explanation, theory, and the social sciences, pp. 1-24).
+
+- Smith, Michael E. 2017 Social Science and Archaeological Enquiry. Antiquity 91(356):520–528.
+
+### Optional Readings
+
+- Banning, Edward B. 2026 Archaeological Reasoning: A Guide to Understanding the Past. Bloomsbury Academic, New York. Chapter 1, “Introduction: How Archaeologists Figure Things Out” pp. 1–19.
+
+- Orser, Charles E. 2015 Archaeological thinking: how to make sense of the past. Rowman & Littlefield, Lanham (Chapter 1. What’s this all about, anyway? Thinking in archaeology, pp. 1-25; Chapter 4. If p … then what? Archaeological thinking in logic, pp. 69-88).
+
+- Trigger, Bruce G. 2006 A history of archaeological thought. 2nd ed. Cambridge University Press, New York (Archaeological interpretation, pp.26-38)
 
 ## Week 4 — Culture History
 
 **Dates:** 28 September 2026
 
-* Urban, Patricia and Edward Schortman 2019 Archaeological theory in practice. Routledge, Abingdon (Chapter 3. Culture History, pp. 41-72). * Feinman, Gary M., and Jill E. Neitzel 2020 Excising culture history from contemporary archaeology. Journal of Anthropological Archaeology 60: 101230. Crellin, Rachel J., and Oliver J. T. Harris 2020 Beyond Binaries: Interrogating Ancient DNA. Archaeological Dialogues 27(1):37–56. Murray, Tim 2017 The origins of culture history in prehistoric archaeology: rethinking plausibility and disciplinary tradition. World Archaeology 49(2):187-197. Trigger, Bruce G. 2006 A history of archaeological thought. 2nd ed. Cambridge University Press, New York (Chapter 6. Culture-Historical Archaeology, pp.211-313)
+### Required Readings
+
+- Urban, Patricia and Edward Schortman 2019 Archaeological theory in practice. Routledge, Abingdon (Chapter 3. Culture History, pp. 41-72).
+
+- Feinman, Gary M., and Jill E. Neitzel 2020 Excising culture history from contemporary archaeology. Journal of Anthropological Archaeology 60: 101230.
+
+### Optional Readings
+
+- Crellin, Rachel J., and Oliver J. T. Harris 2020 Beyond Binaries: Interrogating Ancient DNA. Archaeological Dialogues 27(1):37–56.
+
+- Murray, Tim 2017 The origins of culture history in prehistoric archaeology: rethinking plausibility and disciplinary tradition. World Archaeology 49(2):187-197.
+
+- Trigger, Bruce G. 2006 A history of archaeological thought. 2nd ed. Cambridge University Press, New York (Chapter 6. Culture-Historical Archaeology, pp.211-313)
 
 ## Week 5 — Theoretical Pluralism
 
 **Dates:** 5 & 7 October 2026
 
-* Hegmon, M. 2003 Setting theoretical egos aside: Issues and theory in North American archaeology. American Antiquity 68(2):213-243. * Crellin, Rachel J., Craig N. Cipolla, Lindsay M. Montgomery, Oliver J. T. Harris, and Sophie V. Moore 2021 Conclusion: Continuing Dialogues. In Archaeological Theory in Dialogue: Situating Relationality, Ontology, Posthumanism, and Indigenous Paradigms, pp. 185–
+### Required Readings
 
-202. Routledge, New York.
+- Hegmon, M. 2003 Setting theoretical egos aside: Issues and theory in North American archaeology. American Antiquity 68(2):213-243.
 
-Matić, Uroš, Bisserka Gaydarska, Laura Coltofean, and Marta Díaz-Guardamino (editors).
+- Crellin, Rachel J., Craig N. Cipolla, Lindsay M. Montgomery, Oliver J. T. Harris, and Sophie V. Moore 2021 Conclusion: Continuing Dialogues. In Archaeological Theory in Dialogue: Situating Relationality, Ontology, Posthumanism, and Indigenous Paradigms, pp. 185–202. Routledge, New York.
 
-2024. Gender Trouble and Current Archaeological Debates. Springer International
+### Optional Readings
 
-Publishing, Cham (Chapter 1. Let’s Talk About Gender—The Place of Gender in Current Archaeological Debates, pp. 1-15). Renfrew, Colin, and Paul G. Bahn.
+- Matić, Uroš, Bisserka Gaydarska, Laura Coltofean, and Marta Díaz-Guardamino (editors). 2024. Gender Trouble and Current Archaeological Debates. Springer International Publishing, Cham (Chapter 1. Let’s Talk About Gender—The Place of Gender in Current Archaeological Debates, pp. 1-15).
 
-2020. Archaeology: Theories, Methods, and Practice. Eighth edition revised &
-
-updated. Thames & Hudson, London. (Chapter 12. Why Did Things Change? Explanation in Archaeology, pp. 476-503)
+- Renfrew, Colin, and Paul G. Bahn. 2020. Archaeology: Theories, Methods, and Practice. Eighth edition revised & updated. Thames & Hudson, London. (Chapter 12. Why Did Things Change? Explanation in Archaeology, pp. 476-503)
 
 ## Week 6 — Explanation and Making Arguments
 
 **Dates:** 14 October 2026
 
-* Smith, Michael E.
+### Required Readings
 
-2023. Making Good Arguments in Archaeology. In Discourse and Argumentation
+- Smith, Michael E. 2023. Making Good Arguments in Archaeology. In Discourse and Argumentation in Archaeology: Conceptual and Computational Approaches, edited by Cesar Gonzalez-Perez, Patricia Martin-Rodilla, and Martín Pereira-Fariña, pp. 37–54. Springer International Publishing, Cham.
 
-in Archaeology: Conceptual and Computational Approaches, edited by Cesar Gonzalez-Perez, Patricia Martin-Rodilla, and Martín Pereira-Fariña, pp. 37–54. Springer International Publishing, Cham. * Lin, Sam C., Ross Pain, and Alex Mackay.
+- Lin, Sam C., Ross Pain, and Alex Mackay. 2026. On the Use of Parsimony in Archaeological Reasoning. American Antiquity 91(1):64–81.
 
-2026. On the Use of Parsimony in Archaeological Reasoning. American Antiquity
+### Optional Readings
 
-91(1):64–81. Campanaro, Danilo Marco 2021 Inference to the Best Explanation (IBE) and Archaeology: Old Tool, New Model. European Journal of Archaeology 24(3):412-432. Fogelin, Lars 2007 Inference to the Best Explanation: A Common and Effective Form of Archaeological Reasoning. American Antiquity 72(4):603-626.
+- Campanaro, Danilo Marco 2021 Inference to the Best Explanation (IBE) and Archaeology: Old Tool, New Model. European Journal of Archaeology 24(3):412-432.
+
+- Fogelin, Lars 2007 Inference to the Best Explanation: A Common and Effective Form of Archaeological Reasoning. American Antiquity 72(4):603-626.
 
 ## Week 7 — Material Culture and Materiality
 
 **Dates:** 19 & 21 October 2026
 
-* Joyce, Rosemary A. 2012 Life with things: archaeology and materiality. In Archaeology and anthropology: past, present and future, edited by David Shankland, pp. 133-145. Berg, New York. * Price, Robyn 2026 Imagination, Materiality and Value: Unlocking Sensory Experience in Archaeology. Cambridge Archaeological Journal, FirstView:1–15. Bauer, Alexander A.
+### Required Readings
 
-2019. Itinerant Objects. Annual Review of Anthropology 48:335–352.
+- Joyce, Rosemary A. 2012 Life with things: archaeology and materiality. In Archaeology and anthropology: past, present and future, edited by David Shankland, pp. 133-145. Berg, New York.
 
-Kovacevich, Brigitte, and Michael Callaghan.
+- Price, Robyn 2026 Imagination, Materiality and Value: Unlocking Sensory Experience in Archaeology. Cambridge Archaeological Journal, FirstView:1–15.
 
-2023. On Value and Values: The Displayed and Hidden Action of Classic-Period
+### Optional Readings
 
-Maya Jades. In Realizing Value in Mesoamerica: The Dynamics of Desire and Demand in Ancient Economies, edited by Scott R. Hutson and Charles Golden, pp. 163–200. Springer International Publishing, Cham. Küchler, Susanne, and Timothy Carroll 2021 A return to the object: Alfred Gell, art, and social theory. Routledge, London.
+- Bauer, Alexander A. 2019. Itinerant Objects. Annual Review of Anthropology 48:335–352.
+
+- Kovacevich, Brigitte, and Michael Callaghan. 2023. On Value and Values: The Displayed and Hidden Action of Classic-Period Maya Jades. In Realizing Value in Mesoamerica: The Dynamics of Desire and Demand in Ancient Economies, edited by Scott R. Hutson and Charles Golden, pp. 163–200. Springer International Publishing, Cham.
+
+- Küchler, Susanne, and Timothy Carroll 2021 A return to the object: Alfred Gell, art, and social theory. Routledge, London.
 
 ## Week 8 — Technology, Skill, and Practice
 
 **Dates:** 26 & 28 October 2026
 
-* Dobres, M. A. 2010 Archaeologies of technology. Cambridge Journal of Economics 34(1):103-114. * Mynářová, Jana 2025 Unveiling Materiality: Investigating Cuneiform Tablet Production Tradition in Egypt through Amarna Tablets. Cambridge Archaeological Journal 35(2):347–363. Banning, E. B. 2026 Archaeological reasoning: A guide to understanding the past. Bloomsbury Academic, New York (Chapter 2. Lithic Technology and What We Learn from Stone Tools, pp. 21-46). Gyucha, Attila, Danielle J. Riebe, Orsolya Viktorik, László Máté, and Attila Kreiter 2024 Potters’ Technological Choices in Turbulent Times: Exploring the Transition from the Neolithic to the Copper Age on the Great Hungarian Plain through Communities of Practice and Technological Investment Theories. Journal of Anthropological Archaeology 76:101622. Miller, Heather M. L. 2007 Archaeological Approaches to Technology. Academic Press, Burlington, MA.
+### Required Readings
+
+- Dobres, M. A. 2010 Archaeologies of technology. Cambridge Journal of Economics 34(1):103-114.
+
+- Mynářová, Jana 2025 Unveiling Materiality: Investigating Cuneiform Tablet Production Tradition in Egypt through Amarna Tablets. Cambridge Archaeological Journal 35(2):347–363.
+
+### Optional Readings
+
+- Banning, E. B. 2026 Archaeological reasoning: A guide to understanding the past. Bloomsbury Academic, New York (Chapter 2. Lithic Technology and What We Learn from Stone Tools, pp. 21-46).
+
+- Gyucha, Attila, Danielle J. Riebe, Orsolya Viktorik, László Máté, and Attila Kreiter 2024 Potters’ Technological Choices in Turbulent Times: Exploring the Transition from the Neolithic to the Copper Age on the Great Hungarian Plain through Communities of Practice and Technological Investment Theories. Journal of Anthropological Archaeology 76:101622.
+
+- Miller, Heather M. L. 2007 Archaeological Approaches to Technology. Academic Press, Burlington, MA.
 
 ## Week 9 — Mobility, Migration, and Networks
 
 **Dates:** 2 & 4 November 2026
 
-* Högberg, Anders, Kristian Brink, Torbjörn Brorsson, and Helena Malmström 2025 Transdisciplinary Theoretical Approaches to Migration Studies in Archaeology. Cambridge Archaeological Journal 35(3):418–434. * Peeples, Matthew A., and Robert J. Bischoff.
+### Required Readings
 
-2023. Archaeological Networks, Community Detection, and Critical Scales of
+- Högberg, Anders, Kristian Brink, Torbjörn Brorsson, and Helena Malmström 2025 Transdisciplinary Theoretical Approaches to Migration Studies in Archaeology. Cambridge Archaeological Journal 35(3):418–434.
 
-Interaction in the U.S. Southwest/Mexican Northwest. Journal of Anthropological Archaeology 70:101511. Brughmans, Tom, and Matthew A. Peeples.
+- Peeples, Matthew A., and Robert J. Bischoff. 2023. Archaeological Networks, Community Detection, and Critical Scales of Interaction in the U.S. Southwest/Mexican Northwest. Journal of Anthropological Archaeology 70:101511.
 
-2023. Network Science in Archaeology. Cambridge University Press, Cambridge.
+### Optional Readings
 
-Jennings, Justin.
+- Brughmans, Tom, and Matthew A. Peeples. 2023. Network Science in Archaeology. Cambridge University Press, Cambridge.
 
-2025. Wari: Imperialism, Low Power, and Globalization in the Middle Horizon
+- Jennings, Justin. 2025. Wari: Imperialism, Low Power, and Globalization in the Middle Horizon Central Andes. Journal of Archaeological Research 33(2):249–296.
 
-Central Andes. Journal of Archaeological Research 33(2):249–296. Jong-Haines, Julia, and Erin P. Riggs 2025 Alternatives to Interpretive Binaries in Archaeologies of Migration. Journal of Anthropological Archaeology 79:101709. Mills, Barbara J., and Matthew A. Peeples.
+- Jong-Haines, Julia, and Erin P. Riggs 2025 Alternatives to Interpretive Binaries in Archaeologies of Migration. Journal of Anthropological Archaeology 79:101709.
 
-2023. Migration and Archaeological Network Research. In The Oxford Handbook of
-
-Archaeological Network Research, edited by Tom Brughmans, Barbara J. Mills, Jessica Munson, and Matthew A. Peeples, pp. 492-511. Oxford University Press.
+- Mills, Barbara J., and Matthew A. Peeples. 2023. Migration and Archaeological Network Research. In The Oxford Handbook of Archaeological Network Research, edited by Tom Brughmans, Barbara J. Mills, Jessica Munson, and Matthew A. Peeples, pp. 492-511. Oxford University Press.
 
 ## Week 10 — Midterm Break
 
@@ -301,66 +347,74 @@ Archaeological Network Research, edited by Tom Brughmans, Barbara J. Mills, Jess
 
 **Dates:** 16 & 18 November 2026
 
-* Graff, Sarah R. 2020 Archaeology of cuisine and cooking. Annual Review of Anthropology 49:337- 354. * Williams, Patrick Ryan, and Donna J. Nash.
+### Required Readings
 
-2021. Consuming Kero: Molle Beer and Wari Social Identity in Andean Peru.
+- Graff, Sarah R. 2020 Archaeology of cuisine and cooking. Annual Review of Anthropology 49:337-354.
 
-Journal of Anthropological Archaeology 63:101327. Banning, E. B. 2026 Archaeological reasoning: A guide to understanding the past. Bloomsbury Academic, New York (Chapter 11. Food and Foodways in Archaeology, pp. 239- 262). Dietler, Michael 2020 Alcohol as Embodied Material Culture: Anthropological Reflections on the Deep Entanglement of Humans and Alcohol. In Alcohol and Humans. K.J. Hockings and R. Dunbar, eds. Pp. 115-129. Oxford: Oxford University Press. Hastorf, Christine Ann 2017 The social archaeology of food: thinking about eating from prehistory to the present. Cambridge University Press, New York, NY. Twiss, Katheryn C. 2019 The archaeology of food: identity, politics, and ideology in the prehistoric and historic past. Cambridge University Press, Cambridge.
+- Williams, Patrick Ryan, and Donna J. Nash. 2021. Consuming Kero: Molle Beer and Wari Social Identity in Andean Peru. Journal of Anthropological Archaeology 63:101327.
+
+### Optional Readings
+
+- Banning, E. B. 2026 Archaeological reasoning: A guide to understanding the past. Bloomsbury Academic, New York (Chapter 11. Food and Foodways in Archaeology, pp. 239-262).
+
+- Dietler, Michael 2020 Alcohol as Embodied Material Culture: Anthropological Reflections on the Deep Entanglement of Humans and Alcohol. In Alcohol and Humans. K.J. Hockings and R. Dunbar, eds. Pp. 115-129. Oxford: Oxford University Press.
+
+- Hastorf, Christine Ann 2017 The social archaeology of food: thinking about eating from prehistory to the present. Cambridge University Press, New York, NY.
+
+- Twiss, Katheryn C. 2019 The archaeology of food: identity, politics, and ideology in the prehistoric and historic past. Cambridge University Press, Cambridge.
 
 ## Week 12 — Urbanism and Urban Diversity
 
 **Dates:** 23 & 25 November 2026
 
-* Fernández-Götz, Manuel, and Michael E. Smith.
+### Required Readings
 
-2024. The Archaeology of Early Cities: “What Is the City but the People?” Annual
+- Fernández-Götz, Manuel, and Michael E. Smith. 2024. The Archaeology of Early Cities: “What Is the City but the People?” Annual Review of Anthropology 53(1):231–247.
 
-Review of Anthropology 53(1):231–247. * Carballo, David M, Gary M Feinman, and Aurelio López Corral.
+- Carballo, David M, Gary M Feinman, and Aurelio López Corral. 2025. Mesoamerican Urbanism: Indigenous Institutions, Infrastructure, and Resilience. Urban Studies 62(3):507–524.
 
-2025. Mesoamerican Urbanism: Indigenous Institutions, Infrastructure, and
+### Optional Readings
 
-Resilience. Urban Studies 62(3):507–524. Smith, Michael E.
+- Smith, Michael E. 2023. Urban Life in the Distant Past: The Prehistory of Energized Crowding. Cambridge University Press, Cambridge.
 
-2023. Urban Life in the Distant Past: The Prehistory of Energized Crowding.
-
-Cambridge University Press, Cambridge. Yoffee, Norman, and Nicola Terrenato 2015 Introduction: a history of the study of early cities. In The Cambridge World History Volume 3 Early Cities in Comparative Perspective, 4000 BCE - 1200 CE, edited by N. Yoffee, pp. 1-24. Cambridge University Press, Cambridge.
+- Yoffee, Norman, and Nicola Terrenato 2015 Introduction: a history of the study of early cities. In The Cambridge World History Volume 3 Early Cities in Comparative Perspective, 4000 BCE - 1200 CE, edited by N. Yoffee, pp. 1-24. Cambridge University Press, Cambridge.
 
 ## Week 13 — Collaborative and Indigenous Archaeologies
 
 **Dates:** 30 November & 2 December 2026
 
-Archaeologies * Cipolla, Craig N.
+### Required Readings
 
-2025. Archaeology’s Epistemological Breadth: Collaborative-Indigenous and
+- Cipolla, Craig N. 2025. Archaeology’s Epistemological Breadth: Collaborative-Indigenous and Ontological Turns in Historical Perspective. Journal of Anthropological Archaeology 79:101715.
 
-Ontological Turns in Historical Perspective. Journal of Anthropological Archaeology 79:101715. * Jaimes Betancourt, Carla, Patricia Ayala, and Lesly Garcia 2026 Collaborative Archaeology in the Indigenous Territory of the Mosetén, Beni–Bolivia. Archaeologies 22:13–38. Anderson, Jane, and Sonya Atalay.
+- Jaimes Betancourt, Carla, Patricia Ayala, and Lesly Garcia 2026 Collaborative Archaeology in the Indigenous Territory of the Mosetén, Beni–Bolivia. Archaeologies 22:13–38.
 
-2023. Repatriation as Pedagogy. Current Anthropology 64(6):670–691.
+### Optional Readings
 
-Angelbeck, Bill, and David M. Schaepe. 2026 Archaeology as Grounding: Decentring, Detaching and Decolonizing in the Service of Communities. Ethnographisch-Archäologische Zeitschrift, 59(3): e1730. Lawres, Nathan, Delaney O’Connell, and Matthew Sanger.
+- Anderson, Jane, and Sonya Atalay. 2023. Repatriation as Pedagogy. Current Anthropology 64(6):670–691.
 
-2026. Incorporating Native American Philosophies and Ontologies in Archaeological
+- Angelbeck, Bill, and David M. Schaepe. 2026 Archaeology as Grounding: Decentring, Detaching and Decolonizing in the Service of Communities. Ethnographisch-Archäologische Zeitschrift, 59(3): e1730.
 
-Practice. Cambridge University Press, Cambridge. Martindale, Andrew, Margaret Bruchac, Kisha Supernant, and George Nicholas.
+- Lawres, Nathan, Delaney O’Connell, and Matthew Sanger. 2026. Incorporating Native American Philosophies and Ontologies in Archaeological Practice. Cambridge University Press, Cambridge.
 
-2025. The Speaking Past: Positioning Oral Traditions in Archaeological Practice.
-
-In The Oxford Handbook of Indigenous Oral Traditions and Archaeology, edited by Margaret Bruchac, Andrew Martindale, George Nicholas, and Kisha Supernant. Oxford University Press, Oxford.
+- Martindale, Andrew, Margaret Bruchac, Kisha Supernant, and George Nicholas. 2025. The Speaking Past: Positioning Oral Traditions in Archaeological Practice. In The Oxford Handbook of Indigenous Oral Traditions and Archaeology, edited by Margaret Bruchac, Andrew Martindale, George Nicholas, and Kisha Supernant. Oxford University Press, Oxford.
 
 ## Week 14 — Cognition, Mind, and Material Engagement
 
 **Dates:** 7 December 2026
 
-* Malafouris, Lambros 2023 What Is Cognitive Archaeology? The Material Engagement Approach. In The Oxford Handbook of Cognitive Archaeology, edited by Thomas Wynn, Karenleigh A. Overmann, and Frederick L. Coolidge, pp. 153–172. Oxford University Press, Oxford. * Criado-Boado, Felipe, Luis M. Martínez, Manuel J. Blanco, Diego Alonso-Pablos, and Jadranka Verdonkschot 2024 Archaeologiques of Sight: The Visual World Fosters the Engagement between Doing, Seeing, and Thinking. Journal of Anthropological Archaeology 73:101568. Currie, Adrian, and Anton Killin 2019 From things to thinking: Cognitive archaeology. Mind & Language 34(2):263- 279. O’Brien, Catherine, and Lambros Malafouris.
+### Required Readings
 
-2025. Feeling How: MET and Embodied Cognition in the Learning of Pottery Skills. In
+- Malafouris, Lambros 2023 What Is Cognitive Archaeology? The Material Engagement Approach. In The Oxford Handbook of Cognitive Archaeology, edited by Thomas Wynn, Karenleigh A. Overmann, and Frederick L. Coolidge, pp. 153–172. Oxford University Press, Oxford.
 
-Craft and Design Practice from an Embodied Perspective, edited by Nithikul Nimkulrat and Camilla Groth, pp. 53-65. New York: Routledge. Renfrew, Colin, and Paul G. Bahn.
+- Criado-Boado, Felipe, Luis M. Martínez, Manuel J. Blanco, Diego Alonso-Pablos, and Jadranka Verdonkschot 2024 Archaeologiques of Sight: The Visual World Fosters the Engagement between Doing, Seeing, and Thinking. Journal of Anthropological Archaeology 73:101568.
 
-2020. Archaeology: Theories, Methods, and Practice. Eighth edition revised &
+### Optional Readings
 
-updated. Thames & Hudson, London. (Chapter 10. What Did They Think? Cognition, Art, and Religion, pp. 386-429) Wynn, Thomas, and Tony Berlant.
+- Currie, Adrian, and Anton Killin 2019 From things to thinking: Cognitive archaeology. Mind & Language 34(2):263-279.
 
-2019. The Handaxe Aesthetic. In Squeezing Minds From Stones: Cognitive
+- O’Brien, Catherine, and Lambros Malafouris. 2025. Feeling How: MET and Embodied Cognition in the Learning of Pottery Skills. In Craft and Design Practice from an Embodied Perspective, edited by Nithikul Nimkulrat and Camilla Groth, pp. 53-65. New York: Routledge.
 
-Archaeology and the Evolution of the Human Mind, edited by Karenleigh A. Overmann and Frederick L. Coolidge, pp. 278-303. Oxford: Oxford University Press.
+- Renfrew, Colin, and Paul G. Bahn. 2020. Archaeology: Theories, Methods, and Practice. Eighth edition revised & updated. Thames & Hudson, London. (Chapter 10. What Did They Think? Cognition, Art, and Religion, pp. 386-429)
+
+- Wynn, Thomas, and Tony Berlant. 2019. The Handaxe Aesthetic. In Squeezing Minds From Stones: Cognitive Archaeology and the Evolution of the Human Mind, edited by Karenleigh A. Overmann and Frederick L. Coolidge, pp. 278-303. Oxford: Oxford University Press.
