@@ -19,7 +19,7 @@ This course examines how archaeologists construct, evaluate, and revise interpre
 - **Study Guides**
   - [Week 1 — Introduction and the Discipline of Archaeology](weeks/week01.qmd)
   - [Week 2 — Archaeological Evidence](weeks/week02.qmd)
-  - [Week 3 — What Is Theory in Archaeology?](weeks/week03.qmd)
+  - [Week 3 — Levels of Archaeological Interpretation](weeks/week03.qmd)
   - [Week 4 — Culture History](weeks/week04.qmd)
   - [Week 5 — Theoretical Pluralism](weeks/week05.qmd)
   - [Week 6 — Explanation and Making Arguments](weeks/week06.qmd)
