@@ -21,6 +21,9 @@ project:
     - weeks/week13.qmd
     - weeks/week14.qmd
     - assignments/index.qmd
+    - assignments/weekly-reflections/week02.qmd
+    - assignments/weekly-reflections/week03.qmd
+    - assignments/weekly-reflections/week04.qmd
     - readings/index.qmd
     - resources/index.qmd
 

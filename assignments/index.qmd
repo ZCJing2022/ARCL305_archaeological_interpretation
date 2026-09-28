@@ -24,6 +24,14 @@ Read → Question → Consult AI → Verify → Reflect → Discuss
 
 Read → Question → Compare → Verify → Reflect → Discuss
 
+### Available Weekly Reflections
+
+- [Week 2 — Archaeological Evidence](weekly-reflections/week02.qmd)
+- [Week 3 — The Levels of Archaeological Interpretation](weekly-reflections/week03.qmd)
+- [Week 4 — Culture History](weekly-reflections/week04.qmd)
+
+Additional Weekly Reflections will be added as they are released.
+
 Weekly reflection prompts and instructions will be added here as they are released.
 
 ## Research Essay — 28%

@@ -1,0 +1,41 @@
+---
+title: "Week 2 Weekly Reflection"
+subtitle: "Archaeological Evidence"
+toc: true
+---
+
+## Focus Question
+
+**How does archaeological “stuff” become evidence, and what limits the interpretations archaeologists can reasonably make from it?**
+
+Carver (2024) emphasizes that archaeological remains are shaped by complex formation processes involving deposition, decay, preservation, disturbance, and excavation. Their interpretation therefore depends on stratigraphic relationships and on reconstructing how deposits formed.
+
+Wylie (2017) foregrounds the role of conceptual and technical scaffolding: the assumptions, methods, comparisons, and background knowledge that allow material traces to count as evidence. She argues that, when archaeologists rework that scaffolding, old data can sometimes “bite back” by calling established assumptions into question.
+
+Write a **one-page, single-spaced reflection** addressing the focus question.
+
+## Pathway A — GenAI Critical Evaluation
+
+Ask GenAI whether archaeological evidence is discovered, constructed, or both.
+
+Evaluate its answer against Carver (2024), Wylie (2017), and the lecture, identifying what it clarifies, oversimplifies, or misses.
+
+## Pathway B — Scholarly Critical Comparison
+
+Compare Carver’s (2024) account of material remains and formation processes with Wylie’s (2017) account of evidential scaffolding.
+
+Explain where they agree, differ, or frame archaeological reasoning differently.
+
+## Conclusion
+
+Conclude with your own position, supported by specific examples from the readings.
+
+## Required Readings
+
+Wylie, Alison. 2017. [How Archaeological Evidence Bites Back: Strategies for Putting Old Data to Work in New Ways](https://go.exlibris.link/4j9Y9K71). *Science, Technology, & Human Values* 42(2):203–225.
+
+Carver, Martin, and Madeleine Hummler. 2024. [*Archaeological Investigation*](https://go.exlibris.link/gX1ltYqt). 2nd ed. Routledge, London. Chapter 1, “The Stuff,” pp. 3–27.
+
+::: {.callout-note title="Submission"}
+Submit your reflection through **Canvas**. See the [course syllabus](../../syllabus.qmd) for the general Weekly Reflection requirements and GenAI policy.
+:::

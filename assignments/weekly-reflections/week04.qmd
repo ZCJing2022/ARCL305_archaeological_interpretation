@@ -1,0 +1,41 @@
+---
+title: "Week 4 Weekly Reflection"
+subtitle: "Culture History"
+toc: true
+---
+
+## Focus Question
+
+**How did culture history bring order to the archaeological record, and which parts of its framework should archaeologists retain or reject today?**
+
+Urban and Schortman (2019) show how culture history organized archaeological materials through typology, chronology, and space-time systematics. They also show how concepts such as “culture,” “boundary,” and “periphery” shaped what archaeologists expected to find.
+
+Feinman and Neitzel (2020) accept the need for chronology and spatial ordering but reject the assumptions built into culture-historical units: **biological-cultural correspondence, homogeneity, discrete boundaries, primordial identity, and sudden collective change.**
+
+Choose one pathway and write a **one-page, single-spaced reflection**.
+
+## Pathway A — GenAI Critical Evaluation
+
+Ask GenAI whether culture history is still useful in archaeology.
+
+Evaluate its answer against the readings and lecture, identifying what should be retained and what should be rejected.
+
+## Pathway B — Scholarly Critical Comparison
+
+Compare Urban and Schortman (2019) with Feinman and Neitzel (2020) on the value and limits of culture history.
+
+Consider whether archaeological “cultures” are useful analytical tools or whether they risk turning variable, overlapping social relations into bounded groups.
+
+## Conclusion
+
+Conclude with **your own position**, supported by specific examples from the readings.
+
+## Required Readings
+
+Urban, Patricia and Edward Schortman. 2019. *Archaeological Theory in Practice*. Routledge, Abingdon. Chapter 3, [“Culture History”](https://go.exlibris.link/g0Q5DM0g), pp. 41–72.
+
+Feinman, Gary M., and Jill E. Neitzel. 2020. [“Excising Culture History from Contemporary Archaeology.”](https://go.exlibris.link/g9N46lzz) *Journal of Anthropological Archaeology* 60:101230.
+
+::: {.callout-note title="Submission"}
+Submit your reflection through **Canvas**. See the [course syllabus](../../syllabus.qmd) for the general Weekly Reflection requirements and GenAI policy.
+:::

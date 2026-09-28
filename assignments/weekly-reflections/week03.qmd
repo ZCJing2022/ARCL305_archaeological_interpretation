@@ -1,0 +1,35 @@
+---
+title: "Week 3 Weekly Reflection"
+subtitle: "The Levels of Archaeological Interpretation"
+toc: true
+---
+
+## Focus Question
+
+**How do different levels of archaeological theory work, and should middle-range theory be treated as a subtype of middle-level theory or as a distinct inferential task?**
+
+Urban and Schortman (2019) and Trigger (2006) both distinguish low-, middle-, and high-level theory and discuss middle-range theory as linking material observations to past behavior. Both relate middle-range theory to middle-level theory, but not in exactly the same way.
+
+The lecture separates these tasks more sharply for analytical clarity, treating middle-level empirical theory as explanation of social mechanisms and Binfordian middle-range theory as linking traces to behavior and formation processes. Smith (2017) provides a further basis for evaluation through his emphasis on causal mechanisms and refutability.
+
+Choose one pathway and write a **one-page, single-spaced reflection**.
+
+## Pathway A — GenAI Critical Evaluation
+
+Ask GenAI to explain the levels of theory and the relation between middle-level and middle-range theory.
+
+Evaluate where it clarifies, conflates, or oversimplifies these concepts.
+
+## Pathway B — Scholarly Critical Comparison
+
+Compare Urban and Schortman (2019) with Trigger (2006) on the relation between middle-level and middle-range theory.
+
+Use the lecture and Smith (2017) to assess which distinctions are most useful for constructing testable archaeological explanations.
+
+## Conclusion
+
+Conclude with your own position, supported by examples from the readings.
+
+::: {.callout-note title="Submission"}
+Submit your reflection through **Canvas**. See the [course syllabus](../../syllabus.qmd) for the general Weekly Reflection requirements and GenAI policy.
+:::
