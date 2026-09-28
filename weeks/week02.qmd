@@ -1,28 +1,884 @@
 ---
 title: "Week 2 — Archaeological Evidence"
 toc: true
+toc-depth: 3
 ---
 
-## Overview
+# Week 2 Overview
 
-Study guide forthcoming.
+Week 1 established that archaeological remains do not interpret
+themselves. Week 2 asks a more concrete question:
 
-## Key Questions
+> **What exactly is archaeological evidence, how did it become what
+> survives today, and how do archaeologists turn physical remains into
+> evidence about past human life?**
 
-Content forthcoming.
+The lecture begins with Martin Carver's deliberately plain term **"the
+stuff"**: broken pottery, stone tools, animal bones, seeds, walls, pits,
+soils, collapsed buildings, refuse, and countless other physical traces.
+Archaeology starts with these material remains, but the remains
+encountered today are not intact copies of past life. They are the
+products of human action, abandonment, decay, burial, disturbance,
+preservation, excavation, classification, and interpretation.
 
-## Key Concepts
+**past life ≠ archaeological record**
 
-Content forthcoming.
+The archaeological record is what survives after a long history of
+transformations.
 
-## Required Readings
+Week 2 therefore moves through three connected problems:
 
-See the [course syllabus](../syllabus.qmd).
+1.  **What survives?** --- kinds and scales of archaeological evidence.
+2.  **How did it survive?** --- context, formation processes, taphonomy,
+    preservation, stratigraphy, and time averaging.
+3.  **How does it become evidence?** --- conceptual scaffolding that
+    makes physical traces relevant to claims about the past.
 
-## Lecture Materials
+The required readings approach these problems from complementary
+directions. Carver emphasizes physical "stuff" and its continuous
+itinerary of decay. Renfrew and Bahn provide the vocabulary of
+artifacts, ecofacts, features, context, association, and formation
+processes. Lucas asks what kind of entity the archaeological record is
+and stresses formation, temporality, assemblages, and archaeological
+practice. Taylor and May show that stratigraphic recording is itself
+part of knowledge production. Wylie explains why evidence is constructed
+through conceptual and technical scaffolding yet can still surprise us
+and "bite back."
 
-Lecture materials forthcoming.
+# Questions for This Week
 
-## Weekly Reflection
+1.  What is the archaeological record?
+2.  Why is archaeological evidence more than a collection of objects?
+3.  What does Carver mean by archaeological "stuff"?
+4.  How do spatial and temporal scales change what archaeologists can
+    infer?
+5.  Why is context essential?
+6.  What are matrix, provenience, and association?
+7.  What is the difference between systemic and archaeological context?
+8.  How do artifacts, ecofacts, features, activity areas, assemblages,
+    components, sites, regions, and landscapes relate?
+9.  What are cultural and natural formation processes?
+10. What is taphonomy?
+11. Why is preservation systematically biased?
+12. What is wrong with treating deposits as frozen moments?
+13. What are stratigraphy, superposition, time averaging, and
+    palimpsests?
+14. What does a Harris matrix represent?
+15. What does Wylie mean by conceptual scaffolding and evidence that
+    "bites back"?
+16. Why are recording and archiving part of knowledge production?
 
-See [Assignments](../assignments/index.qmd).
+# Learning Objectives
+
+By the end of Week 2, you should be able to explain why the
+archaeological record is a transformed material residue rather than a
+direct copy of the past; distinguish spatial and temporal scales; define
+context as matrix, provenience, and association; distinguish primary and
+secondary context and systemic and archaeological context; identify the
+major scales and categories of evidence; explain cultural and natural
+formation processes and taphonomy; critique the "Pompeii premise";
+explain stratigraphy, superposition, time averaging, palimpsests, and
+Harris matrices; and explain how conceptual scaffolding allows
+theory-laden evidence to constrain interpretation.
+
+# 1. Archaeology Begins with "The Stuff"
+
+Carver begins from a simple physical fact: archaeology encounters
+material things in states of survival, decay, fragmentation, and
+displacement.
+
+A standing temple may become a heap of stone. A timber building may
+collapse, rot, and survive only as discolorations in soil. A temporary
+shelter may leave little more than a patch of ash. A body may survive as
+bone, preserved flesh, a stain, or a void depending on burial
+conditions.
+
+This is **the stuff** of archaeology.
+
+The phrase prevents us from beginning with an already reconstructed
+past. Archaeologists do not excavate "a household economy," "a political
+hierarchy," or "a ritual system." They excavate material traces from
+which such interpretations may eventually be developed.
+
+Carver's central question is:
+
+> **Why do we have what we have?**
+
+A useful model is:
+
+**human action → material consequences → deposition → transformation →
+survival → discovery → recording → evidence → interpretation**
+
+Every arrow matters.
+
+# 2. Evidence Exists at Multiple Scales
+
+The lecture stresses that evidence operates simultaneously at many
+spatial and temporal scales.
+
+## Spatial scales
+
+**microscopic attribute → artifact/ecofact → feature → activity area →
+assemblage → component → site → region → landscape**
+
+A microscopic residue may reveal what a vessel contained. Its position
+beside a hearth may help define an activity area. Repeated activity
+areas may reveal household organization. Household patterns across a
+settlement may reveal neighborhood structure. Settlement distributions
+across a valley may illuminate regional organization.
+
+Different questions require different scales.
+
+## Temporal scales
+
+A stone flake may have been struck in less than a second. A hearth may
+represent hours or days. A house may accumulate deposits over decades. A
+tell may contain thousands of years.
+
+Lucas emphasizes **time averaging**: materials deposited at different
+moments can become combined into one archaeological unit or assemblage.
+Archaeologists must ask whether a pattern represents one event, repeated
+behavior, or long-term accumulation.
+
+> **Scale is not just size. Scale determines what kind of historical
+> claim the evidence can support.**
+
+# 3. The Primacy of Context
+
+Renfrew and Bahn define archaeological context through three dimensions:
+
+  -----------------------------------------------------------------------
+  Element                 Meaning                 Question
+  ----------------------- ----------------------- -----------------------
+  **Matrix**              Physical material       What was it embedded
+                          surrounding a find      in?
+
+  **Provenience**         Precise horizontal and  Exactly where was it?
+                          vertical location       
+
+  **Association**         Relationship with other What was found with it?
+                          finds/features          
+  -----------------------------------------------------------------------
+
+A ceramic vessel by itself may reveal clay, manufacture, shape,
+decoration, and date. If it is found inside a grave beside a skeleton,
+with food remains, beneath a sealed layer, and with ornaments, its
+evidential possibilities expand because it is embedded in a relational
+network.
+
+Looting therefore destroys more than objects' locations. It destroys
+relationships that often cannot be reconstructed.
+
+> **Archaeologists excavate relationships, not simply things.**
+
+# 4. Primary and Secondary Context
+
+An object is in **primary context** when it remains where it was
+originally deposited or discarded. It is in **secondary context** when
+later processes have moved it.
+
+River transport, ploughing, animal burrowing, later construction,
+erosion, looting, and redeposition can all create secondary contexts.
+
+Secondary context does not make an object useless. It changes the
+questions that can safely be asked. A transported stone tool may still
+reveal technology or raw material, but its present location may not
+identify where it was used.
+
+# 5. Systemic Context and Archaeological Context
+
+Michael Schiffer's distinction is central.
+
+**Systemic context** refers to material while participating in a living
+behavioral system:
+
+**acquisition → manufacture → use → maintenance → reuse/recycling →
+discard**
+
+Objects may also be stored, exchanged, curated, lost, scavenged, cached,
+or reclaimed.
+
+**Archaeological context** refers to material after deposition and
+subsequent transformations, as encountered archaeologically.
+
+Archaeologists observe material relationships in the present but want to
+understand dynamic activities in the past. Formation theory and
+middle-range reasoning help bridge that gap.
+
+The archaeological record is not the living system after somebody
+pressed "pause."
+
+# 6. Artifact Biography
+
+An artifact may pass through many stages: raw-material selection,
+manufacture, use, repair, recycling, breakage, discard,
+post-depositional movement, and recovery.
+
+A broken projectile point in a settlement does not automatically mean
+projectile use occurred where it was excavated. It could represent
+manufacture waste, repair, reuse, collection from elsewhere, or
+redeposited refuse.
+
+Renfrew and Bahn similarly emphasize acquisition, manufacture, use, and
+discard. Remains can enter the record at any stage.
+
+> **Which stage of an object's life is represented by this find?**
+
+# 7. Intellectual Context
+
+Archaeological context is also intellectual: research questions,
+theoretical concepts, categories, and disciplinary traditions shape what
+archaeologists recognize and record.
+
+Culture-history, processualism, postprocessual approaches, and
+material-engagement approaches can direct attention toward different
+properties and relationships.
+
+Legacy datasets therefore require historical understanding. Earlier
+excavations may have been recorded according to questions and categories
+that no longer dominate archaeology. Later researchers need to
+reconstruct those assumptions before reusing the evidence.
+
+# 8. A Taxonomy of Physical Evidence
+
+## Attributes
+
+**Attributes** are observable or measurable properties: shape,
+dimensions, color, raw material, decoration, manufacturing traces, wear,
+chemistry, and residues.
+
+Attributes matter because of research questions. Measurement alone does
+not create archaeological significance.
+
+## Artifacts
+
+**Artifacts** are portable objects made, modified, or used by humans.
+They may provide evidence about technology, craft, exchange,
+consumption, and identity, but must be interpreted through attributes,
+biographies, and contexts.
+
+## Ecofacts
+
+**Ecofacts** are biological or environmental remains of archaeological
+significance: animal bones, shells, seeds, charcoal, pollen, phytoliths,
+soils, and sediments.
+
+They may reveal diet, agriculture, animal management, climate,
+vegetation, fuel use, and environmental modification.
+
+## Features
+
+**Features** are non-portable archaeological traces or modifications:
+hearths, postholes, pits, ditches, walls, floors, kilns, and graves.
+
+A feature may contain several contexts---for example, a pit cut plus
+multiple fills and later disturbances.
+
+# 9. Activity Areas
+
+An **activity area** is a spatial concentration of traces associated
+with a task or set of tasks: knapping, butchery, cooking, bead
+production, pottery firing, and so on.
+
+Activity areas emerge from distributions and associations rather than
+one diagnostic object. Ethnoarchaeology can help explain patterning, but
+cleaning, trampling, later occupation, animals, and erosion may alter
+it.
+
+# 10. Assemblages
+
+An **assemblage** is a related set of archaeological materials, but
+"related" requires clarification.
+
+Lucas distinguishes a **depositional assemblage**, consisting of things
+physically recovered together, from a **typological assemblage**, an
+analytical grouping created because objects share selected
+characteristics.
+
+Objects excavated together may have different histories; objects grouped
+typologically may never have existed together.
+
+> **Whenever you see "assemblage," ask: related in what sense?**
+
+# 11. Components and Occupation Phases
+
+A **component** refers to material associated with a particular
+occupation or temporal/cultural phase of a site.
+
+Multi-component sites may contain evidence from many occupations. Deep
+tell sequences result from repeated construction, demolition,
+rebuilding, refuse accumulation, and abandonment.
+
+A component is not simply "a layer." It is an analytical attempt to
+identify a coherent occupation or phase from stratigraphic and material
+relationships.
+
+# 12. Sites, Regions, and Landscapes
+
+A **site** is a place where significant traces of human activity are
+identified. It can range from an ephemeral camp to an urban settlement
+occupied for millennia.
+
+The lecture distinguishes residential sites from non-residential sites
+used for specialized extraction, production, ritual, burial, transport,
+or defense. These categories can overlap.
+
+Regional archaeology examines distributions across larger areas.
+Landscape archaeology asks how people inhabited, modified, organized,
+and understood environments.
+
+> **Archaeological evidence is relational at every scale.**
+
+# 13. The Dynamic Itinerary of Decay
+
+Carver argues that sites are not static snapshots waiting underground.
+They follow a **dynamic itinerary of decay**.
+
+A building may be occupied, repaired, abandoned piecemeal, robbed,
+collapsed, buried, cut by later pits, disturbed by roots, mixed by
+animals, ploughed, excavated, conserved, and exposed again.
+
+Formation can begin during occupation and continues after burial.
+
+A better question than simply "What happened here?" is:
+
+> **What happened here, what traces did those activities produce, and
+> what happened to those traces afterward?**
+
+# 14. Site Formation Processes
+
+**Site formation processes** create, modify, preserve, move, or destroy
+archaeological remains.
+
+**Cultural formation processes** include manufacture, use, maintenance,
+recycling, discard, cleaning, storage, construction, demolition, burial,
+rebuilding, looting, ploughing, and excavation.
+
+**Natural formation processes** include weathering, erosion,
+sedimentation, flooding, chemical alteration, microbial decay, roots,
+burrowing, wind, and freeze-thaw cycles.
+
+Actual deposits usually result from interactions among several
+processes.
+
+> **The archaeological record is produced, not merely preserved.**
+
+# 15. Taphonomy: Hunters or Hunted?
+
+**Taphonomy** studies the transitions affecting organic remains from
+death to discovery. It asks who or what accumulated remains, whether
+carcasses were hunted or scavenged, whether bones moved, and whether
+marks came from tools, teeth, trampling, roots, or weathering.
+
+The lecture's "Hunters or Hunted?" example shows why this matters.
+Associations among early hominin remains, animal bones, and stone tools
+once encouraged simple hunting narratives. Detailed analysis of
+carnivore behavior and bone modification showed that some assemblages
+had very different formation histories.
+
+Renfrew and Bahn discuss Swartkrans, where damage to a juvenile hominin
+cranium could be related to a leopard's lower canines. The larger lesson
+is methodological:
+
+> **Association is not automatically causation. Before reconstructing
+> behavior, determine how the association formed.**
+
+# 16. Anomalies of Preservation
+
+Preservation is selective. Stone and fired ceramics usually survive more
+readily than wood, textiles, basketry, food, and leather. But unusual
+environments can reverse the normal pattern.
+
+Waterlogging and anaerobic deposits can slow microbial decay; aridity
+can desiccate organics; freezing can preserve tissues; charring can
+preserve plants. Soil chemistry may preserve one material while
+destroying another.
+
+Carver's examples make this vivid: bone may survive in alkaline
+conditions but disappear in acidic sand; bogs may preserve flesh while
+dissolving mineral bone.
+
+Exceptional deposits expose the **missing organic majority** of ordinary
+sites.
+
+> **What survives most often is not necessarily what mattered most in
+> past life.**
+
+# 17. Deconstructing the "Pompeii Premise"
+
+Pompeii is compelling because rapid catastrophic burial produced unusual
+preservation. This can encourage a misleading model of sites as frozen
+moments.
+
+Most sites are nothing like Pompeii. People clean, remove valuables,
+repair structures, recycle materials, move refuse, abandon spaces
+gradually, and return later. Natural and cultural processes continue
+after abandonment.
+
+Even Pompeii requires formation analysis: inhabitants fled with
+possessions, and earlier cleaning and remodeling had already shaped what
+was present.
+
+> **An excavated floor is not automatically a photograph of everyday
+> life.**
+
+# 18. Experimental Formation Research
+
+One way to study formation is **experimental archaeology**.
+
+Renfrew and Bahn discuss the Overton Down earthwork experiment, in which
+a modern bank and ditch and buried materials were monitored through
+time. Carver describes Sutton Hoo experiments testing decomposition and
+mound erosion. Some expected processes failed to produce the excavated
+patterns, forcing reinterpretation.
+
+This is **middle-range research**:
+
+**observable present processes ↔ material consequences ↔ archaeological
+patterns**
+
+Experiments do not recreate the past exactly. They test whether a
+proposed process can plausibly produce an observed effect.
+
+# 19. Stratigraphy: Putting Deposits into Order
+
+**Stratigraphy** studies sequences and relationships among deposits,
+surfaces, cuts, structures, and other units.
+
+The principle of **superposition** states that, in an undisturbed
+sequence, lower deposits were laid down before deposits above them.
+
+Real stratigraphy is rarely a neat layer cake. People dig pits into
+older layers, walls cut deposits, floors are resurfaced, graves cut
+graves, erosion removes material, and later fills contain older
+artifacts.
+
+Archaeologists therefore record relationships: above/below, cuts/is cut
+by, fills/is filled by, seals/is sealed by, and contemporaneity where
+justified.
+
+Stratigraphy provides **relative chronology**: order, not automatically
+calendar dates.
+
+# 20. The Palimpsest
+
+A **palimpsest** is a record in which traces from multiple events or
+periods overlap.
+
+A surface scatter may combine many occupations. A ploughed soil may
+contain vertically moved artifacts. A room fill may combine rubbish from
+several sources. A landscape may preserve monuments from many periods
+visible together.
+
+A palimpsest is not simply bad evidence. It may be excellent for
+long-term patterns while poor for reconstructing a single event.
+
+# 21. Time Averaging
+
+**Time averaging** occurs when materials produced at different times
+become combined in one analytical unit.
+
+If a deposit accumulated over 200 years, treating its pottery, bones,
+seeds, and tools as one household at one moment would mislead. Yet the
+same deposit may be valuable for long-term consumption or environmental
+patterns.
+
+> **The temporal resolution of the claim should not exceed the temporal
+> resolution of the evidence.**
+
+# 22. Harris Matrices: Relationships Rather Than Depth
+
+A **Harris matrix** is a diagram of stratigraphic relationships among
+contexts. It models relative sequence rather than merely physical depth.
+
+A simple sequence might be:
+
+**natural subsoil → pit cut → pit fill → occupation surface → later wall
+→ demolition deposit**
+
+Taylor and May emphasize that the matrix is part of archaeological
+knowledge creation. Archaeologists define units, record relationships,
+construct and revise matrices, group contexts, establish phases,
+integrate finds and dates, and build site narratives.
+
+The distinction between objective field recording and later subjective
+interpretation is therefore too simple. Interpretation already occurs
+"at the trowel's edge."
+
+# 23. From Contexts to Phases
+
+Archaeologists often move through:
+
+**stratigraphic units → recorded relationships → matrix → groups →
+phases → periods → site narrative**
+
+Separate postholes may be grouped into a building. Building episodes may
+form a settlement phase. Multiple phases may become a broader period.
+
+Each step adds interpretation. Taylor and May stress documenting these
+transformations so later researchers can understand how observations
+became published narratives.
+
+# 24. Stratigraphic Data Have an Afterlife
+
+Excavation is destructive. Once a context is removed, future researchers
+depend on archives: context records, plans, sections, photographs,
+matrices, databases, samples, phasing, specialist analyses, and spatial
+data.
+
+Taylor and May argue that stratigraphic data should be **FAIR**:
+Findable, Accessible, Interoperable, and Reusable.
+
+This is epistemological, not merely technical. If relationships
+underlying an interpretation cannot be reconstructed, later scholars
+cannot effectively test or revise it.
+
+> **Good archaeological recording preserves the possibility of future
+> disagreement.**
+
+# 25. Conceptual Scaffolding
+
+Wylie's key contribution is **scaffolding**.
+
+Physical traces do not become evidence by themselves. Archaeologists use
+background knowledge, methods, concepts, and practices to make
+observations relevant to claims.
+
+Scaffolding can include stratigraphy, association, formation theory,
+taphonomy, experiments, dating, typologies, chemical sourcing, analogy,
+comparative collections, statistics, recording conventions, and
+specialist expertise.
+
+For example, cut marks on bone become evidence of butchery only through
+knowledge of tool marks, carnivore damage, carcass processing,
+weathering, and genuine association.
+
+The inference depends on scaffolding.
+
+# 26. Scaffolding Can Hide Evidence
+
+Scaffolding is necessary but can become restrictive.
+
+Typologies, recording systems, chronologies, and field conventions were
+often designed for particular questions. Once standardized, they can
+persist after those questions are forgotten. A classification may make
+some patterns visible and others difficult to recognize.
+
+The goal is not to eliminate scaffolding. It is to make it **visible,
+revisable, and accountable**.
+
+# 27. How Evidence "Bites Back"
+
+If evidence is theory-laden, why is archaeology not circular?
+
+Wylie's answer is that material evidence can turn out differently than
+expected. New observations may contradict chronology, reveal
+non-contemporaneity, expose unexpected formation histories, undermine a
+behavioral interpretation, or force a typology to change.
+
+> **Conceptually mediated evidence can still resist the expectations
+> that helped produce it.**
+
+This is especially powerful when partly independent lines of evidence
+converge or new methods reveal properties earlier researchers could not
+observe.
+
+# 28. Reusing Old Evidence
+
+Old collections and archives are not necessarily exhausted. New
+questions and methods can make overlooked properties evidentially
+relevant.
+
+Ceramics may be reexamined with petrography, residue analysis, XRF, new
+typologies, network analysis, or improved chronology. Legacy excavation
+records may reveal new relationships when reconstructed digitally.
+
+But reuse requires understanding original scaffolding: what was
+collected, discarded, categorized, sampled, and recorded---and what was
+never recorded.
+
+# 29. Bringing the Week Together
+
+**THE STUFF**\
+↓\
+uneven material survival\
+↓\
+**CONTEXT** --- matrix + provenience + association\
+↓\
+**FORMATION** --- cultural + natural transformations\
+↓\
+**STRATIGRAPHY / TAPHONOMY** --- reconstruct how relationships formed\
+↓\
+**SCAFFOLDING** --- background knowledge makes traces evidentially
+relevant\
+↓\
+**EVIDENTIAL CLAIMS** --- interpretations of past events and processes\
+↓\
+**CRITICAL TESTING** --- anomalies, independent evidence, new methods\
+↓\
+**THE RECORD BITES BACK**
+
+No stage can simply be skipped.
+
+# 30. Worked Example: A Hearth and Scatter
+
+Imagine excavating a circular patch of charcoal surrounded by stone
+flakes and animal bone.
+
+A quick interpretation might be: "People sat around a hearth making
+tools and eating meat."
+
+Apply Week 2 reasoning.
+
+**Describe:** charcoal-rich deposit, burned stones, flakes, bone,
+spatial clustering.
+
+**Establish context:** Are the materials in the same matrix? What are
+their precise positions? Is the hearth cut by later features?
+
+**Examine formation:** Are bones burned? Could water, trampling,
+animals, or cleaning have moved materials?
+
+**Establish temporal resolution:** One event, repeated hearth use, or
+decades of accumulation?
+
+**Apply middle-range scaffolding:** hearth experiments, lithic
+refitting, taphonomy, ethnoarchaeological drop/toss models.
+
+**Compare alternatives:** one domestic episode; repeated occupations;
+secondary refuse around an old hearth; mixed post-abandonment deposits.
+
+The "obvious" interpretation becomes an argument that must earn support.
+
+# 31. Guided Practice
+
+## Exercise A: Context audit
+
+Choose an artifact from the lecture. Record what can be learned from the
+object alone, what requires matrix, what requires provenience, what
+requires association, and what becomes unknowable if it was looted.
+
+## Exercise B: Formation biography
+
+Take an ordinary object and trace:
+
+**manufacture → use → maintenance → reuse → discard/loss → burial →
+natural transformation → later disturbance → excavation**
+
+Which stages leave traces? Which disappear?
+
+## Exercise C: Pompeii premise
+
+You find a room containing five pots, a grinding stone, animal bones,
+and ash. Produce one interpretation assuming a frozen activity moment
+and another assuming gradual accumulation, cleaning, reuse, and
+abandonment. What evidence would distinguish them?
+
+## Exercise D: Harris matrix
+
+Imagine natural soil; a pit cut into it; pit fill; a floor over the
+filled pit; a later posthole cutting the floor; and posthole fill. Put
+the units into relative order. Which relationships are observations, and
+which later groupings are interpretations?
+
+# 32. Reading Guide
+
+## Alison Wylie, "How Archaeological Evidence Bites Back"
+
+Focus on data and evidence as constructed rather than simply given;
+background knowledge and conceptual scaffolding; established categories
+and conventions; empirical resistance; and the possibility of putting
+old evidence to new uses.
+
+**Question:** How can evidence be constructed through archaeological
+practice and still constrain archaeological claims?
+
+## Martin Carver, Chapter 1, "The Stuff"
+
+Focus on material survival, decay, dispersal, preservation, "why do we
+have what we have?", systemic and archaeological context, formation
+processes, ethnoarchaeology, experiment, and microscopic approaches.
+
+**Question:** What processes transformed living places into the traces
+archaeologists encounter?
+
+## Gavin Lucas, *Understanding the Archaeological Record*
+
+Focus on competing meanings of "archaeological record"; remains versus
+archaeologist-produced archive; formation theory; systemic and
+archaeological context; time averaging; assemblages; and archaeological
+intervention.
+
+**Question:** Is the archaeological record something surviving from the
+past, something archaeologists construct, or both?
+
+## Renfrew and Bahn, Chapter 2, "What Is Left?"
+
+Focus on artifacts, ecofacts, features, sites, and regions; matrix,
+provenience, and association; primary/secondary context;
+cultural/natural formation; artifact life cycles; preservation;
+experiments; and superposition.
+
+**Question:** Why must archaeologists reconstruct the history of a find
+before using it as evidence for behavior?
+
+## Taylor and May, "Resurrecting, Reinterpreting and Reusing Stratigraphy"
+
+Focus on stratigraphic units and Harris matrices; recording versus
+interpretation; grouping and phasing; digital archives; FAIR data; and
+reuse.
+
+**Question:** What must be preserved so future researchers can
+reconstruct and challenge today's interpretations?
+
+# 33. Core Concepts to Know
+
+  -----------------------------------------------------------------------
+  Concept                             Working definition
+  ----------------------------------- -----------------------------------
+  **Archaeological record**           Surviving material traces, their
+                                      relationships, and the records
+                                      through which archaeologists
+                                      document them
+
+  **Context**                         Relational setting of a find:
+                                      especially matrix, provenience,
+                                      association
+
+  **Matrix**                          Physical material surrounding a
+                                      find
+
+  **Provenience**                     Precise spatial location
+
+  **Association**                     Relationship/co-occurrence among
+                                      remains
+
+  **Primary context**                 Original place of
+                                      deposition/discard
+
+  **Secondary context**               Location after post-depositional
+                                      movement
+
+  **Systemic context**                Material participating in an active
+                                      cultural system
+
+  **Archaeological context**          Material after entering the
+                                      archaeological record
+
+  **Attribute**                       Observable/measurable property
+
+  **Artifact**                        Portable object made, modified, or
+                                      used by humans
+
+  **Ecofact**                         Biological/environmental remain
+                                      significant archaeologically
+
+  **Feature**                         Non-portable archaeological
+                                      modification or trace
+
+  **Activity area**                   Spatial cluster associated with a
+                                      task
+
+  **Assemblage**                      Related set of archaeological
+                                      materials
+
+  **Component**                       Material associated with an
+                                      occupation/phase
+
+  **Formation process**               Process creating, modifying,
+                                      preserving, moving, or destroying
+                                      remains
+
+  **Taphonomy**                       Study of transformations affecting
+                                      organic remains from death to
+                                      discovery
+
+  **Stratigraphy**                    Study of sequential relationships
+                                      among archaeological units
+
+  **Superposition**                   In an undisturbed sequence, lower
+                                      deposits precede overlying ones
+
+  **Palimpsest**                      Overlapping traces of multiple
+                                      events or periods
+
+  **Time averaging**                  Combination of materials produced
+                                      at different times
+
+  **Harris matrix**                   Diagram of relative stratigraphic
+                                      relationships
+
+  **Conceptual scaffolding**          Background knowledge, methods, and
+                                      concepts that make traces usable as
+                                      evidence
+
+  **FAIR data**                       Findable, Accessible,
+                                      Interoperable, Reusable data
+  -----------------------------------------------------------------------
+
+# 34. Week 2 Checklist
+
+Before moving on, can you explain why archaeological evidence is more
+than an object; define matrix, provenience, and association; distinguish
+primary/secondary and systemic/archaeological contexts; identify
+attributes through landscapes; explain cultural and natural formation;
+give a taphonomic example; explain preservation bias and the Pompeii
+premise; distinguish stratigraphy, superposition, time averaging, and
+palimpsest; read the logic of a simple Harris matrix; explain conceptual
+scaffolding; and explain how evidence can "bite back"?
+
+# 35. Key Takeaways
+
+1.  **Archaeology begins with material "stuff," not ready-made
+    history.**
+2.  **The archaeological record is transformed residue, not a direct
+    copy of past life.**
+3.  **Context is relational.** Matrix, provenience, and association turn
+    isolated finds into stronger evidence.
+4.  **Evidence operates at multiple spatial and temporal scales.**
+5.  **Systemic context and archaeological context are not the same.**
+    Formation theory connects them.
+6.  **Artifacts have biographies.** Manufacture, use, reuse, discard,
+    and post-depositional movement matter.
+7.  **Preservation is biased.** Durable materials and exceptional
+    environments distort what is visible.
+8.  **Most sites are not Pompeii.** Deposits commonly combine repeated
+    activities and later transformations.
+9.  **Taphonomy and formation analysis protect against false behavioral
+    inference.**
+10. **Stratigraphy is relational chronology.** Archaeologists
+    reconstruct sequences from deposits, cuts, fills, and structures.
+11. **Palimpsests and time averaging limit temporal resolution but can
+    preserve long-term patterns.**
+12. **Harris matrices are models of evidential relationships and part of
+    knowledge creation.**
+13. **Archaeological archives matter because excavation is
+    destructive.**
+14. **Conceptual scaffolding is unavoidable.** It makes evidence
+    possible but can also hide alternatives.
+15. **Theory-laden evidence can still bite back.** Unexpected material
+    relationships can force archaeologists to revise assumptions.
+
+# References
+
+Carver, Martin. 2024. "The Stuff." In *Archaeological Investigation*.
+
+Lucas, Gavin. 2012. *Understanding the Archaeological Record*. Cambridge
+University Press.
+
+Renfrew, Colin, and Paul Bahn. 2020. "What Is Left? The Variety of the
+Evidence." In *Archaeology: Theories, Methods and Practice*.
+
+Taylor, James Stuart, and Keith May. 2024. "Resurrecting, Reinterpreting
+and Reusing Stratigraphy: An Afterlife for Archaeological Data."
+*Antiquity* 98(399): 805--820.
+
+Wylie, Alison. 2017. "How Archaeological Evidence Bites Back."
+
+## One-Sentence Summary
+
+**Archaeological evidence is not simply what survives from the past but
+what archaeologists can responsibly infer from material traces after
+reconstructing their context, formation, temporal relationships,
+preservation histories, and the conceptual scaffolding through which
+those traces become relevant to claims about human history.**

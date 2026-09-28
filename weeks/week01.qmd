@@ -1,28 +1,972 @@
 ---
-title: "Week 1 — Introduction and the Discipline of Archaeology"
+title: "Week 1 — Introduction"
 toc: true
+toc-depth: 3
 ---
 
-## Overview
+# Week 1 Overview
 
-Study guide forthcoming.
+Archaeologists study people who are no longer available to answer our
+questions. What survives is usually not a complete account of a past
+society but a damaged, selective, and transformed material record:
+artifacts, structures, soils, bones, plant remains, landscapes, images,
+inscriptions, and many other traces. These traces do not arrive with
+explanations attached.
 
-## Key Questions
+That creates the central problem of Week 1:
 
-Content forthcoming.
+> **How can archaeologists build reliable knowledge about human lives
+> from material traces that do not speak for themselves?**
 
-## Key Concepts
+The lecture begins with the **silent archaeological record** and the
+necessity of theory. It then asks why common sense is not enough, why
+archaeological observation is theory-laden, and how evidence can
+nevertheless resist our expectations. The second half carries the same
+problem into big data, machine learning, and generative AI. More data
+and more powerful algorithms do not remove interpretation; they
+introduce new layers of representation, selection, and potential bias.
 
-Content forthcoming.
+## Questions for This Week
 
-## Required Readings
+1.  Why can archaeological remains not simply "speak for themselves"?
+2.  What distinguishes observation, data, evidence, interpretation, and
+    explanation?
+3.  Why is "common sense" not theory-free?
+4.  In what sense is archaeological observation theory-laden?
+5.  If observations are theory-laden, how can evidence still challenge
+    expectations?
+6.  Why can several interpretations sometimes fit the same evidence?
+7.  How can multiple independent lines of evidence strengthen an
+    inference?
+8.  Why does more data not automatically solve interpretation?
+9.  What is lost or transformed when material traces become digital
+    data?
+10. What should remain the responsibility of human archaeologists when
+    AI is used?
 
-See the [course syllabus](../syllabus.qmd).
+## Learning Objectives
 
-## Lecture Materials
+By the end of Week 1, you should be able to explain why archaeological
+remains require interpretation; distinguish observation, data, evidence,
+interpretation, and explanation; identify assumptions connecting
+evidence to claims; explain theory-ladenness without concluding that
+"anything goes"; describe underdetermination and unproof; explain why
+multiple lines of evidence can strengthen inference; identify the proxy
+gap in computational archaeology; and critically evaluate AI-generated
+archaeological claims.
 
-Lecture materials forthcoming.
+# 1. The Silent Record
 
-## Weekly Reflection
+Renfrew and Bahn define archaeology broadly as the study of the human
+past through material remains. They also emphasize that archaeology
+combines fieldwork, scientific analysis, historical inquiry,
+interpretation, and creative imagination. The important point for this
+course is that **material things do not tell us directly what to
+think**.
 
-See [Assignments](../assignments/index.qmd).
+A potsherd does not tell us who made it. A burial does not announce the
+social identity of the person buried in it. A burned building does not
+tell us whether it burned accidentally, during warfare, or through
+intentional abandonment. Archaeologists must build arguments that
+connect surviving traces to claims about past people.
+
+  -----------------------------------------------------------------------
+  Term                    Working meaning         Simple example
+  ----------------------- ----------------------- -----------------------
+  **Observation**         Something noticed or    A dark soil layer lies
+                          measured                above a floor
+
+  **Data**                Observations recorded   Context sheet,
+                          in usable form          coordinates,
+                                                  measurements,
+                                                  photographs
+
+  **Evidence**            Data used in relation   The layer is relevant
+                          to a question or claim  to a claim about
+                                                  burning
+
+  **Interpretation**      A reasoned account of   The structure
+                          what evidence means     experienced a burning
+                                                  event
+
+  **Explanation**         An account of why a     The structure burned
+                          pattern or event        during conflict
+                          occurred                
+  -----------------------------------------------------------------------
+
+The same observation can become evidence for different questions. A
+tooth might be evidence for diet, mobility, biological relatedness,
+chronology, or health depending on the research problem.
+
+> **Key idea:** Evidence is relational. Something becomes evidence *for
+> a claim*.
+
+# 2. What Theory Does
+
+Theory helps archaeologists decide which questions matter, which
+observations are relevant, which categories to use, what relationships
+to investigate, what processes could connect surviving traces to past
+action, and what would count against an interpretation.
+
+Renfrew and Bahn's history of archaeology makes the point especially
+clearly. Archaeology did not become powerful simply because more objects
+were discovered. The material record had been present all along. What
+changed were the questions, concepts, theories, and methods through
+which people learned to investigate it.
+
+Theory is therefore not the opposite of evidence. A better relationship
+is:
+
+**question → concepts/theory → observation and recording → evidence →
+inference → interpretation → explanation**
+
+The sequence is not strictly one-way. Unexpected evidence can change a
+question. A failed prediction can force a theory to be revised. A new
+method can reveal a pattern that earlier archaeologists could not see.
+
+# 3. Common Sense as a Cloak
+
+Why not avoid theory and simply use common sense?
+
+Because what feels obvious often contains assumptions that have not been
+examined.
+
+Imagine excavating a building containing ash, charcoal, and collapsed
+roofing. A fire is a reasonable inference. But was it accidental?
+Warfare? Deliberate destruction at abandonment? A later deposit of
+burned material? "Common sense" cannot choose among these possibilities
+without additional assumptions and evidence.
+
+Likewise, precious objects in a grave do not automatically demonstrate
+that the deceased was a "chief," "king," or person of high status. Such
+an inference may import familiar ideas about wealth, ownership, rank,
+gender, and individuality into a society organized differently.
+
+Common sense is shaped by our historical period, cultural background,
+social position, familiar institutions, assumptions about human nature,
+and disciplinary traditions.
+
+A powerful ARCL 305 question is therefore:
+
+> **What has to be true for this interpretation to follow from this
+> evidence?**
+
+Making assumptions visible makes them available for criticism.
+
+# 4. The Theory-Laden Trowel
+
+Interpretation does not begin only after excavation. It begins while
+archaeological data are being created.
+
+An excavator who notices a soil change must decide whether it is
+significant, where its boundary lies, whether to call it a floor, fill,
+pit, or destruction layer, which samples to collect, which measurements
+to take, and how to enter it into a database. These decisions depend on
+training, research questions, concepts, and expectations.
+
+This is the meaning of **theory-laden observation**.
+
+> Archaeological data are made through disciplined encounters with
+> material remains; they are not simply copied from the ground.
+
+But theory-laden does **not** mean fabricated. A deposit still has
+physical properties. Some descriptions fit those properties better than
+others. Stratigraphy, chronology, chemistry, use-wear, spatial
+relationships, and other observations can create constraints.
+
+# 5. The Record Bites Back
+
+Alison Wylie's work helps us avoid two extremes:
+
+-   **naive objectivism:** collect enough facts and the past will reveal
+    itself;
+-   **radical relativism:** because interpretation is theory-laden, all
+    interpretations are equally defensible.
+
+Her discussion of archaeological research at Fort Walsh shows
+researchers beginning with questions and expectations influenced by
+documentary history and theory. Yet archaeological findings sometimes
+disrupted those expectations.
+
+The lecture calls this **"the record bites back."**
+
+Material evidence can fail to show something an interpretation predicts,
+reveal an unexpected chronological relationship, contradict documentary
+expectations, expose variation hidden by a broad category, or make one
+explanation increasingly difficult to sustain.
+
+Suppose archaeologists hypothesize that a settlement was rapidly
+abandoned after violent attack. They might expect widespread
+destruction, a narrow final chronology, objects left in place, and
+evidence of trauma or weapons. If excavation instead shows repeated
+rebuilding, cleared rooms, long chronological intervals, and no coherent
+destruction horizon, the material record does not automatically tell us
+what happened. But it creates serious problems for the original
+hypothesis.
+
+> **Evidence does not need to speak for itself in order to tell us that
+> some interpretations work poorly.**
+
+# 6. Constructive Bootstrapping
+
+How can archaeologists build stronger interpretations when every
+individual line of evidence is incomplete?
+
+One strategy is to combine **multiple, partly independent lines of
+evidence**.
+
+For a question about human mobility, archaeologists might consider
+strontium and oxygen isotopes, ancient DNA, burial practices, artifact
+styles, raw-material sourcing, settlement history, and radiocarbon
+chronology. No single dataset automatically equals "migration." Each has
+limitations. But compatible results produced through different methods
+can mutually constrain interpretation.
+
+Independence matters. Five measurements built on the same classification
+or chronological assumption are not necessarily five independent lines
+of evidence.
+
+Ask:
+
+-   Were the datasets produced independently?
+-   Do they rely on the same assumptions?
+-   Could one source of bias affect all of them?
+-   Do different methods constrain different parts of the argument?
+
+> **Convergence is strongest when different evidential routes reach
+> compatible conclusions without all depending on the same hidden
+> premise.**
+
+# 7. The Bias of Focus
+
+Theory also directs attention.
+
+No archaeological project can record everything. Researchers choose what
+to excavate, sample, count, photograph, classify, preserve, compare, and
+ignore. The lecture describes theory as a set of **conceptual
+blinders**. Selection is unavoidable; the problem is forgetting that
+selection occurred.
+
+A project centered on elite political organization may record monuments,
+inscriptions, and prestige goods in exceptional detail. A project
+centered on household practice may prioritize domestic deposits, food
+remains, production debris, and spatial routines.
+
+Neither dataset is simply "the past." Each is a record produced through
+a research focus.
+
+When using an archaeological dataset, therefore, ask not only **what
+does it contain?** but also **why were these things recorded, and what
+did the recording strategy make difficult to see?**
+
+# 8. The Jigsaw Hypothesis
+
+The jigsaw-puzzle metaphor suggests that the past is a complete picture,
+discoveries are missing pieces, and enough pieces will eventually reveal
+the image.
+
+Chapman explains why this is misleading. In a real jigsaw puzzle, the
+complete picture already exists, the pieces were designed to fit it, all
+belong to one puzzle, and there is a correct final arrangement.
+Archaeology has none of these advantages.
+
+The archaeological record has been transformed by deposition, decay,
+reuse, disturbance, preservation, excavation, and sampling. Many traces
+are permanently gone. Archaeologists do not know how many "pieces"
+originally existed, and there is no picture on the box.
+
+More importantly, facts do not automatically assemble themselves into
+historical meaning.
+
+> **More data can reduce some uncertainties, but more data do not
+> automatically produce interpretation.**
+
+# 9. Fragmentation, Underdetermination, and Unproof
+
+Catherine Frieman asks archaeologists to take incompleteness seriously
+rather than treating it only as a temporary technical problem.
+
+## Fragmentation
+
+The record is not incomplete merely because archaeologists have not
+excavated enough. Organic materials decay. Sites erode. objects are
+recycled. Landscapes change. Some activities leave little durable trace.
+Excavation and sampling are selective. We often cannot know exactly what
+has disappeared.
+
+## Underdetermination
+
+**Underdetermination** occurs when the available evidence does not
+uniquely determine one interpretation.
+
+Two explanations may both fit the surviving evidence. Additional
+evidence might distinguish them, but sometimes it may not.
+
+This does not mean every imaginable explanation is equally good.
+Interpretations can still be criticized for contradicting evidence,
+requiring unsupported assumptions, ignoring contrary observations,
+depending on weak analogies, or violating chronology.
+
+## Unproof
+
+Frieman uses **unproof** for gaps, ambiguities, unknowns, overlooked
+possibilities, and things that may remain unknowable.
+
+Her argument is not that archaeologists should stop producing knowledge.
+It is that smoothing over uncertainty can create unwarranted certainty.
+Uncertainty can instead generate productive questions:
+
+-   Which assumptions are doing the most work?
+-   Whose lives have become archaeologically invisible?
+-   Which alternatives have been excluded too quickly?
+-   What evidence would distinguish between interpretations?
+-   Which questions cannot currently be answered?
+
+> **A responsible archaeological interpretation can be strong without
+> pretending to be certain.**
+
+# 10. Wylie and Frieman Together
+
+  -----------------------------------------------------------------------
+  Wylie                               Frieman
+  ----------------------------------- -----------------------------------
+  Evidence is interpreted through     The archaeological record is
+  conceptual frameworks               permanently fragmented
+
+  Theory-ladenness does not eliminate Gaps and ambiguity should remain
+  empirical constraint                visible
+
+  Material evidence can challenge     Several possibilities may remain
+  expectations                        open
+
+  Multiple evidential strands can     Uncertainty can generate new
+  strengthen inference                questions
+
+  Avoid both naive objectivism and    Avoid false certainty and
+  unrestricted relativism             totalizing reconstruction
+  -----------------------------------------------------------------------
+
+Together they support a mature position: **archaeologists can make
+well-supported claims while remaining explicit about assumptions,
+uncertainty, and alternatives.**
+
+# 11. From Observation to Explanation
+
+A useful model is:
+
+**material trace → observation → recorded data → evidence for a question
+→ inference → interpretation → explanation**
+
+At every arrow, ask what assumptions make the move possible.
+
+### Worked example: a burned building
+
+**Observation:** charcoal, ash, heat-altered clay, collapsed roofing.
+
+**Data:** stratigraphic descriptions, sample locations, photographs,
+dates, laboratory results.
+
+**Evidence for:** a burning episode.
+
+**Interpretation:** the structure burned near the end of its use-life.
+
+**Possible explanations:** accidental fire; attack; intentional
+abandonment; ritual destruction.
+
+The observation of burning does not by itself identify the cause. To
+distinguish explanations, archaeologists need further expectations and
+evidence: distribution of burning, human remains, weapons, rebuilding,
+abandonment patterns, dating, comparable practices, and formation
+processes.
+
+This is why the course repeatedly asks:
+
+1.  What is the main claim?
+2.  What evidence supports it?
+3.  What assumptions connect evidence to interpretation?
+4.  What alternative explanations could also account for the data?
+
+# 12. Big Data and the Death of Theory
+
+The lecture now moves into contemporary archaeology.
+
+Large datasets, ancient DNA, isotope analysis, remote sensing, GIS,
+machine learning, and other computational approaches have transformed
+archaeological research. These methods can reveal patterns that were
+previously inaccessible.
+
+But a tempting argument follows:
+
+> If we collect enough data and use sufficiently powerful algorithms,
+> perhaps patterns will emerge automatically and theory will become
+> unnecessary.
+
+Week 1 rejects this conclusion.
+
+Computers can identify statistical structure. They cannot make
+archaeological questions disappear. Researchers still decide what to
+digitize, what variables represent, which categories to use, what counts
+as similarity, which outcomes matter, and how a computational pattern
+relates to human behavior.
+
+The claim that "data replace theory" therefore hides theoretical
+decisions rather than eliminating them.
+
+# 13. The Proxy Gap
+
+The **proxy gap** is one of the most important concepts in the second
+half of the lecture.
+
+Archaeological data are usually not **digital-born**. The past consisted
+of physical people, things, actions, deposits, buildings, landscapes,
+and relationships. A computational system does not encounter those
+realities directly.
+
+Instead, it receives representations:
+
+-   pixel values from imagery;
+-   elemental or isotopic measurements;
+-   3D coordinates;
+-   artifact measurements;
+-   database categories;
+-   text descriptions;
+-   labels assigned by researchers;
+-   derived variables.
+
+Orengo and colleagues emphasize that machine-learning systems learn
+mathematical relationships among these representations. They do not
+learn an archaeological object "itself."
+
+A simplified chain is:
+
+**past phenomenon → surviving material trace → archaeological
+recognition → recording/measurement → digital representation → model
+input → model output → archaeological interpretation**
+
+Every transformation can introduce selection, uncertainty, or bias.
+
+> **A model can be mathematically excellent at learning the proxy it was
+> given while still answering the archaeological question poorly.**
+
+# 14. Inside the Black Box
+
+Some machine-learning systems, especially deep-learning models, can be
+difficult to interpret internally. High predictive accuracy can
+therefore create false confidence.
+
+Imagine a classifier that identifies pottery types with 95% accuracy.
+That sounds impressive. But what did it learn?
+
+Perhaps it learned vessel shape and decoration. Or perhaps photographs
+of one type were usually taken on a particular background, under
+different lighting, or with a distinctive scale card.
+
+The model may achieve high validation scores using a cue that is
+statistically useful but archaeologically meaningless.
+
+Important questions therefore include:
+
+-   What exactly was the model trained to predict?
+-   How were labels created?
+-   What is represented in the training data?
+-   Are training and test data genuinely independent?
+-   Could the model exploit accidental correlations?
+-   Does performance transfer to another site, collection, or recording
+    system?
+-   Can archaeologists understand enough of the model to evaluate its
+    archaeological relevance?
+
+The problem is not "computers versus archaeology." It is whether
+computational success corresponds to archaeological meaning.
+
+# 15. Erasing the Specialist?
+
+Automation can make complex analysis accessible to people who do not
+understand the full disciplinary process behind it. This can be useful,
+but it creates a danger: archaeology can be reduced to **data
+engineering**.
+
+Domain expertise matters because specialists know:
+
+-   how deposits form;
+-   how typologies were constructed;
+-   where classifications are uncertain;
+-   how samples were collected;
+-   which measurements are proxies;
+-   how preservation affects observations;
+-   which historical assumptions shaped a dataset;
+-   what alternative explanations are archaeologically plausible.
+
+A model can automate part of an analysis. It cannot make the
+interpretive history of the data irrelevant.
+
+> **The goal is not to protect expertise from technology. It is to
+> integrate computational power with archaeological accountability.**
+
+# 16. Toxic Training Data and the Hallucinated Past
+
+Generative AI introduces a related problem.
+
+AI systems learn from large bodies of existing text and imagery. Those
+materials contain outdated scholarship, stereotypes, popular
+misconceptions, unequal representation, and repeated visual conventions.
+
+Magnani and Clindaniel's study of AI-generated Neanderthal
+representations is useful here. They found substantial distance between
+generated content and current archaeological scholarship, including
+dated knowledge and cultural anachronisms. Adding "expert" language to a
+prompt does not guarantee that a model has consulted or reproduced
+current expert knowledge.
+
+This creates two different problems.
+
+## Inherited bias
+
+A model can reproduce old assumptions because those assumptions are
+common in its training materials.
+
+## Hallucination
+
+A generative model can produce fluent, plausible material that is
+unsupported or false. Fluency is not evidence.
+
+For archaeology, this is especially dangerous because plausible stories
+can easily fill gaps in an already fragmentary record.
+
+> **Plausibility is not the same as evidential support.**
+
+# 17. Methods Driving Questions
+
+Powerful tools can reverse the normal logic of research.
+
+Instead of:
+
+**archaeological question → appropriate method**
+
+research can become:
+
+**available method → find something it can analyze**
+
+Machine learning often prefers structured, digitized, sufficiently large
+datasets. This can encourage researchers to ask questions determined by
+what is computationally convenient rather than what is archaeologically
+important.
+
+The lecture therefore insists that **deductive inquiry must steer the
+machine**. This does not mean every project must use formal hypothesis
+testing. It means research questions and archaeological reasoning should
+determine method choice, not the prestige or novelty of technology.
+
+Before using a computational method, ask:
+
+1.  What archaeological question am I trying to answer?
+2.  What observable consequences would different interpretations
+    produce?
+3.  What data could bear on those consequences?
+4.  What does the method actually measure or classify?
+5.  What assumptions connect its output to my archaeological claim?
+
+# 18. AI-Aware Archaeological Learning
+
+The lecture does not advocate banning AI. It argues for an **AI-aware**
+approach.
+
+The course principle is **augmentation, not automation**.
+
+AI can be useful for generating questions, exposing assumptions,
+suggesting alternative explanations, clarifying difficult concepts, or
+helping a student test an argument. But it should not replace the
+primary intellectual work of reading sources, evaluating evidence,
+making judgments, and constructing an argument.
+
+This is closely connected to archaeological theory. If interpretation
+depends on understanding how claims are connected to evidence, then
+accepting a machine-generated answer without reconstructing that
+connection defeats the purpose of learning interpretation.
+
+## Critical deconstruction
+
+Treat an AI response as an object for analysis:
+
+-   What is its main claim?
+-   What evidence does it provide?
+-   Are the cited sources real and relevant?
+-   What assumptions connect the evidence to the claim?
+-   What alternatives are omitted?
+-   Does the answer express uncertainty appropriately?
+-   Can the claims be verified in original scholarly sources?
+
+AI is not itself historical or archaeological evidence. Its output must
+be checked against the scholarly and material sources relevant to the
+question.
+
+# 19. Co-Creation with Friction
+
+The lecture's phrase **co-creation with friction** captures a productive
+relationship with technology.
+
+A useful tool should not remove every difficulty. Some intellectual
+difficulty is where learning occurs.
+
+If AI writes the interpretation, chooses the evidence, supplies the
+argument, and evaluates the alternatives, the student may receive a
+polished product while learning very little about archaeological
+reasoning.
+
+A better workflow is:
+
+1.  **You read first.**
+2.  **You identify the archaeological problem.**
+3.  **You form a preliminary interpretation.**
+4.  **Use AI to challenge it:** ask for assumptions, counterarguments,
+    or alternative explanations.
+5.  **Return to the readings and evidence.**
+6.  **Decide what survives criticism.**
+7.  **Write the final argument in your own reasoning.**
+
+Human agency remains central because archaeological interpretation
+requires judgment about relevance, context, uncertainty, and meaning.
+
+# 20. The Potential Past
+
+The lecture ends its AI discussion with a constructive possibility.
+
+AI and computational simulation need not function as machines that
+announce "the truth" about the past. They may be more useful for
+exploring **structured possibilities**.
+
+The idea of the **potential past** shifts the question from:
+
+> "Can a computer reconstruct exactly what happened?"
+
+to:
+
+> "Given specified evidence, assumptions, and constraints, what ranges
+> of past processes are plausible, and what consequences would they
+> produce?"
+
+This is compatible with the broader Week 1 argument.
+
+Theory provides premises and constraints. Models explore consequences.
+Archaeological evidence then helps evaluate whether those consequences
+resemble observed patterns.
+
+The result is not factual certainty produced by an algorithm. It is a
+transparent exploration of possibilities.
+
+# 21. Epistemic Stewardship
+
+Archaeologists inherit records created by past people and by generations
+of researchers. They also create records that future researchers will
+use.
+
+**Epistemic stewardship** means taking responsibility for how
+archaeological knowledge is produced, represented, preserved, and
+transmitted.
+
+That includes:
+
+-   documenting how data were collected;
+-   preserving context and provenance;
+-   recording uncertainty;
+-   making classifications explicit;
+-   distinguishing observation from inference;
+-   protecting specialist knowledge from algorithmic flattening;
+-   maintaining reproducible and transparent workflows where possible;
+-   recognizing ethical responsibilities to communities connected to the
+    past;
+-   resisting the temptation to present computational outputs as
+    self-interpreting facts.
+
+This is why theory is not an optional philosophical decoration. Theory
+makes the assumptions of archaeological knowledge available for
+examination.
+
+# 22. The Human Element
+
+The final slide returns to people.
+
+Archaeology is about human lives, and archaeological knowledge is
+produced by human communities of researchers, students, specialists,
+descendant communities, heritage professionals, and others.
+
+AI may accelerate analysis and expand what can be explored, but empathy,
+contextual judgment, ethical responsibility, and care cannot simply be
+reduced to model outputs.
+
+The Week 1 argument therefore comes full circle:
+
+**material remains are silent → humans construct interpretations →
+interpretations require theory → evidence constrains those
+interpretations → uncertainty must remain visible → computational tools
+can assist but do not remove human responsibility.**
+
+# 23. Guided Practice
+
+## Exercise A: From observation to explanation
+
+You excavate a grave containing an adult skeleton, a bronze object, two
+ceramic vessels, and animal bone.
+
+Separate the following:
+
+1.  What could be directly observed?
+2.  What would need to be recorded as data?
+3.  What research questions could turn those data into evidence?
+4.  What interpretations might be proposed?
+5.  What assumptions would connect grave goods to social identity?
+6.  What alternative explanations should be considered?
+7.  What additional evidence would help discriminate among them?
+
+The point is not to find one correct answer. The point is to expose the
+inferential steps.
+
+## Exercise B: The record bites back
+
+Choose an archaeological claim from one of the readings. Ask:
+
+-   What observations support it?
+-   What result would make the claim less plausible?
+-   Could the claim survive any possible evidence?
+
+If no imaginable evidence could count against a claim, consider how
+archaeologists could evaluate it.
+
+## Exercise C: Audit an AI answer
+
+Ask a generative AI a simple archaeological question. Do **not** assume
+the answer is correct.
+
+Create three columns:
+
+  -----------------------------------------------------------------------
+  AI claim                Verification source     Result
+  ----------------------- ----------------------- -----------------------
+  Claim 1                 Original                supported / unsupported
+                          reading/article         / overstated
+
+  Claim 2                 Original                supported / unsupported
+                          reading/article         / overstated
+
+  Claim 3                 Original                supported / unsupported
+                          reading/article         / overstated
+  -----------------------------------------------------------------------
+
+Then identify one theoretical assumption and one omitted alternative.
+
+# 24. Reading Guide
+
+## Catherine J. Frieman, "Attending to Unproof"
+
+Focus on:
+
+-   the irreparable fragmentation of archaeological data;
+-   underdetermination;
+-   the danger of unwarranted certainty;
+-   **unproof** as gaps, ambiguity, and unknowns;
+-   why uncertainty can open interpretive possibilities rather than
+    merely represent failure.
+
+Ask: **What changes when archaeologists treat uncertainty as something
+to analyze rather than hide?**
+
+## Colin Renfrew and Paul Bahn, Introduction
+
+Focus on:
+
+-   archaeology as the study of the human past through material remains;
+-   archaeology as both science and humanity;
+-   the difference between material remains and statements in written
+    sources;
+-   the need to construct rather than simply discover a picture of the
+    past;
+-   the relationship among evidence, hypothesis, model, method, and
+    interpretation.
+
+Ask: **Why does the material nature of archaeological evidence make
+interpretation unavoidable?**
+
+## Renfrew and Bahn, Chapter 1, "The Searchers"
+
+Focus on:
+
+-   the history of archaeology as a history of questions and ideas, not
+    merely discoveries;
+-   the interaction among theory, research methods, and field
+    discoveries;
+-   how changing social and scientific contexts alter archaeological
+    interpretation.
+
+Ask: **If the material record was already present, what changed when
+archaeology developed new questions and methods?**
+
+## Alison Wylie, *Thinking from Things*
+
+Focus on:
+
+-   the relationship between philosophy and archaeological practice;
+-   theory-laden evidence;
+-   hypothesis testing and the limits of simple positivism;
+-   archaeological evidence that challenges expectations;
+-   how stronger inference can emerge from the interaction of different
+    evidential resources.
+
+Ask: **How can archaeological evidence be constructed through theory and
+still have the power to constrain theory?**
+
+# 25. Core Concepts to Know
+
+  -----------------------------------------------------------------------
+  Concept                             Short definition
+  ----------------------------------- -----------------------------------
+  **Archaeological theory**           Concepts and assumptions used to
+                                      connect material evidence with
+                                      claims about the past
+
+  **Theory-ladenness**                Observation and recording are
+                                      shaped by prior concepts,
+                                      questions, and expectations
+
+  **Evidence**                        Data made relevant to a particular
+                                      claim or question
+
+  **Inference**                       Reasoning that connects evidence to
+                                      a conclusion
+
+  **Underdetermination**              Evidence may support more than one
+                                      serious interpretation
+
+  **Unproof**                         Gaps, ambiguities, unknowns, and
+                                      potentially unknowable aspects of
+                                      the record
+
+  **Empirical constraint**            The capacity of material evidence
+                                      to make some interpretations
+                                      difficult to sustain
+
+  **Constructive bootstrapping**      Strengthening inference through
+                                      mutually constraining lines of
+                                      evidence
+
+  **Proxy**                           An indirect measurable
+                                      representation used to investigate
+                                      a phenomenon
+
+  **Proxy gap**                       The distance between past material
+                                      reality and the
+                                      measurements/representations used
+                                      computationally
+
+  **Black box**                       A system whose internal basis for
+                                      an output is difficult to inspect
+                                      or interpret
+
+  **Epistemic stewardship**           Responsibility for how knowledge
+                                      and its evidential foundations are
+                                      created and transmitted
+
+  **Potential past**                  A structured range of plausible
+                                      past conditions or processes rather
+                                      than a claim of certain
+                                      reconstruction
+  -----------------------------------------------------------------------
+
+# 26. Week 1 Checklist
+
+Before moving on, make sure you can answer **yes** to these questions:
+
+-   Can I explain why artifacts do not "speak for themselves"?
+-   Can I distinguish data from evidence?
+-   Can I identify an assumption linking evidence to an interpretation?
+-   Can I explain why common sense may hide ethnocentric assumptions?
+-   Can I explain theory-ladenness without saying that archaeology is
+    arbitrary?
+-   Can I give an example of evidence "biting back"?
+-   Can I explain underdetermination and unproof?
+-   Can I explain why several independent lines of evidence may
+    strengthen an argument?
+-   Can I explain why more data do not automatically yield better
+    interpretation?
+-   Can I describe the proxy gap in computational archaeology?
+-   Can I explain why high model accuracy is not automatically
+    archaeological validity?
+-   Can I describe an appropriate role for AI in archaeological
+    learning?
+
+# 27. Key Takeaways
+
+1.  **The archaeological record does not interpret itself.** Material
+    traces become evidence through questions, concepts, and inferential
+    relationships.
+
+2.  **There is no genuinely theory-free archaeology.** Even apparently
+    simple acts of observation, classification, and recording contain
+    assumptions.
+
+3.  **Theory-ladenness does not make evidence powerless.** Material
+    traces can contradict expectations and force interpretations to
+    change.
+
+4.  **Archaeological knowledge is often underdetermined.** More than one
+    interpretation may fit surviving evidence, and responsible
+    scholarship keeps uncertainty visible.
+
+5.  **Strong arguments expose their inferential bridges.** Ask what
+    assumptions connect observations to claims and what alternatives
+    remain possible.
+
+6.  **Multiple lines of evidence can create stronger constraints.**
+    Convergence is especially valuable when different methods do not all
+    depend on the same assumptions.
+
+7.  **Big data do not eliminate theory.** Computational methods still
+    depend on choices about questions, variables, categories, proxies,
+    and interpretation.
+
+8.  **Machine learning learns representations, not the past itself.**
+    Archaeological data are indirect proxies shaped by recording and
+    classification practices.
+
+9.  **Generative AI produces plausible outputs, not archaeological
+    authority.** Claims must be checked against original scholarly and
+    archaeological sources.
+
+10. **Human judgment remains central.** AI can augment archaeological
+    reasoning, but responsibility for evidence, interpretation,
+    uncertainty, ethics, and meaning remains with people.
+
+# References
+
+Chapman, Robert. 2023. *Archaeological Theory: The Basics*. Routledge.
+
+Frieman, Catherine J. 2024. "Attending to Unproof: An Archaeology of
+Possibilities." *Antiquity*.
+
+Hinz, Martin, Jan Kolář, Monika Baumanova, Julian Laabs, Maria
+Wunderlich, Margaux Depaermentier, and Michael Kempf. 2025. "Current Key
+Intersections between Theoretical and Computational Archaeology."
+*Advances in Archaeological Practice* 13: 528--545.
+
+Magnani, Matthew, and Jon Clindaniel. 2026. "Artificial Intelligence and
+the Interpretation of the Past." *Advances in Archaeological Practice*
+14: 218--233.
+
+Orengo, Hector A., Iban Berganzo-Besga, and Felipe Lumbreras. 2026.
+"Theory and Practice of Artificial Intelligence in Archaeology."
+*Journal of Archaeological Science* 190: 106571.
+
+Renfrew, Colin, and Paul Bahn. 2020. *Archaeology: Theories, Methods and
+Practice*. Introduction and Chapter 1, "The Searchers."
+
+Wylie, Alison. 2002. *Thinking from Things: Essays in the Philosophy of
+Archaeology*. University of California Press.
+
+------------------------------------------------------------------------
+
+## One-Sentence Summary
+
+**Archaeological interpretation is the disciplined, theoretically
+informed process of turning incomplete material traces into
+evidence-based claims while allowing the material record, alternative
+explanations, and acknowledged uncertainty to constrain what we can
+responsibly say about the past.**

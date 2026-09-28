@@ -1,28 +1,958 @@
 ---
 title: "Week 4 — Culture History"
 toc: true
+toc-depth: 3
 ---
 
-## Overview
 
-Study guide forthcoming.
+## Central Question
 
-## Key Questions
+**How did archaeologists make prehistory legible, and what happened when useful archaeological classifications came to be treated as real, bounded human groups?**
 
-Content forthcoming.
+Culture history solved one of archaeology's first great problems. Archaeologists confronted enormous collections of artifacts, sites, architectural forms, burials, and styles that did not arrive with historical labels attached. Before archaeologists could explain why societies changed, they first had to establish **what happened, to whom, when, and where**.
 
-## Key Concepts
+Culture history supplied a powerful answer. It classified artifacts into recurring types, arranged them chronologically, mapped their geographic distributions, and combined those patterns into named archaeological cultures and regional sequences.
 
-Content forthcoming.
+Its achievement was foundational:
 
-## Required Readings
+```text
+MATERIAL REMAINS → TRAITS → TYPES → ASSEMBLAGES / COMPONENTS
+        → PHASES → ARCHAEOLOGICAL CULTURES → HISTORICAL NARRATIVE
+```
 
-See the [course syllabus](../syllabus.qmd).
+But the same system encouraged a major inferential shortcut:
 
-## Lecture Materials
+```text
+recurring artifact pattern → shared cultural norms → bounded group → "a people"
+```
 
-Lecture materials forthcoming.
+The Week 4 lecture therefore makes two arguments at once. **Culture history was a major methodological achievement**, and archaeology still depends on classification, chronology, stratigraphy, typology, seriation, and spatial comparison. But **the categories created by those methods should not automatically be treated as homogeneous peoples, ethnic groups, biological populations, or fixed historical actors**.
 
-## Weekly Reflection
+The central lesson is:
 
-See [Assignments](../assignments/index.qmd).
+> **Keep the chronology. Question the culture.**
+
+# 1. The Ordering Problem
+
+Imagine entering a museum storeroom containing thousands of pottery fragments, stone tools, ornaments, bones, excavation records, and architectural plans. Nothing is naturally labelled "800 BCE," "this ethnic group," or "this historical phase."
+
+Culture history concentrated on four questions: **What? When? Where? Whom?**
+
+The first three can often be investigated directly through archaeological patterning. The fourth is much harder. A cluster of pottery styles is an **archaeological observation**. Calling that cluster a distinct people is an **interpretation** requiring additional evidence.
+
+# 2. Why Deep Time Mattered
+
+Culture history emerged after archaeology had undergone a profound intellectual transformation: recognition of **deep human antiquity**.
+
+Nineteenth-century discoveries in geology, paleontology, and archaeology increasingly challenged short and static histories. Extinct animals, ancient artifacts, stratified deposits, and evolutionary theory expanded the imaginable scale of human history far beyond written records.
+
+This created two urgent problems: **chronology**—how can remains be placed in temporal order?—and **classification**—which similarities and differences are historically significant?
+
+Archaeology needed methods for constructing history from material evidence itself.
+
+# 3. Evolutionism and Particularism
+
+Culture history developed partly through reaction against nineteenth-century **unilineal cultural evolutionism**.
+
+Classical evolutionists proposed that societies passed through a common progressive sequence from simple to complex. The framework often treated European society as the highest stage and converted cultural difference into developmental inequality.
+
+Franz Boas challenged this. In **historical particularism**, each culture had a distinctive historical trajectory; cultural practices were learned rather than biologically inherited; and cultures should be understood in their particular historical settings.
+
+This was an important challenge to racial and evolutionary ranking. But culture history inherited a strong version of another idea: a culture as a coherent body of learned norms shared by a group.
+
+# 4. The Normative Concept of Culture
+
+The **normative concept of culture** directs attention toward the shared pattern or norm.
+
+```text
+SHARED IDEAS / NORMS → RULES FOR BEHAVIOR → WAYS OF MAKING THINGS
+                                      ↓
+                           RECURRING MATERIAL PATTERNS
+```
+
+If people learn proper ways to decorate pottery, construct houses, bury the dead, or manufacture tools, recurring artifact styles might appear to reveal cultural norms.
+
+This reasoning made material culture historically powerful. But it also encouraged the assumption that people sharing material styles belonged to the same culture—the foundation of the shorthand **"pots = people."**
+
+# 5. What Is an Archaeological Culture?
+
+V. Gordon Childe's classic formulation defined an **archaeological culture** through recurring associations of artifact types, ornaments, burial practices, house forms, and other traits.
+
+```text
+TRAIT A + TRAIT B + TRAIT C + TRAIT D
+                  ↓
+       recurring assemblage
+                  ↓
+      archaeological culture
+                  ↓
+             "a people"
+```
+
+This gave prehistoric archaeologists a practical way to write history without texts. But two claims must be separated:
+
+**Claim 1:** These traits repeatedly occur together in a particular time and region.
+
+**Claim 2:** These traits identify one socially homogeneous and bounded people.
+
+Claim 1 is an archaeological pattern. Claim 2 is a social interpretation. The first does not automatically prove the second.
+
+# 6. "Pots = People" Is an Inferential Shortcut
+
+"Pots = people" describes an inferential structure:
+
+```text
+pottery similarity → shared norms → shared culture → shared identity → one people
+```
+
+Every arrow contains an assumption.
+
+People can trade pottery, imitate neighboring styles, marry across communities, migrate individually, participate in several networks, use different styles in different contexts, change identities, maintain shared practices despite different ancestry, or share ancestry while using different material styles.
+
+The question is therefore not whether material culture carries social information. It can. The question is:
+
+> **What kind of social information does a particular material pattern justify us in inferring?**
+
+# 7. Space-Time Systematics
+
+Culture history's great methodological contribution was **space-time systematics**: before explaining change, establish where things occur and when.
+
+```text
+SPACE (trait distributions)
+                     → ARCHAEOLOGICAL CULTURE
+          /
+TIME (phases) —— FORM (types / styles)
+```
+
+**Space** concerns geographic distribution. **Time** concerns chronological position. **Form** concerns observable characteristics and recurring artifact types.
+
+The intersection of these dimensions allowed archaeologists to construct regional histories from material evidence.
+
+# 8. Trait, Type, Assemblage, Component, Phase, and Culture Area
+
+A **trait** is a selected characteristic of material culture or practice: a rim shape, decorative technique, burial posture, house form, or manufacturing procedure.
+
+A **type** groups artifacts sharing selected attributes. Types are analytical tools; archaeologists decide which attributes matter.
+
+An **assemblage** is a collection of artifacts or other remains associated in a particular context.
+
+A **component** is the manifestation of a particular archaeological phase at a specific site.
+
+A **phase** groups similar remains restricted to a particular temporal and spatial range.
+
+A **culture area** is a broader geographic region in which archaeological cultures or traits were thought to share significant similarities.
+
+These units operate at different analytical scales. Problems arise when an analytical unit is treated as if it automatically identifies a social reality.
+
+# 9. Typology: Simplifying Variation
+
+A **typology** classifies artifacts according to selected recurring characteristics. For pottery, these might include vessel form, rim shape, paste, temper, surface treatment, colour, decorative technique, and motif.
+
+Culture historians often emphasized **style**, especially decoration, because it appeared less constrained by practical function and therefore especially sensitive to learned preferences.
+
+Typology made enormous collections manageable. But classification always simplifies. A continuous range of vessel forms may be divided into Type A and Type B. The boundary can be analytically useful without being a natural boundary in the original population.
+
+> **A type is a simplification with a purpose.**
+
+The question is: **What analytical purpose does this type serve, and what variation does it hide?**
+
+# 10. Central Tendency and Variation
+
+The normative approach often emphasized **central tendency**. If most objects cluster around a recurring pattern, that pattern can define a type.
+
+But unusual artifacts can represent apprentices, immigrants, household traditions, experimentation, intermarriage, trade, imitation, status distinction, ritual use, or chronological change.
+
+If variation is automatically treated as noise, precisely the evidence needed to understand social interaction can disappear.
+
+# 11. Stratigraphy: Ordering Deposits
+
+**Stratigraphy** establishes temporal relationships among deposits. The principle of superposition states that, in an undisturbed sequence, a lower layer was deposited before the layer above it.
+
+```text
+YOUNGER
+──────── Layer 1
+──────── Layer 2
+──────── Layer 3
+──────── Layer 4
+OLDER
+```
+
+Real sites are complicated by pits, rebuilding, erosion, burrowing, and redeposition. Nevertheless, stratigraphy gave culture historians an empirical way to establish relative chronological order.
+
+This remains a fundamental archaeological method.
+
+# 12. Seriation: Ordering Assemblages
+
+**Seriation** arranges assemblages into a relative sequence according to patterned changes in artifact styles.
+
+**Presence seriation** tracks when types appear and disappear.
+
+**Frequency seriation** examines how common a type is. A simplified model assumes that a style appears, increases, peaks, declines, and disappears, producing a classic **battleship curve**.
+
+```text
+        █
+       ███
+      █████
+     ███████
+      █████
+       ███
+        █
+```
+
+Seriation was especially important before absolute dating became widely available. It remains a relative method and works best when tested against independent chronological evidence.
+
+# 13. Absolute Dating Did Not Make Classification Obsolete
+
+Radiocarbon dating, dendrochronology, and other absolute dating techniques transformed archaeology. They reduced dependence on culture-historical phases as the only chronological framework.
+
+But absolute dates do not eliminate classification. Archaeologists still decide what was sampled, what event the sample dates, whether it is associated with the target activity, which traits are being compared, and what chronological resolution matters.
+
+High-resolution dating also makes it possible to test an old culture-historical assumption: that all traits assigned to one phase changed together. Often they did not.
+
+# 14. Migration, Diffusion, and Independent Invention
+
+Culture historians commonly used three mechanisms to explain change.
+
+**Migration** means movement of people, potentially carrying practices, technologies, styles, languages, and social relationships.
+
+**Diffusion** means spread of practices, ideas, technologies, or styles through interaction without requiring wholesale population replacement.
+
+**Independent invention** occurs when people develop a practice locally rather than acquiring it elsewhere.
+
+Culture historians often privileged migration and diffusion because many assumed cultures were internally conservative.
+
+```text
+OBSERVATION: new pottery style appears
+             ≠
+EXPLANATION: new people arrived
+```
+
+Migration, diffusion, and independent invention are all real processes. The archaeological task is to determine which mechanism—or combination—best explains a particular case.
+
+# 15. Why Change Was Often Explained from Outside
+
+If a culture is imagined as internally homogeneous and stable, substantial internal change becomes difficult to explain. Change therefore tends to arrive **from outside**.
+
+This can obscure innovation, disagreement, household decisions, changing institutions, generational differences, gendered practices, craft learning, political negotiation, and unintended consequences.
+
+The critique is therefore not merely about labels. It concerns what kinds of **causal processes** archaeologists are prepared to see.
+
+# 16. Murray: Why Did Culture History Seem Plausible?
+
+Tim Murray asks: **What makes an archaeological interpretation seem plausible?**
+
+Culture history did not become dominant simply because archaeologists made a methodological mistake. Its categories made sense within nineteenth- and early twentieth-century intellectual and social worlds shaped by nation-states, debates about race and ethnicity, linguistic classification, biological taxonomy, nationalism, expanding museums, growing collections, and professionalization.
+
+Murray's deeper lesson is epistemological:
+
+> **Disciplinary traditions shape which questions, categories, methods, and explanations initially appear reasonable.**
+
+Archaeologists should therefore examine both the evidence supporting an interpretation and the historical assumptions that made it seem natural.
+
+# 17. Nationalism and the Archaeological Culture
+
+Trigger emphasizes the historical relationship between culture-historical archaeology and nationalism in Europe. Archaeology could provide nations with deep histories.
+
+```text
+ARTIFACT DISTRIBUTION → ARCHAEOLOGICAL CULTURE → ANCIENT PEOPLE
+                   → ANCESTRAL TERRITORY → MODERN NATIONAL HISTORY
+```
+
+A model equating material distributions with bounded ancestral peoples can be readily recruited into nationalist narratives.
+
+This is why contemporary archaeology must distinguish carefully among archaeological similarity, social affiliation, ethnicity, language, ancestry, and political territory. They are not interchangeable variables.
+
+# 18. Diffusionism and Migrationism in Historical Context
+
+Trigger shows why diffusion and migration became attractive explanations in late nineteenth-century archaeology. As confidence in universal progress declined, many scholars increasingly imagined human groups as conservative. Similarities between regions therefore seemed likely to result from borrowing, movement, conquest, or replacement.
+
+At their extreme, **hyperdiffusionist** models proposed that major inventions originated in one civilization and spread across enormous distances.
+
+Modern archaeology does not need to deny diffusion or migration to reject hyperdiffusionism.
+
+> **Similarity establishes a pattern requiring explanation; it does not identify the mechanism that produced the similarity.**
+
+# 19. Childe's Importance
+
+V. Gordon Childe transformed archaeological classification into a historical geography of prehistoric Europe. His culture maps and chronological syntheses organized enormous bodies of evidence.
+
+His work illustrates both sides of Week 4.
+
+**Achievement:** scattered artifact collections became comparative regional histories.
+
+**Problem:** archaeological cultures could be interpreted as material expressions of peoples.
+
+Culture history should therefore not simply be dismissed as "bad archaeology." Its methods solved genuine problems; its inferential assumptions created new ones.
+
+# 20. Culture History in Practice: The Naco Valley
+
+Urban and Schortman's Naco Valley research provides the lecture's key case study.
+
+The Naco Valley in northwestern Honduras had often been conceptualized relative to the Maya lowlands. Once researchers mapped traits considered diagnostic of Maya culture, Southeast Mesoamerica could be described as a **boundary, border, frontier, or periphery**.
+
+Those words seem geographic. They are theoretical.
+
+Calling a region a **periphery** presupposes a **core**. Calling it a **boundary** presupposes meaningful entities on either side. Such terms shape what researchers expect to find.
+
+# 21. Theory Defined the Naco Valley as a Margin
+
+If the Maya lowlands are treated as the creative centre, similarities in the Naco Valley are easily explained as influence moving outward. Local innovation becomes less visible. Theory affects where archaeologists work, which comparisons they make, what they expect, what counts as surprising, and which explanations seem plausible.
+
+A region becomes "marginal" only in relation to a framework that has already decided where the centre is.
+
+# 22. 46,401 Artifacts: More Data Do Not Remove Theory
+
+The Naco Valley project surveyed about half of the valley floor, recorded 135 sites, excavated 19, and analyzed **46,401 artifacts**.
+
+The number matters because a large dataset can still be interpreted through a strong theoretical frame. Data do not classify themselves. Researchers decide where to survey, how to sample, how to define types, which variables to record, which chronology to use, and which comparisons matter.
+
+> **Evidence can constrain theory, but evidence is always encountered through methods, concepts, and expectations.**
+
+# 23. Expected Maya Influence Was Hard to Find
+
+The researchers expected strong Maya influence, especially during the Late Classic. La Sierra's ballcourt seemed consistent with this expectation. But much expected evidence was weak or absent: imported pottery was scarce; obsidian did not demonstrate the expected intensity of elite connections; distinctive lowland Maya caches, rich tombs, carved monuments, hieroglyphic inscriptions, and expected monumental arrangements were absent.
+
+A few observations fitting a model can receive disproportionate attention while absences are explained away.
+
+> **What evidence should make us revise the model?**
+
+This returns to Week 3's emphasis on testability.
+
+# 24. From Culture History to Processualism
+
+By the mid-twentieth century, critics asked whether building chronologies and cultural sequences was enough.
+
+| Culture History | Processual Archaeology |
+|---|---|
+| Culture = shared norms | Culture = adaptive system |
+| Description and space-time order | Explanation and hypothesis testing |
+| Historical particularism | Search for processes and regularities |
+| Migration and diffusion prominent | Function, ecology, systems, adaptation prominent |
+| Artifact style as cultural marker | Artifact variation may reflect function and behavior |
+
+This was a major shift in archaeological aims, but it did not erase every inherited assumption.
+
+# 25. Culture History Survived as Infrastructure
+
+Feinman and Neitzel's most important argument is that culture history did not simply disappear. It became **infrastructure**.
+
+Researchers might adopt processual, postprocessual, evolutionary, scientific, or network approaches while still beginning with inherited culture labels, period names, type sites, regional culture maps, and phase boundaries.
+
+Those categories determine which sites are grouped together and what counts as a transition. A rejected paradigm can survive as an invisible starting point.
+
+# 26. Five Discredited Assumptions
+
+The contemporary critique focuses on five assumptions:
+
+```text
+CULTURE HISTORY
+      ├── biological group = cultural group
+      ├── intragroup homogeneity
+      ├── discrete spatial boundaries
+      ├── primordialism
+      └── sudden / sequential / holistic change
+```
+
+# 27. Assumption 1: Biological Group = Cultural Group
+
+Cultural, biological, ethnic, linguistic, and material distributions do not necessarily coincide.
+
+A genetic cluster is not automatically an archaeological culture, ethnic identity, language community, or political unit. Likewise, a pottery style does not automatically identify ancestry.
+
+# 28. Assumption 2: Intragroup Homogeneity
+
+Ethnographic and archaeological research shows substantial internal variation according to age, gender, knowledge, occupation, wealth, status, power, household, personal history, and social network.
+
+The analytical question changes from "What did this culture believe?" to:
+
+> **Which people participated in which practices, under what circumstances, and with what degree of variation?**
+
+# 29. Assumption 3: Discrete Spatial Boundaries
+
+Different traits rarely produce identical maps.
+
+```text
+POTTERY STYLE     ███████████
+HOUSE FORM            ███████████
+BURIAL PRACTICE   ███████
+```
+
+A community may share pottery styles with one region, marriage networks with another, ritual practices with a third, and exchange connections across all three. A single culture boundary can erase these non-congruent relations.
+
+# 30. Assumption 4: Primordialism
+
+**Primordialism** treats identities as ancient, natural, enduring, and deeply rooted. In archaeology, a modern ethnic or national group may be projected backward as a stable historical entity.
+
+But identities can be constructed, situational, negotiated, overlapping, and historically changing. Continuity must be demonstrated rather than assumed.
+
+# 31. Assumption 5: Sudden, Sequential, Holistic Change
+
+Culture-historical charts divide time into boxes:
+
+```text
+PHASE A | PHASE B | PHASE C
+```
+
+This encourages the idea that traits remain stable inside each box and change together at boundaries. Fine-grained evidence often shows asynchronous change:
+
+```text
+pottery style      ───────╲________
+house form         ───────────╲____
+burial practice    ───╲____________
+exchange pattern   ─────────────╲__
+```
+
+Change can be continuous, reversible, asynchronous, and multiscalar.
+
+# 32. Why These Assumptions Matter
+
+These assumptions can minimize internal variation, diminish agency, privilege migration and replacement, hide overlapping networks, turn period boundaries into assumed historical ruptures, impede interdisciplinary comparison, and encourage genetic clusters to be mapped too easily onto cultural labels.
+
+> **Categories shape the historical processes we are able to recognize.**
+
+# 33. Ancient DNA: Powerful Evidence, Not a Neutral Arbiter
+
+Crellin and Harris use ancient DNA to expose the persistence of culture-historical reasoning.
+
+aDNA can contribute evidence about biological relatedness, ancestry, population movement, biological sex, kinship, and health. Their critique is not that aDNA is undesirable. It is that **genetic evidence also requires theory**.
+
+A genetic cluster is produced through sampling, statistical modeling, comparison, and analytical decisions. It does not arrive already labelled as a prehistoric people.
+
+# 34. From "Pots = People" to "Genes = People"
+
+Culture history risked:
+
+```text
+MATERIAL CLUSTER = CULTURAL GROUP
+```
+
+Some archaeogenetic interpretations risk:
+
+```text
+GENETIC CLUSTER = CULTURAL GROUP
+```
+
+Crellin and Harris identify three recurring tendencies in some large-scale narratives: identity treated as fixed; identities treated as mutually exclusive; and major change explained mainly through migration or diffusion.
+
+```text
+GENETIC CHANGE ≠ CULTURAL REPLACEMENT ≠ EXPLANATION OF HISTORICAL CHANGE
+```
+
+Migration itself is a historical process requiring explanation.
+
+# 35. Identity Is Multiple
+
+A person may simultaneously participate in identities and relationships involving kinship, residence, language, occupation, gender, age, ritual, political affiliation, ancestry, craft community, and local or regional networks.
+
+These dimensions need not coincide. A person does not have to fit neatly into one archaeological box.
+
+# 36. Beyond the Nature/Culture Binary
+
+Crellin and Harris criticize a hierarchy that treats DNA as nature and objective science while material culture is treated as culture and interpretation.
+
+Both DNA and artifacts require sampling, classification, measurement, modeling, contextualization, and interpretation. One form of evidence should not automatically become the neutral standard against which all others are judged.
+
+# 37. Contradictory Evidence Can Be Productive
+
+Suppose genetic evidence suggests substantial mobility, pottery traditions show strong local continuity, burial practices change rapidly, and settlement patterns remain stable.
+
+Instead of asking which evidence identifies the "real" group, ask:
+
+> **What historical processes could produce this non-congruence?**
+
+Contradiction can reveal that different social and biological processes operated at different scales.
+
+# 38. From Type Sites to Social Fields
+
+The lecture contrasts two analytical frames.
+
+| Older categorical frame | Relational/process frame |
+|---|---|
+| type site | specific observations |
+| type person | individuals and households |
+| bounded culture | overlapping networks |
+| homogeneous people | internal variability |
+| period boxes | variable tempos |
+| fixed identity | changing affiliations |
+| external replacement | multiple social mechanisms |
+
+The point is not to abandon all categories. It is to prevent categories from doing explanatory work they have not earned.
+
+# 39. Networks as an Alternative
+
+Feinman and Neitzel propose **network logic** as one alternative to bounded culture units.
+
+Different ties—exchange, kinship, craft learning, ritual, migration, political alliance, information, marriage—can connect different people. Networks can be overlapping, nested, permeable, unequal, temporary, and multiscalar.
+
+This often represents social life better than a map divided into discrete culture blocks.
+
+# 40. Dynamic Social Fields
+
+A **dynamic social field** emphasizes interaction rather than a bounded cultural container.
+
+Instead of asking "Where does Culture A end and Culture B begin?", ask:
+
+- Where is a pottery style most frequent?
+- Which households use it?
+- Which other practices coincide with it?
+- Which networks connect those households?
+- Does its distribution change through time?
+- Which institutions sustain the pattern?
+- Which people cross the apparent boundary?
+
+This preserves spatial analysis without assuming that every distribution maps a people.
+
+# 41. Specific Traits Instead of Total Cultures
+
+Rather than saying "Culture A expanded," ask whether a pottery style expanded, architectural forms spread at the same time, burial practices changed, raw-material networks shifted, biological ancestry changed, or settlement organization changed.
+
+Breaking a "culture" into separate dimensions allows archaeological evidence to reveal non-congruent histories.
+
+# 42. Fine-Grained Chronology
+
+A phase boundary may compress decades or centuries of uneven change into one line.
+
+Fine-grained dating allows archaeologists to examine tempo, sequence, overlap, persistence, interruption, and reversal.
+
+The question becomes not simply "When did Phase B begin?" but:
+
+> **Which variables changed first, which changed later, and what relationships among those changes can be demonstrated?**
+
+# 43. Agency, Collective Action, and Social Mechanisms
+
+Past people were not passive carriers of cultures. They made decisions about whom to interact with, marry, imitate, reject, where to move, what institutions to support, how to cooperate, and which identities to emphasize.
+
+This connects Week 4 back to Week 3. Instead of using a culture label as an explanation, archaeologists should identify **social mechanisms** capable of generating the observed pattern.
+
+# 44. Feinman: From Categories to Variation and Process
+
+Feinman's later work extends the critique to **categorical thinking** more generally: dividing complex historical variation into fixed boxes and then treating the boxes as causes.
+
+A process-oriented approach emphasizes variation, relational mechanisms, multiscalar comparison, networks, contingent pathways, and variable outcomes.
+
+The goal is not less analytical structure. It is **better structure**.
+
+# 45. Shennan: Do Not Throw Away Historical Transmission
+
+A supplementary perspective from Stephen Shennan warns against swinging too far in the opposite direction. Culture history raised a legitimate question: **How are practices transmitted through time?**
+
+Transmission can be:
+
+- **vertical** — parent to child;
+- **horizontal** — peer to peer;
+- **oblique** — older non-parental individual to younger learner;
+- one-to-one;
+- one-to-many.
+
+Historical continuity matters. The mistake of classical culture history was not recognizing transmission; it was reducing change largely to simple migration and diffusion among coherent peoples.
+
+# 46. Population Movement Can Matter Without Culture-Historical Replacement
+
+Population dynamics genuinely affect cultural history. People move, expand, contract, intermarry, and sometimes disappear. Practices can spread or decline with them.
+
+But this does not justify:
+
+```text
+new artifact style = new people
+```
+
+A richer model is:
+
+```text
+population dynamics + cultural transmission + selection / drift
++ interaction networks + local innovation
+                    ↓
+             material patterning
+```
+
+Migration should be treated as a process to investigate, not a default explanation.
+
+# 47. Brinkmann and Arponen: Why Does "Archaeological Culture" Persist?
+
+A useful supplementary reading asks why the archaeological culture concept survives decades of criticism.
+
+Brinkmann and Arponen identify three "pillars":
+
+1. **ethnocentric, romanticist, and nationalist**;
+2. **cultural evolutionary**;
+3. **epistemological / culturalist**.
+
+They also identify persistent intuitions concerning location, groups, transfer, belief and meaning, and material culture.
+
+Their contribution explains why rejecting nationalism does not automatically eliminate the culture concept. Some intuitions supporting it remain useful. Assumptions therefore need to be examined **module by module**.
+
+# 48. What Should We Keep?
+
+Week 4 does **not** argue that archaeology should abandon classification, typology, stratigraphy, seriation, chronology, spatial analysis, historical transmission, migration, diffusion, or carefully used archaeological labels.
+
+What should be rejected is the automatic equation:
+
+```text
+ANALYTICAL CATEGORY = SOCIAL ENTITY
+```
+
+A classification can organize evidence without being a literal map of past identity.
+
+# 49. Ten Questions to Ask of Any Archaeological Culture
+
+1. How was the category constructed?
+2. Which traits define it?
+3. Do those traits have the same spatial distribution?
+4. Do they change at the same time?
+5. How much internal variation exists?
+6. What social identity is being inferred?
+7. Is biological ancestry being equated with culture?
+8. Are migration and replacement assumed or demonstrated?
+9. What evidence falls outside the category?
+10. Would a network or trait-based analysis reveal something different?
+
+# 50. Worked Example: A New Pottery Style Appears
+
+Imagine a new decorated pottery style appears around 1200 BCE.
+
+A culture-historical interpretation might be: **a new people entered the region**.
+
+But several hypotheses are possible.
+
+### A. Migration
+People carrying the pottery tradition moved into the region.
+
+**Expectation:** mobility evidence, changing ancestry, new settlement patterns, or imported manufacturing traditions.
+
+### B. Diffusion
+Local potters adopted a neighboring style.
+
+**Expectation:** continuity in local production technology alongside changing decoration.
+
+### C. Exchange
+The vessels were imported.
+
+**Expectation:** compositional evidence identifying non-local clay or temper.
+
+### D. Local innovation
+Local potters developed the style.
+
+**Expectation:** gradual experimentation within local production sequences.
+
+### E. Social signaling
+A subset of households adopted the style to mark affiliation or status.
+
+**Expectation:** patterned distribution by household, burial, activity, or social context.
+
+The appearance of the style is the **observation**. Migration is only one possible **explanation**.
+
+# 51. Worked Example: Culture Boundary or Overlapping Networks?
+
+Imagine Region X and Region Y.
+
+Pottery style A is common in X but also appears in western Y. Burial practice B occurs across both. House form C stops sharply at the border. Obsidian exchange crosses the entire region.
+
+A culture map might draw one boundary.
+
+A network approach asks why each practice has a different distribution.
+
+The non-congruence may reveal different mechanisms: craft learning, marriage, ritual affiliation, political jurisdiction, and exchange.
+
+> **Different material distributions may map different relationships.**
+
+# 52. Guided Practice
+
+## Exercise A: Observation or interpretation?
+
+For each statement, identify whether it is primarily an observation or interpretation.
+
+1. Painted pottery increases from 12% to 48% between two dated intervals.
+2. A new ethnic group entered the valley.
+3. House form A occurs mostly east of the river.
+4. The river marked a cultural boundary.
+5. Genetic ancestry changes substantially after 2500 BCE.
+
+Then identify what additional evidence would be needed for the interpretive claims.
+
+## Exercise B: Decompose the culture
+
+Choose one named archaeological culture. Instead of treating it as one entity, list separately:
+
+- ceramics;
+- architecture;
+- burial practices;
+- settlement patterns;
+- raw materials;
+- subsistence;
+- biological ancestry;
+- mobility.
+
+Do their spatial and temporal patterns actually coincide?
+
+## Exercise C: Find the hidden assumption
+
+Consider: "The sudden appearance of Style B demonstrates the arrival of the B people."
+
+Which of Feinman and Neitzel's five assumptions are present?
+
+## Exercise D: Reframe a boundary
+
+Take a culture map with a sharp boundary. Rewrite the research question using network language rather than culture-area language.
+
+# 53. Reading Guide: Urban and Schortman
+
+Focus on:
+
+- what culture history was designed to accomplish;
+- the normative concept of culture;
+- archaeological cultures and culture areas;
+- traits and types;
+- space-time systematics;
+- typology;
+- stratigraphy;
+- presence and frequency seriation;
+- migration, diffusion, and independent invention;
+- the Naco Valley case;
+- how expectations shaped the interpretation of Maya influence.
+
+**Question:** How can the same theoretical framework help archaeologists organize evidence while also limiting what they are prepared to see?
+
+# 54. Reading Guide: Feinman and Neitzel (2020)
+
+This reading provides the main contemporary critique.
+
+Focus on:
+
+- why culture history survived after its formal rejection;
+- the five assumptions: biological-cultural equivalence, homogeneity, boundedness, primordialism, and sudden collective change;
+- empirical evidence against those assumptions;
+- the consequences of treating culture-historical units as real groups;
+- alternatives based on specific traits, agency, networks, and finer chronologies.
+
+**Question:** What exactly should be "excised" from culture history, and what archaeological work still needs to be preserved?
+
+# 55. Reading Guide: Crellin and Harris (2020)
+
+Focus on:
+
+- the power and limitations of ancient DNA;
+- culture-historical assumptions in some large-scale aDNA narratives;
+- fixed and exclusionary identity;
+- migration as an event requiring explanation;
+- nature/culture binaries;
+- assemblage thinking and post-humanism;
+- the value of allowing different forms of evidence to remain non-congruent.
+
+**Question:** Why does more technically powerful evidence not eliminate the need for archaeological theory?
+
+# 56. Reading Guide: Murray (2017)
+
+Focus on:
+
+- **plausibility**;
+- disciplinary tradition;
+- context of discovery versus context of justification;
+- nineteenth-century conditions that made culture-historical arguments convincing;
+- Montelius and Boyd Dawkins;
+- how inherited concepts can persist because they seem intuitively natural.
+
+**Question:** Why should archaeologists study the history of their own concepts rather than judging older theories only by current standards?
+
+# 57. Reading Guide: Trigger (2006)
+
+Focus on:
+
+- nationalism and ethnicity;
+- growing awareness of geographic variation;
+- diffusionism and migrationism;
+- Ratzel and Boas;
+- Kossinna;
+- Childe;
+- archaeological cultures;
+- the historical relationship between material distributions and ideas about peoples.
+
+**Question:** How did wider social and political circumstances help make archaeological culture a persuasive explanatory concept?
+
+# 58. Reading Guide: Feinman and Neitzel (2025)
+
+Use this reading primarily for its continuation of the Week 4 conceptual argument.
+
+Focus on:
+
+- the interpretive disconnect between increasingly sophisticated data and inherited categorical frameworks;
+- persistence of homogeneity, boundedness, and stepwise change;
+- question-driven comparison;
+- network perspectives;
+- fine-grained temporal analysis;
+- recurrent processes rather than rigid cultural boxes.
+
+**Question:** Why do better technologies require equally sophisticated conceptual frameworks?
+
+# 59. Core Concepts
+
+| Concept | Working definition |
+|---|---|
+| **Culture history** | Archaeological approach emphasizing classification and ordering of material remains in space and time |
+| **Historical particularism** | View that cultures have distinctive histories rather than positions on one universal developmental ladder |
+| **Normative culture** | Model of culture as shared learned norms guiding behavior |
+| **Archaeological culture** | Recurring material-trait complex defined in a particular spatial and temporal range |
+| **Trait** | Selected characteristic of an artifact, practice, or material pattern |
+| **Type** | Analytical category grouping artifacts sharing selected attributes |
+| **Typology** | System for classifying artifacts into types |
+| **Assemblage** | Associated collection of archaeological materials |
+| **Component** | Local site manifestation of a phase |
+| **Phase** | Archaeological unit restricted in space and time |
+| **Culture area** | Broad region defined by recurring cultural/material similarities |
+| **Space-time systematics** | Organization of archaeological evidence by spatial and chronological patterning |
+| **Stratigraphy** | Analysis of depositional relationships to establish sequence |
+| **Superposition** | Principle that undisturbed lower layers are generally earlier than layers above |
+| **Seriation** | Relative dating by ordering patterned artifact variation |
+| **Presence seriation** | Ordering based on appearance/disappearance of types |
+| **Frequency seriation** | Ordering based on changing proportions of types |
+| **Migration** | Movement of people |
+| **Diffusion** | Spread of ideas, practices, technologies, or objects through interaction |
+| **Independent invention** | Local development of a practice without borrowing it |
+| **Pots = people** | Shorthand for treating material clusters as direct proxies for human groups |
+| **Primordialism** | Treating social identities as natural, ancient, fixed, and enduring |
+| **Intragroup homogeneity** | Assumption that members of a group share largely uniform culture |
+| **Discrete boundaries** | Assumption that social/cultural groups have sharp spatial limits |
+| **Theory-ladenness** | Recognition that observation and classification are shaped by concepts and expectations |
+| **Social network** | Pattern of relationships linking individuals, households, institutions, or communities |
+| **Dynamic social field** | Relational social space with overlapping and changing interactions rather than fixed boundaries |
+| **aDNA** | Ancient DNA recovered from past biological remains |
+| **Non-congruence** | Situation in which different evidence types have different spatial or temporal distributions |
+| **Cultural transmission** | Processes through which practices or information are learned and passed among people |
+
+# 60. Week 4 Checklist
+
+Before moving on, can you explain:
+
+- why culture history became necessary as archaeology confronted deep time?
+- the difference between cultural evolutionism and historical particularism?
+- what a normative concept of culture is?
+- what Childe meant by an archaeological culture?
+- why "pots = people" is an inferential shortcut?
+- what space-time systematics does?
+- the differences among trait, type, assemblage, component, phase, and culture area?
+- why typology is a purposeful simplification?
+- stratigraphy and superposition?
+- presence and frequency seriation?
+- migration, diffusion, and independent invention?
+- why material change does not identify its own cause?
+- Murray's concept of plausibility and disciplinary tradition?
+- Trigger's account of nationalism, diffusionism, and culture history?
+- how the Naco Valley case demonstrates theory-ladenness?
+- why large datasets do not remove theoretical framing?
+- how processual archaeology challenged culture history?
+- why culture history nevertheless survived as infrastructure?
+- Feinman and Neitzel's five discredited assumptions?
+- why different material traits may have non-congruent distributions?
+- what primordialism means?
+- why period boxes can distort temporal process?
+- why aDNA does not automatically identify cultural groups?
+- Crellin and Harris's critique of the nature/culture binary?
+- why contradictory evidence can be productive?
+- how networks and dynamic social fields differ from bounded culture units?
+- why specific traits and fine-grained chronology can reveal processes hidden by culture labels?
+- why cultural transmission and migration remain legitimate research topics?
+- why rejecting classical culture history does not require rejecting all classification?
+
+# 61. Key Takeaways
+
+1. **Culture history made prehistory legible.** It transformed dispersed material remains into chronological and geographic sequences.
+2. **Its methodological achievements remain fundamental.** Typology, stratigraphy, seriation, classification, and spatial comparison are not obsolete.
+3. **The normative concept of culture linked shared ideas to recurring material forms.**
+4. **An archaeological culture is first an analytical pattern, not automatically a people.**
+5. **"Pots = people" compresses several inferential steps into one shortcut.**
+6. **Space, time, and form provide archaeological order but do not by themselves establish social identity.**
+7. **Types simplify variation for a purpose.**
+8. **Variation can be evidence rather than noise.**
+9. **Migration, diffusion, and independent invention are hypotheses about mechanisms, not automatic readings of artifact change.**
+10. **Culture history often externalized change because it imagined cultures as internally stable.**
+11. **Murray shows that disciplinary traditions shape what explanations appear plausible.**
+12. **Trigger shows that culture history developed within historical contexts of nationalism, ethnicity, and changing ideas about human creativity.**
+13. **The Naco Valley case demonstrates that theory shapes research expectations as well as interpretations.**
+14. **More data do not make archaeological analysis theory-free.**
+15. **Processual archaeology changed archaeology's explanatory ambitions but did not eliminate all inherited culture-historical assumptions.**
+16. **Culture history survived as disciplinary infrastructure.**
+17. **Feinman and Neitzel identify five persistent assumptions: biological-cultural equivalence, homogeneity, boundedness, primordialism, and sudden sequential change.**
+18. **Different traits often have different spatial boundaries and temporal histories.**
+19. **Ancient DNA is powerful evidence but not a neutral label-maker for prehistoric peoples.**
+20. **Genetic ancestry, archaeological culture, ethnicity, language, and political identity are analytically distinct.**
+21. **Identity can be multiple, overlapping, situational, and changing.**
+22. **Contradictory evidence can reveal historical complexity rather than analytical failure.**
+23. **Networks and social fields model relations without requiring fixed cultural containers.**
+24. **Fine-grained chronology allows archaeologists to study variable tempos instead of assuming holistic phase transitions.**
+25. **Specific trait histories can be more informative than totalizing culture labels.**
+26. **Agency, collective action, and social mechanisms redirect explanation toward processes involving real people and institutions.**
+27. **Cultural transmission remains important without requiring bounded cultures.**
+28. **Migration remains important without requiring wholesale culture replacement.**
+29. **The goal is not to abandon analytical structure but to build better structures whose assumptions are empirically defensible.**
+30. **Keep the chronology. Question the culture.**
+
+# 62. Bringing the Week Together
+
+The intellectual architecture of Week 4 can be represented as a transformation:
+
+```text
+                    CULTURE HISTORY
+                         │
+                         ▼
+            CLASSIFY MATERIAL VARIATION
+                         │
+                         ▼
+             BUILD SPACE-TIME ORDER
+                         │
+                         ▼
+           DEFINE ARCHAEOLOGICAL CULTURES
+                         │
+              ┌──────────┴──────────┐
+              ▼                     ▼
+      METHOD REMAINS USEFUL   SOCIAL EQUATION QUESTIONED
+              │                     │
+              ▼                     ▼
+ chronology / typology       homogeneity / boundedness /
+ stratigraphy / seriation    primordialism / replacement
+              │                     │
+              └──────────┬──────────┘
+                         ▼
+             CONTEMPORARY REFRAMING
+                         │
+                         ▼
+      traits + precise dates + variation + networks
+         + agency + social mechanisms + comparison
+```
+
+Culture history should therefore neither be celebrated uncritically nor dismissed as an embarrassing intellectual relic.
+
+It gave archaeology much of the methodological infrastructure needed to transform material remains into history. But the very success of that infrastructure allowed some assumptions to become difficult to see.
+
+The contemporary task is to separate the **ordering work** from the **categorical fiction**.
+
+Archaeologists still need chronology. They still need classifications. They still need to map distributions and identify recurring patterns. But the categories used to organize evidence should remain hypotheses and analytical tools rather than automatically becoming peoples, identities, or causal explanations.
+
+The deepest lesson is methodological:
+
+> **A category is useful when it helps us see a pattern. It becomes dangerous when we forget that we made it.**
+
+# References
+
+Crellin, R. J., & Harris, O. J. T. (2020). Beyond binaries: Interrogating ancient DNA. *Archaeological Dialogues, 27*, 37–56.
+
+Feinman, G. M. (2023). Reconceptualizing archaeological perspectives on long-term political change. *Annual Review of Anthropology, 52*, 347–364.
+
+Feinman, G. M., & Neitzel, J. E. (2020). Excising culture history from contemporary archaeology. *Journal of Anthropological Archaeology, 60*, 101230.
+
+Feinman, G. M., & Neitzel, J. E. (2023). The social dynamics of settling down. *Journal of Anthropological Archaeology, 69*, 101468.
+
+Feinman, G. M., & Neitzel, J. E. (2025). The future of humanity's past: U.S. archaeology confronts a research hinge point.
+
+Murray, T. (2017). The origins of culture history in prehistoric archaeology: Rethinking plausibility and disciplinary tradition. *World Archaeology, 49*(2), 187–197.
+
+Shennan, S. (2000). Population, culture history, and the dynamics of culture change. *Current Anthropology, 41*(5), 811–835.
+
+Trigger, B. G. (2006). Culture-historical archaeology. In *A History of Archaeological Thought* (2nd ed.). Cambridge University Press.
+
+Urban, P., & Schortman, E. (2019). Culture history. In *Archaeological Theory in Practice*. Routledge.
+
+## Supplementary Reading
+
+Brinkmann, J., & Arponen, V. P. J. (2025). Tackling an old dilemma anew: A reflective modular approach for analysing the concept of archaeological cultures in European prehistoric archaeology. *Germania, 102*, 1–30.
+
+# One-Sentence Summary
+
+**Culture history gave archaeology the methods to order prehistory in space and time, but contemporary archaeology must preserve those methods while refusing to treat analytical categories as automatically homogeneous, bounded, biological, or primordial human groups.**

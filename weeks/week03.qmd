@@ -1,28 +1,1262 @@
 ---
-title: "Week 3 — What Is Theory in Archaeology?"
+title: "Week 3 — Levels of Archaeological Interpretation"
 toc: true
+toc-depth: 3
 ---
 
-## Overview
 
-Study guide forthcoming.
+## Central Question
 
-## Key Questions
+**How can archaeologists move responsibly from material traces in the
+present to explanations of past human behavior, social organization, and
+historical change?**
 
-Content forthcoming.
+Archaeological evidence does not narrate the past by itself.
+Archaeologists observe artifacts, features, sediments, bones, chemical
+signatures, spatial distributions, buildings, and landscapes in the
+present. They then construct arguments that connect those observations
+to claims about activities, institutions, meanings, and processes that
+usually cannot be observed directly.
 
-## Key Concepts
+This makes Week 3 fundamentally about **epistemology**: how
+archaeological knowledge is possible, how it is justified, and how we
+decide whether one interpretation is better supported than another.
 
-Content forthcoming.
+The central position developed in the lecture is:
 
-## Required Readings
+> **Archaeological knowledge is theory-mediated but materially
+> constrained.**
 
-See the [course syllabus](../syllabus.qmd).
+"Theory-mediated" means that observations and interpretations depend on
+concepts, classifications, methods, comparisons, background knowledge,
+and research questions. "Materially constrained" means that
+archaeologists cannot simply make the past mean anything they want.
+Evidence can conflict with expectations, weaken an interpretation,
+support alternatives, and force researchers to revise what they thought
+they knew.
 
-## Lecture Materials
+# 1. From Evidence to Interpretation
 
-Lecture materials forthcoming.
+``` text
+PRESENT OBSERVATIONS
+artifacts | features | bones | sediments | isotopes | spatial patterns
+                              ↓
+                    INFERENTIAL REASONING
+              concepts | methods | comparison |
+             formation theory | background knowledge
+                              ↓
+CLAIMS ABOUT THE PAST
+behavior | mobility | economy | social organization | historical change
+```
 
-## Weekly Reflection
+The middle part is crucial. An object does not automatically tell us
+what happened. We need an **inferential warrant**: a reason for
+believing that observed evidence supports a claim.
 
-See [Assignments](../assignments/index.qmd).
+Finding many imported obsidian blades at a settlement, for example,
+establishes an observation. It does not by itself establish a market
+economy. Archaeologists would need to ask how the obsidian arrived, who
+had access to it, how it was distributed, whether exchange was
+centralized or decentralized, and what alternative mechanisms could
+produce the same pattern.
+
+The archaeological record is therefore neither a transparent set of
+facts nor an arbitrary text.
+
+# 2. What Is Epistemology?
+
+**Epistemology** is the study of knowledge: its sources, limits,
+justification, and reliability.
+
+For archaeology, the problem is unusually sharp because archaeologists
+normally cannot observe the people and processes they study directly.
+Banning emphasizes that archaeology shares this difficulty with other
+**historical disciplines** that reconstruct past events from evidence
+available now.
+
+The fundamental question is:
+
+> **How do we know what we think we know about the past?**
+
+How do we know that a stone edge was used for cutting? That a person
+migrated? That households participated in markets? That political
+authority became more centralized? Epistemology asks what makes those
+claims warranted rather than merely possible.
+
+# 3. Trigger's Three Epistemological Orientations
+
+Bruce Trigger uses three broad traditions to organize debates about
+archaeological knowledge:
+
+  ------------------------------------------------------------------------
+  Orientation       Main emphasis     Major contribution Major risk
+  ----------------- ----------------- ------------------ -----------------
+  **Positivism**    Observation,      Explicit and       Reductionism or
+                    hypothesis        testable arguments overly narrow
+                    testing,                             accounts of human
+                    empirical                            action
+                    regularity                           
+
+  **Idealism**      Meaning,          Recognizes agency, Interpretation
+                    intention,        meaning, and       can become
+                    culturally        theory-ladenness   difficult to
+                    mediated                             constrain if
+                    perception                           taken too far
+
+  **Realism**       External reality  Combines           Requires careful
+                    plus fallible     interpretation     explanation of
+                    knowledge         with evidential    how evidence
+                                      constraint         constrains claims
+  ------------------------------------------------------------------------
+
+These are **analytical tendencies**, not rigid boxes.
+
+# 4. Positivism: Observation and Testing
+
+Positivism emphasizes disciplined observation, explicit propositions,
+comparison, and empirical testing. This orientation strongly influenced
+**processual archaeology** or the **New Archaeology** of the 1960s and
+1970s. Processual archaeologists argued that archaeology should move
+beyond description and chronology toward explanation.
+
+Its strength is methodological explicitness. Researchers should identify
+what they are explaining, what variables matter, what relationship is
+proposed, what evidence should exist if the explanation is correct, and
+what would count against it.
+
+But strict positivist approaches can become reductive. Human beings do
+not simply respond mechanically to environmental or economic pressures.
+Meaning, ideology, history, agency, identity, and power can also affect
+behavior.
+
+> **Explanation matters, but explanation must not flatten the complexity
+> of human action.**
+
+# 5. Idealism: Meaning and Intention
+
+Idealist approaches emphasize that human action is meaningful. People
+act within culturally constituted worlds. A building is not simply
+shelter. A burial is not simply disposal of a corpse. A pot may be
+simultaneously a tool, commodity, heirloom, status marker, ritual
+object, or sign of belonging.
+
+R. G. Collingwood emphasized reconstructing reasoning and intentions
+involved in past action. Later interpretive and postprocessual
+archaeologies likewise emphasized meaning, symbolism, agency, ideology,
+and historically situated understanding.
+
+A major insight is the **theory-ladenness of observation**. Calling
+something a "house," "temple," "elite burial," "ethnic style," or even
+an "artifact type" already involves concepts and classification.
+
+> **Interpretation is unavoidable; unconstrained interpretation is not
+> enough.**
+
+# 6. Realism: Theory-Mediated but Constrained
+
+Realism provides a way beyond a simple opposition between objective
+facts and subjective interpretation.
+
+A realist position can hold two propositions simultaneously:
+
+1.  **Ontological realism:** past events and material processes occurred
+    independently of what archaeologists now think about them.
+2.  **Epistemic fallibilism:** our knowledge is constructed through
+    imperfect concepts, methods, instruments, classifications, and
+    research traditions.
+
+This is why archaeological knowledge can be both **constructed** and
+**constrained**. Trigger argues that archaeological data were created
+independently of archaeologists and can therefore resist our
+interpretations.
+
+The point is not certainty. The point is **accountability to evidence**.
+
+# 7. Archaeology Between Science, Social Science, and Humanities
+
+Is archaeology a science? The readings show why a simple yes/no answer
+is not very useful.
+
+Orser describes archaeology as occupying a position between science and
+history, drawing on systematic empirical methods and humanistic
+interpretation. Smith argues more specifically that much archaeology
+belongs comfortably within the modern **social sciences**.
+
+Smith's science emphasizes reason and observation, critical testing,
+provisional findings, interconnected evidence and theory, and evaluation
+by communities of researchers. It does not require universal laws or
+laboratory experiments.
+
+This matters because archaeology studies ancient cities, political
+systems, migrations, inequalities, and long-term historical
+change---phenomena that cannot simply be recreated in a laboratory.
+
+# 8. Common Sense Is Not Enough
+
+Urban and Schortman distinguish **common sense** from systematic
+theoretical reasoning.
+
+Common sense is indispensable in everyday life, but it is built from
+culturally learned categories and assumptions that often remain
+implicit.
+
+Suppose an archaeologist assumes weapons are male, domestic tools are
+female, large houses are elite, unusual objects are religious, or
+monumental buildings require centralized states. These propositions may
+feel intuitive because they fit a familiar worldview. Familiarity is not
+evidence.
+
+Theory is useful partly because it makes concepts and relationships
+**explicit enough to criticize and test**.
+
+# 9. Explanation
+
+Urban and Schortman treat explanation as an attempt to identify causes
+and consequences and answer why something occurred as observed.
+
+**Description:** imported obsidian becomes more frequent in later
+settlement phases.
+
+**Explanation:** expanding exchange networks reduced acquisition costs
+and increased household access to imported obsidian.
+
+The second statement adds a causal mechanism and therefore requires
+additional evidence.
+
+# 10. Inference to the Best Explanation
+
+Urban and Schortman emphasize **inference to the best explanation
+(IBE)**. Several explanations may be compatible with the same
+observations. Archaeologists compare alternatives and ask which account
+best explains the available evidence.
+
+Important criteria include:
+
+-   **generality** --- explains a wider and more diverse body of
+    evidence;
+-   **relative simplicity** --- avoids unnecessary assumptions;
+-   **refutability** --- could be shown to be wrong;
+-   **expandability** --- can accommodate relevant new evidence.
+
+"Best" does not mean proven forever. IBE is **open-ended**.
+
+> **Do not ask only whether an interpretation fits the evidence. Ask
+> whether alternatives fit it as well or better.**
+
+# 11. Deduction, Induction, and Abduction
+
+Banning distinguishes three forms of reasoning.
+
+**Deduction:** the conclusion must be true if the premises are true.
+Stratigraphic reasoning can sometimes take this form.
+
+**Induction:** evidence supports a conclusion without logically
+guaranteeing it. Archaeology relies heavily on induction because it
+works with samples, analogies, probabilities, and incomplete evidence.
+
+**Abduction:** an informed conjecture or preliminary explanation. An
+unusual artifact might suggest a possible function, which can then be
+investigated through residues, use-wear, comparison, or experiment.
+
+Abduction is especially important for **generating new questions**. It
+should not be confused with confirmation.
+
+# 12. Hypotheses, Theories, and Speculation
+
+A **hypothesis** is a proposition that guides investigation and can be
+evaluated with evidence. A **theory** organizes concepts and
+relationships, generates questions and expectations, and helps explain
+observations.
+
+**Speculation** can generate possibilities, but it becomes
+archaeologically stronger only when an evidential route exists for
+evaluating it.
+
+``` text
+question → hypothesis → evidence → evaluation
+                ↑                    ↓
+                └──── revision ──────┘
+```
+
+Evidence can strengthen, weaken, or redirect hypotheses.
+
+# 13. Testability: What Would Count Against the Claim?
+
+Smith's practical question is:
+
+> **How would you know if you are wrong?**
+
+The lecture translates this into:
+
+> **What evidence would make this interpretation less plausible?**
+
+Suppose growing political centralization is proposed to have caused
+craft production to become more centrally controlled. What else should
+be visible---production concentration, standardization, controlled raw
+materials, administrative devices? What observations would weaken the
+claim?
+
+If **every possible result** can be redescribed as support, the
+explanation is difficult to evaluate.
+
+# 14. Mechanisms: Correlation Is Not Explanation
+
+Settlement size may correlate with craft specialization. Imported goods
+may correlate with wealth. Population density may correlate with
+agricultural intensification.
+
+But correlation alone does not tell us **why** variables are connected.
+
+A **causal mechanism** specifies a process capable of generating the
+observed relationship.
+
+``` text
+OBSERVED PATTERN
+       ↓
+PROPOSED MECHANISM
+       ↓
+ADDITIONAL EXPECTATIONS
+       ↓
+INDEPENDENT TESTS
+```
+
+# 15. Correspondence, Coherence, and Equifinality
+
+Trigger highlights two tests of explanation.
+
+**Correspondence** asks whether an explanation fits relevant empirical
+evidence. A claim that drought caused political collapse requires
+evidence that drought occurred at the relevant time and place.
+
+**Coherence** asks whether the argument is logically consistent.
+
+Strong explanations need both.
+
+**Equifinality** means that different processes can produce similar
+outcomes. Political decentralization might result from drought, warfare,
+succession crises, economic disruption, internal political conflict, or
+combinations of these.
+
+Equifinality is one reason archaeologists must compare alternatives
+rather than move directly from pattern to cause.
+
+# 16. Not All Theory Works at the Same Level
+
+The lecture distinguishes three levels:
+
+``` text
+HIGH-LEVEL THEORY
+broad frameworks of society, history, and long-term change
+                  ↕
+MIDDLE-LEVEL THEORY
+testable explanatory propositions about recurrent social processes
+                  ↕
+LOW-LEVEL GENERALIZATIONS
+empirical regularities in archaeological observations
+```
+
+These are not mechanical stages. Archaeologists move back and forth
+among them.
+
+# 17. Low-Level Generalizations: Establish the Pattern
+
+Low-level generalizations are closest to archaeological observations.
+
+Examples include pottery types in particular stratigraphic horizons,
+house forms concentrated in one settlement sector, burial forms changing
+after a chronological threshold, or obsidian from one source increasing
+through time.
+
+They answer:
+
+> **What regularity do we observe?**
+
+Trigger emphasizes that correlations among archaeological observations
+are not yet explanations of human behavior.
+
+``` text
+Observation:
+Later households contain more imported obsidian.
+
+Low-level generalization:
+Imported obsidian increased through time.
+```
+
+That is important, but it does not explain why.
+
+# 18. Middle-Level Theory: Testable Social Explanation
+
+Middle-level theory occupies an intermediate level of abstraction. It
+asks what **recurrent social mechanism** might explain an empirical
+pattern.
+
+Examples might connect:
+
+-   population pressure and agricultural intensification;
+-   market expansion and occupational specialization;
+-   settlement density and interaction frequency;
+-   institutional centralization and administrative infrastructure;
+-   inequality and differential access to resources.
+
+Middle-level theories are broader than a single case but empirically
+specific enough to investigate.
+
+> **What social process could generate this recurring pattern, and what
+> additional evidence should that process produce?**
+
+# 19. High-Level Theory: Broad Frameworks
+
+High-level theory works at greater abstraction.
+
+Examples in the lecture include cultural ecology, Marxism and historical
+materialism, structuralism, evolutionary approaches, practice theory,
+poststructuralism, materiality, and agency.
+
+These frameworks orient attention. They suggest what entities,
+variables, relationships, or historical processes may matter.
+
+They are not normally confirmed or rejected by one artifact
+distribution. Their usefulness is assessed indirectly through the
+coherence, scope, and repeated empirical performance of more specific
+arguments.
+
+Urban and Schortman's metaphor is useful: theory resembles a
+**flashlight**. It illuminates some aspects of a complex world while
+leaving others in shadow.
+
+# 20. Worked Example: Boserup and Agricultural Intensification
+
+Trigger uses Ester Boserup's proposition as an example of middle-level
+theory.
+
+``` text
+Increasing population pressure
+              ↓
+Greater demand for production
+              ↓
+Increased labor investment
+              ↓
+More intensive cultivation
+```
+
+At the **low level**, archaeologists might document increasing
+settlement density, terraces or irrigation, changing field systems,
+agricultural tools, crop changes, or altered land use.
+
+At the **middle level**, the Boserupian proposition links population
+conditions to labor investment and agricultural intensification,
+producing archaeological expectations.
+
+At the **high level**, results may contribute to broader debates about
+cultural ecology, political economy, household labor, state formation,
+or human-environment relations.
+
+Different levels therefore answer different questions.
+
+# 21. Hawkes' Ladder of Inference
+
+Christopher Hawkes proposed a famous hierarchy of interpretive
+difficulty:
+
+``` text
+technology
+    ↓
+subsistence and economy
+    ↓
+social and political organization
+    ↓
+religious ideas and beliefs
+```
+
+Its lasting value is not that religion is always impossible to infer or
+technology always easy. The difficulty of an inference depends on
+context and evidence.
+
+The durable lesson is:
+
+> **Different claims require different warrants.**
+
+# 22. Formation Processes and the Inferential Bridge
+
+Michael Schiffer's work directs attention to transformations between
+human activity and archaeological observation:
+
+**use → reuse → discard → deposition → disturbance → decay → sampling →
+recovery**
+
+Before an artifact distribution is used to explain social organization,
+archaeologists need confidence that the pattern is not primarily a
+product of formation processes.
+
+This prepares us for **Binfordian middle-range theory**.
+
+# 23. The Terminological Problem: Two Meanings of "Middle"
+
+One of Week 3's most important distinctions is that **Robert K. Merton
+and Lewis Binford used similar terminology for different intellectual
+purposes**.
+
+``` text
+MERTONIAN / SMITHIAN
+MIDDLE-RANGE THEORY
+empirical social theory
+explains recurrent social mechanisms
+
+             ≠
+
+BINFORDIAN
+MIDDLE-RANGE THEORY
+linking / formation theory
+connects traces to behavior and processes
+```
+
+For teaching clarity, the lecture uses:
+
+-   **middle-level empirical theory** for the Mertonian/Smithian form of
+    social explanation;
+-   **Binfordian middle-range theory (MRT)** for archaeological linking
+    and formation arguments.
+
+This is a **pedagogical and functional distinction**. It should not be
+turned into a false claim that the histories are completely separate.
+
+Trigger explicitly notes that middle-level theory and Binfordian
+middle-range theory are **not identical**, because middle-level theory
+may concern human behavior alone whereas middle-range theory must
+connect behavior with archaeologically observable traits. But Trigger
+also treats Binford's middle-range theory as a **special type of
+middle-level theory**.
+
+# 24. Binfordian Middle-Range Theory: Statics to Dynamics
+
+Binfordian MRT addresses a specific inferential problem:
+
+> **How can observable material patterns in the present be linked to
+> unobservable behavioral and formation processes in the past?**
+
+``` text
+OBSERVED STATICS
+bones | artifacts | hearths | spatial distributions
+                    ↓
+BINFORDIAN MRT
+actualistic comparison | ethnoarchaeology |
+experiments | taphonomy | formation processes
+                    ↓
+INFERRED DYNAMICS
+discard | butchery | mobility | activity organization |
+occupation history | site formation
+```
+
+The bridge must be **argued rather than assumed**.
+
+# 25. Actualistic Research
+
+**Actualistic research** studies present processes to understand how
+material patterns are generated.
+
+Important forms include:
+
+**Ethnoarchaeology** --- investigates relationships among observed
+behavior, material culture, spatial organization, and discard.
+
+**Experimental archaeology** --- reproduces processes such as stone-tool
+manufacture, burning, building, breakage, or use-wear formation.
+
+**Taphonomy** --- studies processes affecting remains between death,
+deposition, burial, recovery, and analysis.
+
+These methods do not provide direct analogies that can simply be copied
+onto the past. They investigate **causal relationships between processes
+and material consequences**.
+
+# 26. Worked Example: Nunamiut Ethnoarchaeology
+
+Binford's ethnoarchaeological research among the Nunamiut became a
+classic example of middle-range reasoning.
+
+Paleolithic archaeologists debated why Mousterian stone-tool assemblages
+differed. François Bordes emphasized recurring assemblage types and
+interpreted much variation as cultural tradition. Lewis and Sally
+Binford argued that some variation might instead reflect activities and
+site function.
+
+Binford's observations of hearth-centered activities contributed to the
+distinction between:
+
+-   a **drop zone** near the activity area, where small debris
+    accumulated;
+-   **toss zones** farther away, where larger unwanted materials were
+    discarded.
+
+``` text
+             FORWARD TOSS AREA
+            larger discarded items
+
+                    ↑
+
+             +----------------+
+             |   DROP ZONE    |
+             |  small debris  |
+             |     HEARTH     |
+             | seated activity|
+             +----------------+
+
+                    ↓
+
+             BACKWARD TOSS AREA
+```
+
+The importance of the example is methodological, not that it permanently
+settled every Mousterian debate.
+
+``` text
+observed behavior
+       ↓
+behavior–material relationship
+       ↓
+testable archaeological expectation
+```
+
+# 27. Mertonian Middle-Range Theory
+
+Robert K. Merton developed **theories of the middle range** in sociology
+between two extremes:
+
+-   narrow empirical observations with little explanatory reach;
+-   all-encompassing grand theories operating at very high abstraction.
+
+Mertonian middle-range theory identifies social mechanisms general
+enough to apply beyond one case but specific enough to investigate
+empirically.
+
+Examples include social mobility, institutional organization, division
+of labor, markets, reference groups, and social networks.
+
+This performs a different epistemological job from Binfordian MRT.
+
+# 28. Smith and Empirical Social Theory
+
+Michael E. Smith emphasizes empirically accountable social explanation
+in archaeology.
+
+This kind of theory has:
+
+-   less abstraction than high-level social theory;
+-   more empirical content;
+-   explicit concepts and mechanisms;
+-   observable implications that can be evaluated archaeologically.
+
+It asks questions such as:
+
+-   How do markets become integrated?
+-   How does population concentration alter interaction?
+-   How does occupational specialization develop?
+-   How do institutions affect access to resources?
+-   How does the built environment shape social interaction?
+
+These are questions about **how social systems operated**, not primarily
+about how a deposit formed.
+
+# 29. Worked Example: Markets and Household Production
+
+Imagine archaeologists studying households across several settlements
+and documenting:
+
+-   imported materials;
+-   craft tools;
+-   production debris;
+-   household goods;
+-   settlement distributions.
+
+A middle-level social explanation might propose increasing market
+integration and occupational specialization.
+
+``` text
+EMPIRICAL OBSERVATIONS
+household goods | imports | craft tools | production evidence
+                         ↓
+MIDDLE-LEVEL SOCIAL THEORY
+market exchange | specialization | division of labor
+                         ↓
+TESTABLE EXPECTATIONS
+broader distributions | production differentiation |
+variation in household access | settlement-size relationships
+```
+
+The explanatory question is not simply:
+
+> How did these artifacts enter the archaeological record?
+
+It is:
+
+> **What social and economic mechanisms generated recurrent patterns
+> across households and settlements?**
+
+# 30. The Critical Distinction
+
+  -----------------------------------------------------------------------
+  Feature                 **Binfordian            **Mertonian / Smithian
+                          middle-range theory**   empirical theory**
+  ----------------------- ----------------------- -----------------------
+  Central problem         How do material remains What mechanisms explain
+                          relate to past behavior recurrent patterns in
+                          and formation           social organization?
+                          processes?              
+
+  Inferential focus       Traces ↔ behavior /     Social patterns ↔
+                          formation               causal mechanisms
+
+  Typical methods         Ethnoarchaeology,       Comparative,
+                          experiment, taphonomy,  institutional, spatial,
+                          actualistic studies     urban, economic
+                                                  analysis
+
+  Example question        Why does debris cluster How did market
+                          around this hearth?     integration affect
+                                                  household production?
+
+  Contribution            Strengthens links       Explains how social
+                          between record and      systems operate
+                          behavior                
+  -----------------------------------------------------------------------
+
+Neither is inherently "higher" or more important. They solve **different
+epistemological problems**.
+
+# 31. A Better Model of Archaeological Reasoning
+
+A single vertical ladder can be misleading. A better model recognizes
+two connected inferential tasks:
+
+``` text
+                    HIGH-LEVEL THEORY
+      broad frameworks of society, history, power, ecology
+                            ↕
+             MIDDLE-LEVEL EMPIRICAL THEORY
+      testable mechanisms of markets, institutions,
+        labor, inequality, social organization
+
+====================================================
+
+ARCHAEOLOGICAL OBSERVATIONS
+artifacts | features | bones | deposits | chemical signatures
+                            ↕
+             BINFORDIAN MIDDLE-RANGE THEORY
+      linking arguments about behavior and formation
+                            ↕
+               CLAIMS ABOUT PAST ACTIVITIES
+      discard | mobility | production | occupation | use
+```
+
+The domains interact. Formation theory may establish that obsidian
+blades were discarded during household production. Those reconstructed
+activities can then become evidence in a middle-level explanation of
+specialization and market exchange.
+
+``` text
+material traces
+      ↓
+formation / linking arguments
+      ↓
+reconstructed activities
+      ↓
+middle-level social mechanisms
+      ↓
+broader theoretical interpretation
+```
+
+# 32. Strong and Weak Theory
+
+Lucas and Witmore challenge another assumption: that theory must always
+arrive first as a ready-made conceptual framework.
+
+They distinguish **strong theory** from **weak theory**.
+
+**Strong theory** tends to supply a framework in advance. It brings
+concepts, categories, and expectations to a case and seeks to organize
+observations through them.
+
+**Weak theory** deliberately hesitates. It gives greater room for
+objects, places, anomalies, and unexpected observations to redirect
+inquiry.
+
+Their example of the "recalcitrant" potsherd is useful. Most sherds fit
+established categories. One burned sherd does not. Instead of forcing it
+into an existing box, the archaeologist allows its awkwardness to
+generate a new question.
+
+Weak theory is therefore associated with **slow archaeology**, patience,
+prolonged observation, ambiguity, and openness to unforeseen insights.
+
+This does not mean "no theory." It asks:
+
+> **How much should theory determine in advance, and how much should the
+> archaeological situation be allowed to redirect our thinking?**
+
+# 33. Theory After Grand Paradigms
+
+Lucas and Witmore also question the familiar history of archaeology as a
+succession of dominant "-isms."
+
+Twentieth-century theory debates were often narrated as competition
+among culture history, processualism, postprocessualism, Marxism,
+structuralism, and other paradigms.
+
+Contemporary archaeology is more theoretically plural. Concepts such as
+agency, materiality, gender, practice, networks, and ontology may be
+used without total allegiance to one grand school.
+
+But theoretical pluralism does not mean theory disappears.
+
+The danger of declaring "the death of theory" is a return to **naive
+empiricism**: the idea that enough data can reveal the past without
+conceptual mediation.
+
+The Week 3 answer is clear:
+
+> **There is no theory-free route from archaeological data to historical
+> explanation.**
+
+# 34. Worked Example: Competing Explanations
+
+Imagine a settlement in which later households contain more imported
+pottery and obsidian than earlier households.
+
+### Low-level pattern
+
+Imported goods increase through time.
+
+### Possible explanations
+
+1.  regional market exchange intensified;
+2.  political elites redistributed imported goods;
+3.  migration brought people with different consumption practices;
+4.  sampling happened to expose wealthier later households;
+5.  chronological mixing inflated the later counts.
+
+### Formation/linking questions
+
+Are the deposits contemporary? Are goods in primary contexts? Were later
+deposits sampled more intensively? Are objects household consumption
+refuse or redeposited material?
+
+### Middle-level social questions
+
+If markets intensified, should access become broader across households?
+If elite redistribution dominated, should imports cluster near
+high-status residences? If migration is important, do isotopic or
+stylistic patterns provide independent evidence?
+
+### High-level questions
+
+How would the result bear on wider models of political economy,
+inequality, urbanization, or regional integration?
+
+The example shows why archaeological interpretation requires **several
+kinds of theory doing different jobs**.
+
+# 35. Guided Practice
+
+## Exercise A: Identify the level
+
+Classify each statement as low-level generalization, middle-level social
+explanation, high-level framework, or Binfordian linking argument.
+
+1.  Red-slipped pottery increases from Phase II to Phase III.
+2.  Greater settlement density increased opportunities for specialized
+    exchange.
+3.  Experimental burning shows that this surface alteration forms above
+    a particular temperature.
+4.  Historical materialism directs attention to relations between labor,
+    surplus, and power.
+
+Then explain *why* each belongs where you placed it.
+
+## Exercise B: Find the mechanism
+
+Observation: larger settlements contain more craft workshops.
+
+Generate two different mechanisms that could produce this relationship.
+For each, identify one additional archaeological expectation.
+
+## Exercise C: Testability
+
+Choose an interpretation from an archaeological article and ask:
+
+-   What observations support it?
+-   What would make it less plausible?
+-   Is there any possible observation the author would accept as
+    contrary evidence?
+-   Are alternatives compared?
+
+## Exercise D: Strong versus weak theory
+
+Imagine that one artifact refuses to fit your typology.
+
+A strong-theory response might classify it using the closest existing
+category.
+
+A weak-theory response might pause and ask why the object resists the
+classification.
+
+What new research question could the anomaly generate?
+
+# 36. Reading Guide
+
+## Urban and Schortman, "Explanation, Theory, and the Social Sciences"
+
+Focus on:
+
+-   explanation as causal reasoning;
+-   inference to the best explanation;
+-   generality, simplicity, refutability, and expandability;
+-   common sense versus systematic theoretical reasoning;
+-   low-, middle-, and high-level theory;
+-   analogy and middle-range theory;
+-   why social-science explanations remain provisional.
+
+**Question:** How does theory improve on common sense without giving
+archaeologists certainty?
+
+## Michael E. Smith, "Social Science and Archaeological Enquiry"
+
+Focus on:
+
+-   archaeology as social science;
+-   science as epistemology rather than merely laboratory technique;
+-   reason, observation, criticism, provisional knowledge, and scholarly
+    communities;
+-   testability;
+-   causality and mechanisms;
+-   the relationship among natural sciences, social sciences, and
+    humanities.
+
+**Question:** What makes an archaeological explanation scientifically
+accountable in Smith's sense?
+
+## E. B. Banning, "How Archaeologists Figure Things Out"
+
+Focus on:
+
+-   archaeology as a historical discipline;
+-   epistemology;
+-   deduction, induction, and abduction;
+-   analogy;
+-   hypotheses, theories, and speculation;
+-   the research cycle;
+-   uncertainty in archaeological inference.
+
+**Question:** Why are most archaeological conclusions inductive rather
+than deductively certain?
+
+## Lucas and Witmore, "Paradigm Lost"
+
+Focus on:
+
+-   what theory does rather than simply which theory an archaeologist
+    follows;
+-   decline of grand paradigms;
+-   theoretical pluralism;
+-   critique of naive empiricism;
+-   strong versus weak theory;
+-   recalcitrant objects;
+-   slow archaeology and openness to surprise.
+
+**Question:** What changes when theory is allowed to emerge through
+engagement with archaeological things rather than simply being applied
+to them?
+
+## Charles E. Orser Jr., Chapters 1 and 4
+
+Focus on:
+
+-   critical archaeological thinking;
+-   evidence versus belief;
+-   competing interpretations;
+-   archaeology between science and history;
+-   logic and rigor;
+-   changing interpretations;
+-   the need to distinguish warranted interpretation from unsupported
+    claims.
+
+**Question:** What habits of reasoning allow archaeologists to evaluate
+competing interpretations without assuming that archaeological knowledge
+is final?
+
+## Bruce G. Trigger, "Archaeological Interpretation"
+
+Focus on:
+
+-   science as a method of knowing;
+-   theories and explanation;
+-   positivism, idealism, and realism;
+-   low-, middle-, and high-level generalizations;
+-   middle-level versus middle-range theory;
+-   correspondence and coherence;
+-   equifinality;
+-   why induction and deduction are not an either/or choice.
+
+**Question:** How do different levels of generalization connect
+archaeological observations to explanations of human behavior?
+
+# 37. Core Concepts to Know
+
+  -----------------------------------------------------------------------
+  Concept                             Working definition
+  ----------------------------------- -----------------------------------
+  **Epistemology**                    Study of the nature, sources,
+                                      limits, and justification of
+                                      knowledge
+
+  **Theory-mediated knowledge**       Knowledge produced through
+                                      concepts, methods, categories, and
+                                      background assumptions
+
+  **Evidential constraint**           Capacity of evidence to support,
+                                      weaken, or force revision of
+                                      interpretations
+
+  **Positivism**                      Orientation emphasizing systematic
+                                      observation, explicit hypotheses,
+                                      and empirical testing
+
+  **Idealism**                        Orientation emphasizing mind,
+                                      meaning, intention, and
+                                      conceptually mediated perception
+
+  **Realism**                         Position combining an independently
+                                      existing world with fallible
+                                      knowledge of it
+
+  **Theory-ladenness**                Recognition that observations are
+                                      shaped by concepts and categories
+
+  **Explanation**                     Account identifying why a pattern
+                                      or event occurred
+
+  **Inference to the best             Comparison of alternative
+  explanation**                       explanations to identify the most
+                                      strongly supported account
+
+  **Deduction**                       Reasoning in which a valid
+                                      conclusion necessarily follows from
+                                      true premises
+
+  **Induction**                       Reasoning in which evidence
+                                      supports but does not guarantee a
+                                      conclusion
+
+  **Abduction**                       Generation of a plausible
+                                      explanatory possibility or
+                                      hypothesis
+
+  **Hypothesis**                      Proposition formulated for
+                                      investigation and evidential
+                                      evaluation
+
+  **Testability**                     Capacity of a claim to encounter
+                                      evidence that could count against
+                                      it
+
+  **Causal mechanism**                Process that explains how or why an
+                                      observed relationship is produced
+
+  **Correspondence**                  Fit between an explanation and
+                                      relevant empirical evidence
+
+  **Coherence**                       Logical consistency of an argument
+
+  **Equifinality**                    Production of similar outcomes by
+                                      different causal processes
+
+  **Low-level generalization**        Empirical regularity among
+                                      archaeological observations
+
+  **Middle-level theory**             Empirically testable explanation of
+                                      recurrent social relationships or
+                                      mechanisms
+
+  **High-level theory**               Broad, abstract framework
+                                      concerning society, history, or
+                                      long-term change
+
+  **Middle-range theory               Linking theory connecting material
+  (Binfordian)**                      traces with past behavior or
+                                      formation processes
+
+  **Actualistic research**            Study of present processes to
+                                      investigate relationships between
+                                      processes and material consequences
+
+  **Ethnoarchaeology**                Study of material-behavior
+                                      relationships in living or
+                                      historically documented communities
+
+  **Experimental archaeology**        Controlled investigation of
+                                      processes capable of producing
+                                      archaeological traces
+
+  **Taphonomy**                       Study of transformations affecting
+                                      organic remains between death and
+                                      recovery
+
+  **Strong theory**                   Theory that supplies substantial
+                                      conceptual structure in advance of
+                                      engagement with a case
+
+  **Weak theory**                     Theorizing that withholds
+                                      ready-made explanation and allows
+                                      objects and situations to redirect
+                                      inquiry
+
+  **Naive empiricism**                Assumption that data can reveal
+                                      truth without conceptual or
+                                      theoretical mediation
+
+  **Theoretical pluralism**           Coexistence and selective use of
+                                      multiple theoretical approaches
+                                      rather than allegiance to one
+                                      paradigm
+  -----------------------------------------------------------------------
+
+# 38. Week 3 Checklist
+
+Before moving on, can you explain:
+
+-   why archaeological evidence does not narrate the past by itself?
+-   what epistemology means in archaeology?
+-   the differences among positivism, idealism, and realism?
+-   why theory-ladenness does not mean "anything goes"?
+-   why Smith treats archaeology as a social science?
+-   the difference between common sense and explicit theory?
+-   inference to the best explanation?
+-   deduction, induction, and abduction?
+-   what testability means in practice?
+-   why a causal mechanism is more than a correlation?
+-   correspondence, coherence, and equifinality?
+-   low-, middle-, and high-level theory?
+-   the Boserup example at all three levels?
+-   why Hawkes' ladder is useful but not a universal law?
+-   what Binfordian middle-range theory is designed to do?
+-   the role of actualistic research?
+-   the difference between Mertonian/Smithian empirical theory and
+    Binfordian MRT?
+-   strong versus weak theory?
+-   why contemporary theoretical pluralism is not the same as
+    theory-free archaeology?
+
+# 39. Key Takeaways
+
+1.  **Archaeological evidence is indirect.** Archaeologists observe
+    present traces and infer past processes.
+2.  **Archaeological knowledge is theory-mediated but materially
+    constrained.**
+3.  **Epistemology asks how archaeological claims are justified.**
+4.  **Positivism, idealism, and realism emphasize different dimensions
+    of knowledge.**
+5.  **Theory-ladenness does not make evidence powerless.**
+6.  **Archaeology can operate as a social science without copying an
+    outdated model of natural science.**
+7.  **Common sense contains hidden cultural assumptions; theory makes
+    assumptions more explicit.**
+8.  **Explanation goes beyond description by proposing causes or
+    mechanisms.**
+9.  **Inference to the best explanation compares alternatives rather
+    than merely finding a story that fits.**
+10. **Most archaeological reasoning is uncertain and inductive.**
+11. **Abduction helps generate new possibilities; it does not by itself
+    confirm them.**
+12. **A strong interpretation identifies what evidence would count
+    against it.**
+13. **Correlation is not explanation; mechanisms connect causes to
+    outcomes.**
+14. **Correspondence and coherence are both necessary for strong
+    explanation.**
+15. **Equifinality requires archaeologists to consider alternative
+    causes.**
+16. **Low-level generalizations establish patterns; middle-level theory
+    explains recurrent mechanisms; high-level theory provides broad
+    frameworks.**
+17. **Binfordian MRT performs a different job: it links material statics
+    to behavioral and formation dynamics.**
+18. **Mertonian/Smithian empirical theory explains recurrent social
+    mechanisms.**
+19. **Actualistic research strengthens linking arguments but does not
+    provide automatic analogies.**
+20. **Strong and weak theory differ in how much conceptual structure
+    they impose in advance.**
+21. **Anomalies can be intellectually productive because recalcitrant
+    evidence can redirect inquiry.**
+22. **Theoretical pluralism does not eliminate theory.**
+23. **Good archaeological interpretation makes its inferential
+    architecture visible and open to criticism.**
+
+# 40. Bringing the Week Together
+
+The whole lecture can be represented as a sequence:
+
+``` text
+MATERIAL TRACES IN THE PRESENT
+             ↓
+FORMATION / LINKING ARGUMENTS
+             ↓
+RECONSTRUCTED PAST ACTIVITIES
+             ↓
+EMPIRICAL SOCIAL EXPLANATION
+             ↓
+BROADER THEORETICAL INTERPRETATION
+             ↕
+NEW EVIDENCE, ALTERNATIVES, CRITICISM, REVISION
+```
+
+This is not a one-way conveyor belt. Archaeologists move repeatedly
+among observations, questions, concepts, hypotheses, methods, and
+explanations.
+
+Theories influence what archaeologists look for, but unexpected evidence
+can redirect theory. Broad frameworks generate questions, but detailed
+empirical work can expose their limitations. Linking arguments make
+traces behaviorally meaningful, while social theory asks why recurrent
+behavioral patterns occurred.
+
+The goal is therefore not to eliminate theory.
+
+It is to make theory **explicit, proportionate to the evidence, open to
+alternatives, and revisable**.
+
+# References
+
+Banning, E. B. (2026). "Introduction: How Archaeologists Figure Things
+Out." In *Archaeological Reasoning*.
+
+Lucas, G., & Witmore, C. (2022). Paradigm lost: What is a commitment to
+theory in contemporary archaeology? *Norwegian Archaeological Review*.
+
+Orser, C. E., Jr. (2015). *Archaeological Thinking: How to Make Sense of
+the Past*. Rowman & Littlefield.
+
+Smith, M. E. (2017). Social science and archaeological enquiry.
+*Antiquity, 91*(356), 520--528.
+
+Trigger, B. G. (2006). "Archaeological Interpretation." In *A History of
+Archaeological Thought* (2nd ed.). Cambridge University Press.
+
+Urban, P., & Schortman, E. (2019). "Explanation, Theory, and the Social
+Sciences." In *Archaeological Theory in Practice*. Routledge.
+
+## Supplementary Sources Used Selectively
+
+Trigger, B. G. (1998). Archaeology and epistemology: Dialoguing across
+the Darwinian chasm. *American Journal of Archaeology, 102*(1), 1--34.
+
+Wylie, A. (2017). From the ground up: Philosophy and archaeology.
+*Proceedings and Addresses of the American Philosophical Association,
+91*, 118--136.
+
+## One-Sentence Summary
+
+**Archaeological interpretation becomes warranted not by removing
+theory, but by making explicit how material traces, linking arguments,
+testable social mechanisms, and broader theoretical frameworks work
+together---and by keeping every stage open to evidential challenge and
+revision.**
